@@ -1,2 +1,2 @@
 # PMS
-Algorithm development of parallel machine scheduling for forming factory of shipyard
+Algorithm development of unrelated parallel machine problem
