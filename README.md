@@ -123,7 +123,7 @@ Followings are the learning parameters configurations for DDQN agent
 
 
 
-### Test reinforcement learning model
+### Testing reinforcement learning model
 
 
 
