@@ -160,22 +160,27 @@ We calculated average value and standard deviation value of mean weighted tardin
 
 + RL
   Average mean weighted tardiness :  2.942651995314415
+  
   Std mean weighted tardiness :  1.560610048825833
 
 + WSPT
   Average mean weighted tardiness :  6.528544785630188
+  
   Std mean weighted tardiness :  2.8002955608404805
 
 + WMDD
   Average mean weighted tardiness :  5.249271505149725
+  
   Std mean weighted tardiness :  1.856463384230094
 
 + ATC
   Average mean weighted tardiness :  4.2719255017658435
+  
   Std mean weighted tardiness :  1.7712813398930556
 
 + WCOVERT
   Average mean weighted tardiness :  7.4883050130327184
+  
   Std mean weighted tardiness :  1.869074944931854
 
   
