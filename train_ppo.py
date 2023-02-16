@@ -16,7 +16,7 @@ if __name__ == "__main__":
     random.seed(42)
     #writer = SummaryWriter()
     cfg = get_cfg()
-    #vessl.init(organization="snu-eng-dgx", project="Quay", hp=cfg)
+    vessl.init(organization="snu-eng-dgx", project="UPMSP", hp=cfg)
 
     lr = cfg.lr
     gamma = cfg.gamma
