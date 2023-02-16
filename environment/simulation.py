@@ -8,11 +8,16 @@ class Job:
         # 해당 job의 이름
         self.name = name
         # 해당 job의 작업시간
+
         self.processing_time = time
         self.job_type = job_type
         self.due_date = due_date
-
         self.completion_time = 0
+        self.arrival_time = None
+        self.past = 0
+        self.sink_just = True
+
+
 
 
 class Source:
@@ -45,7 +50,8 @@ class Source:
             job = self.jobs.pop(0)
             iat = self.iat_list.pop(0)
             yield self.env.timeout(iat)
-
+            job.arrival_time = copy.deepcopy(self.env.now)
+            job.past = copy.deepcopy(self.env.now)
             self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Created", job=job.name)
             self.routing.queue.put(job)
             self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Put in Routing Class", job=job.name,
@@ -120,7 +126,7 @@ class Routing:
         self.idle = False
         self.job = None
 
-        self.mapping = {0: "WSPT", 1: "WMDD", 2: "ATC", 3: "WCOVERT"}
+        #self.mapping = {0: "WSPT", 1: "WMDD", 2: "ATC", 3: "WCOVERT"}
 
     def run(self, location="Source"):
         if location == "Source":  # job -> machine 선택
@@ -138,19 +144,39 @@ class Routing:
                 # routing_rule = self.mapping[routing_rule_number]
 
                 next_machine = None
-                if routing_rule == "WSPT":
-                    next_machine = yield self.env.process(self.WSPT(location=location, idle=machine_idle, job=job))
-                elif routing_rule == "WMDD":
-                    next_machine = yield self.env.process(self.WMDD(location=location, idle=machine_idle, job=job))
-                elif routing_rule == "ATC":
-                    next_machine = yield self.env.process(self.ATC(location=location, idle=machine_idle, job=job))
-                elif routing_rule == "WCOVERT":
-                    next_machine = yield self.env.process(self.WCOVERT(location=location, idle=machine_idle, job=job))
+                if self.action_mode == 'heuristic':
+                    if routing_rule == "WSPT":
+                        next_machine = yield self.env.process(self.WSPT(location=location, idle=machine_idle, job=job))
+                        self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Routing Finish", job=job.name,
+                                            machine="Machine {0}".format(next_machine))
 
-                self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Routing Finish", job=job.name,
-                                    machine="Machine {0}".format(next_machine))
+                        self.process_dict["Machine {0}".format(next_machine)].queue.put(job)
+                    elif routing_rule == "WMDD":
+                        next_machine = yield self.env.process(self.WMDD(location=location, idle=machine_idle, job=job))
+                        self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Routing Finish", job=job.name,
+                                            machine="Machine {0}".format(next_machine))
 
-                self.process_dict["Machine {0}".format(next_machine)].queue.put(job)
+                        self.process_dict["Machine {0}".format(next_machine)].queue.put(job)
+                    elif routing_rule == "ATC{}":
+
+                        next_machine = yield self.env.process(self.ATC(location=location, idle=machine_idle, job=job, h = routing_rule))
+                        self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Routing Finish", job=job.name,
+                                            machine="Machine {0}".format(next_machine))
+
+                        self.process_dict["Machine {0}".format(next_machine)].queue.put(job)
+                    elif routing_rule == "WCOVERT":
+                        next_machine = yield self.env.process(self.WCOVERT(location=location, idle=machine_idle, job=job))
+                        self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Routing Finish", job=job.name,
+                                            machine="Machine {0}".format(next_machine))
+
+                        self.process_dict["Machine {0}".format(next_machine)].queue.put(job)
+
+                if self.action_mode == 'WCOVERT':
+                    next_machine = yield self.env.process(self.WCOVERT(location=location, idle=machine_idle, job=job, k_t = routing_rule))
+                    self.monitor.record(time=self.env.now, jobtype=job.job_type, event="Routing Finish", job=job.name,
+                                        machine="Machine {0}".format(next_machine))
+
+                    self.process_dict["Machine {0}".format(next_machine)].queue.put(job)
 
         else:  # machine -> job 선택
             if len(self.queue.items) > 0:
@@ -163,14 +189,17 @@ class Routing:
 
                 self.monitor.record(time=self.env.now, event="Routing Start", machine=location, memo="{0} Job 선택".format(routing_rule))
                 next_job = None
-                if routing_rule == "WSPT":
-                    next_job = yield self.env.process(self.WSPT(location=location))
-                elif routing_rule == "WMDD":
-                    next_job = yield self.env.process(self.WMDD(location=location))
-                elif routing_rule == "ATC":
-                    next_job = yield self.env.process(self.ATC(location=location))
-                elif routing_rule == "WCOVERT":
-                    next_job = yield self.env.process(self.WCOVERT(location=location))
+                if self.action_mode == 'heuristic':
+                    if routing_rule == "WSPT":
+                        next_job = yield self.env.process(self.WSPT(location=location))
+                    elif routing_rule == "WMDD":
+                        next_job = yield self.env.process(self.WMDD(location=location))
+                    elif routing_rule == "ATC":
+                          next_job = yield self.env.process(self.ATC(location=location, h = routing_rule))
+                    elif routing_rule == "WCOVERT":
+                        next_job = yield self.env.process(self.WCOVERT(location=location))
+                if self.action_mode == 'WCOVERT':
+                    next_job = yield self.env.process(self.WCOVERT(location=location, k_t = routing_rule))
 
                 self.monitor.record(time=self.env.now, jobtype=next_job.job_type, event="Routing Finish",
                                     job=next_job.name, machine=location)
@@ -241,8 +270,9 @@ class Routing:
 
             return next_job
 
-    def ATC(self, location="Source", idle=None, job=None):
-        h = 14.0
+    def ATC(self, location="Source", idle=None, job=None, h = 0):
+        #h = 14.5
+
         if location == "Source":  # job -> machine 선택 => output : machine index
             max_wa = -1
             max_machine_idx = None
@@ -289,14 +319,15 @@ class Routing:
                     temp.append(job_q.name)
 
             if max_job_name is None:
+
                 max_job_name = random.choice(temp)
 
             next_job = yield self.queue.get(lambda x: x.name == max_job_name)
 
             return next_job
 
-    def WCOVERT(self, location="Source", idle=None, job=None):
-        k_t = 14.0
+    def WCOVERT(self, location="Source", idle=None, job=None, k_t = 0):
+
         if location == "Source":  # job -> machine 선택 => output : machine index
             max_wt = -1
             max_machine_idx = None
@@ -349,6 +380,10 @@ class Sink:
         self.finished_job = 0
 
         self.job_list = list()
+        ######### for state feature 9 #####################
+        self.tardiness_jt = {}
+        self.tardiness_jt_cnt = {}
+        ###################################################
 
     def put(self, job):
         self.finished["JobType {0}".format(job.job_type)] += 1  # jobtype 별 종료 개수
@@ -364,7 +399,14 @@ class Sink:
         self.job_list.append(job)
 
         self.monitor.tardiness += self.weight[job.job_type] * min(0, job.due_date - self.env.now)
-
+        ####################### for state feature 9 ################################
+        # if job.job_type not in list(self.tardiness_jt.keys()):
+        #     self.tardiness_jt[job.job_type] = min(0, job.due_date - self.env.now)
+        #     self.tardiness_jt_cnt[job.job_type] = 1
+        # else:
+        #     self.tardiness_jt[job.job_type] += min(0, job.due_date - self.env.now)
+        #     self.tardiness_jt_cnt[job.job_type] += 1
+        #############################################################################
 
 class Monitor:
     def __init__(self, filepath):
@@ -378,7 +420,7 @@ class Monitor:
 
         self.filepath = filepath
 
-        self.tardiness = 0
+        self.tardiness = None
 
     def record(self, time=None, jobtype=None, event=None, job=None, machine=None, queue=None, memo=None):
         self.time.append(round(time, 2))
