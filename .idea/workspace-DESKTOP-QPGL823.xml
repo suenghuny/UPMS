@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e4ac156-aee1-4185-bd36-8efefc85e145" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/UPMSP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/agent/ddqn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/agent/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/environment/Parallel_Machine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/environment/RL_SimComponent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/environment/data/forming_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/environment/data/forming_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/model/ddqn/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/model/ddqn/queue-5.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/model/ddqn/queue-5.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/single_parallel_machine_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021 Ver. (송준호)/summary/ddqn/queue-5/events.out.tfevents.1627571440.DESKTOP-NK6PG73.44452.5.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022 결과 모델 파일/Case 1/episode30300.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022 결과 모델 파일/Case 2/episode12800.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/agent/dqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/ppo.py" beforeDir="false" afterPath="$PROJECT_DIR$/agent/ppo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/test_dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/agent/test_dqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/train_dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/agent/train_dqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/train_ppo.py" beforeDir="false" afterPath="$PROJECT_DIR$/agent/train_ppo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/validation_set.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/validation_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/validation_set2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/environment/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment/env2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/environment/simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment/test_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment/test_simulation.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LMCbGwPHDWmKdkYUjKIH1e3YCv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../(과제) 소티 생성율 산출/(230214)srt_code" />
+  </component>
+  <component name="RunManager" selected="Python.train_ppo">
+    <configuration name="test_dqn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UPJS_rev_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/agent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agent/test_dqn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_dqn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UPJS_rev_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/agent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agent/train_dqn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_ppo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UPJS_rev_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/agent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agent/train_ppo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_ppo" />
+        <item itemvalue="Python.test_dqn" />
+        <item itemvalue="Python.train_dqn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="9e4ac156-aee1-4185-bd36-8efefc85e145" name="변경" comment="" />
+      <created>1675671634120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675671634120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/environment/env.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

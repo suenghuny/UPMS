@@ -1,0 +1,3993 @@
+﻿,Time,JobType,Event,Job,Machine,Queue,Memo
+0,1.1,8.0,Created,Job 8-12,,,
+1,1.1,8.0,Put in Routing Class,Job 8-12,,1.0,
+2,1.1,8.0,Routing Start,Job 8-12,,,"3.675,  machine 선택"
+3,1.1,8.0,Routing Finish,Job 8-12,Machine 2,,
+4,1.1,8.0,Work Start,Job 8-12,Machine 2,,
+5,1.49,3.0,Created,Job 3-2,,,
+6,1.49,3.0,Put in Routing Class,Job 3-2,,1.0,
+7,1.49,3.0,Routing Start,Job 3-2,,,"3.675,  machine 선택"
+8,1.49,3.0,Routing Finish,Job 3-2,Machine 4,,
+9,1.49,3.0,Work Start,Job 3-2,Machine 4,,
+10,1.85,2.0,Created,Job 2-6,,,
+11,1.85,2.0,Put in Routing Class,Job 2-6,,1.0,
+12,1.85,2.0,Routing Start,Job 2-6,,,"3.675,  machine 선택"
+13,1.85,2.0,Routing Finish,Job 2-6,Machine 3,,
+14,1.85,2.0,Work Start,Job 2-6,Machine 3,,
+15,1.86,0.0,Created,Job 0-15,,,
+16,1.86,0.0,Put in Routing Class,Job 0-15,,1.0,
+17,1.86,0.0,Routing Start,Job 0-15,,,"3.675,  machine 선택"
+18,1.86,0.0,Routing Finish,Job 0-15,Machine 1,,
+19,1.86,0.0,Work Start,Job 0-15,Machine 1,,
+20,2.04,9.0,Created,Job 9-8,,,
+21,2.04,9.0,Put in Routing Class,Job 9-8,,1.0,
+22,2.04,9.0,Routing Start,Job 9-8,,,"3.675,  machine 선택"
+23,2.04,9.0,Routing Finish,Job 9-8,Machine 0,,
+24,2.04,9.0,Work Start,Job 9-8,Machine 0,,
+25,2.23,1.0,Created,Job 1-0,,,
+26,2.23,1.0,Put in Routing Class,Job 1-0,,1.0,
+27,2.23,1.0,Routing Start,Job 1-0,,,"3.675,  machine 선택"
+28,2.23,1.0,Routing Finish,Job 1-0,Machine 7,,
+29,2.23,1.0,Work Start,Job 1-0,Machine 7,,
+30,2.39,8.0,Created,Job 8-21,,,
+31,2.39,8.0,Put in Routing Class,Job 8-21,,1.0,
+32,2.39,8.0,Routing Start,Job 8-21,,,"3.675,  machine 선택"
+33,2.39,8.0,Routing Finish,Job 8-21,Machine 6,,
+34,2.39,8.0,Work Start,Job 8-21,Machine 6,,
+35,2.42,7.0,Created,Job 7-4,,,
+36,2.42,7.0,Put in Routing Class,Job 7-4,,1.0,
+37,2.42,7.0,Routing Start,Job 7-4,,,"3.675,  machine 선택"
+38,2.42,7.0,Routing Finish,Job 7-4,Machine 5,,
+39,2.42,7.0,Work Start,Job 7-4,Machine 5,,
+40,3.09,9.0,Created,Job 9-18,,,
+41,3.09,9.0,Put in Routing Class,Job 9-18,,1.0,
+42,3.13,4.0,Created,Job 4-3,,,
+43,3.13,4.0,Put in Routing Class,Job 4-3,,2.0,
+44,3.25,1.0,Created,Job 1-5,,,
+45,3.25,1.0,Put in Routing Class,Job 1-5,,3.0,
+46,3.45,8.0,Created,Job 8-32,,,
+47,3.45,8.0,Put in Routing Class,Job 8-32,,4.0,
+48,3.5,0.0,Created,Job 0-27,,,
+49,3.5,0.0,Put in Routing Class,Job 0-27,,5.0,
+50,3.7,7.0,Created,Job 7-13,,,
+51,3.7,7.0,Put in Routing Class,Job 7-13,,6.0,
+52,4.18,2.0,Created,Job 2-11,,,
+53,4.18,2.0,Put in Routing Class,Job 2-11,,7.0,
+54,4.38,3.0,Work Finish,Job 3-2,Machine 4,,
+55,4.38,3.0,Completed,Job 3-2,,,0
+56,4.38,,Request Routing for Job,,Machine 4,7.0,
+57,4.38,,Routing Start,,Machine 4,,3.675 Job 선택
+58,4.38,0.0,Routing Finish,Job 0-27,Machine 4,,
+59,4.38,0.0,Work Start,Job 0-27,Machine 4,,
+60,4.46,8.0,Created,Job 8-34,,,
+61,4.46,8.0,Put in Routing Class,Job 8-34,,7.0,
+62,4.49,4.0,Created,Job 4-7,,,
+63,4.49,4.0,Put in Routing Class,Job 4-7,,8.0,
+64,4.68,5.0,Created,Job 5-14,,,
+65,4.68,5.0,Put in Routing Class,Job 5-14,,9.0,
+66,4.85,8.0,Work Finish,Job 8-12,Machine 2,,
+67,4.85,8.0,Completed,Job 8-12,,,0
+68,4.85,,Request Routing for Job,,Machine 2,9.0,
+69,4.85,,Routing Start,,Machine 2,,3.675 Job 선택
+70,4.85,1.0,Routing Finish,Job 1-5,Machine 2,,
+71,4.85,1.0,Work Start,Job 1-5,Machine 2,,
+72,4.89,0.0,Created,Job 0-28,,,
+73,4.89,0.0,Put in Routing Class,Job 0-28,,9.0,
+74,4.99,3.0,Created,Job 3-9,,,
+75,4.99,3.0,Put in Routing Class,Job 3-9,,10.0,
+76,5.12,1.0,Created,Job 1-49,,,
+77,5.12,1.0,Put in Routing Class,Job 1-49,,11.0,
+78,5.15,9.0,Created,Job 9-30,,,
+79,5.15,9.0,Put in Routing Class,Job 9-30,,12.0,
+80,5.32,1.0,Work Finish,Job 1-0,Machine 7,,
+81,5.32,1.0,Completed,Job 1-0,,,0
+82,5.32,,Request Routing for Job,,Machine 7,12.0,
+83,5.32,,Routing Start,,Machine 7,,3.675 Job 선택
+84,5.32,0.0,Routing Finish,Job 0-28,Machine 7,,
+85,5.32,0.0,Work Start,Job 0-28,Machine 7,,
+86,5.53,6.0,Created,Job 6-1,,,
+87,5.53,6.0,Put in Routing Class,Job 6-1,,12.0,
+88,5.62,8.0,Created,Job 8-36,,,
+89,5.62,8.0,Put in Routing Class,Job 8-36,,13.0,
+90,5.68,4.0,Created,Job 4-10,,,
+91,5.68,4.0,Put in Routing Class,Job 4-10,,14.0,
+92,5.75,0.0,Work Finish,Job 0-27,Machine 4,,
+93,5.75,0.0,Completed,Job 0-27,,,0
+94,5.75,,Request Routing for Job,,Machine 4,14.0,
+95,5.75,,Routing Start,,Machine 4,,3.675 Job 선택
+96,5.75,2.0,Routing Finish,Job 2-11,Machine 4,,
+97,5.75,2.0,Work Start,Job 2-11,Machine 4,,
+98,5.99,3.0,Created,Job 3-16,,,
+99,5.99,3.0,Put in Routing Class,Job 3-16,,14.0,
+100,6.08,2.0,Created,Job 2-23,,,
+101,6.08,2.0,Put in Routing Class,Job 2-23,,15.0,
+102,6.81,0.0,Work Finish,Job 0-15,Machine 1,,
+103,6.81,0.0,Completed,Job 0-15,,,0
+104,6.81,,Request Routing for Job,,Machine 1,15.0,
+105,6.81,,Routing Start,,Machine 1,,3.675 Job 선택
+106,6.81,5.0,Routing Finish,Job 5-14,Machine 1,,
+107,6.81,5.0,Work Start,Job 5-14,Machine 1,,
+108,7.04,9.0,Created,Job 9-35,,,
+109,7.04,9.0,Put in Routing Class,Job 9-35,,15.0,
+110,7.13,1.0,Created,Job 1-56,,,
+111,7.13,1.0,Put in Routing Class,Job 1-56,,16.0,
+112,7.14,0.0,Created,Job 0-45,,,
+113,7.14,0.0,Put in Routing Class,Job 0-45,,17.0,
+114,7.35,5.0,Created,Job 5-24,,,
+115,7.35,5.0,Put in Routing Class,Job 5-24,,18.0,
+116,7.35,4.0,Created,Job 4-19,,,
+117,7.35,4.0,Put in Routing Class,Job 4-19,,19.0,
+118,7.39,9.0,Work Finish,Job 9-8,Machine 0,,
+119,7.39,9.0,Completed,Job 9-8,,,0
+120,7.39,,Request Routing for Job,,Machine 0,19.0,
+121,7.39,,Routing Start,,Machine 0,,3.675 Job 선택
+122,7.39,5.0,Routing Finish,Job 5-24,Machine 0,,
+123,7.39,5.0,Work Start,Job 5-24,Machine 0,,
+124,7.51,2.0,Created,Job 2-39,,,
+125,7.51,2.0,Put in Routing Class,Job 2-39,,19.0,
+126,7.78,3.0,Created,Job 3-20,,,
+127,7.78,3.0,Put in Routing Class,Job 3-20,,20.0,
+128,8.29,0.0,Work Finish,Job 0-28,Machine 7,,
+129,8.29,0.0,Completed,Job 0-28,,,0
+130,8.29,,Request Routing for Job,,Machine 7,20.0,
+131,8.29,,Routing Start,,Machine 7,,3.675 Job 선택
+132,8.29,0.0,Routing Finish,Job 0-45,Machine 7,,
+133,8.29,0.0,Work Start,Job 0-45,Machine 7,,
+134,8.29,7.0,Created,Job 7-22,,,
+135,8.29,7.0,Put in Routing Class,Job 7-22,,20.0,
+136,8.34,1.0,Created,Job 1-66,,,
+137,8.34,1.0,Put in Routing Class,Job 1-66,,21.0,
+138,8.38,0.0,Created,Job 0-47,,,
+139,8.38,0.0,Put in Routing Class,Job 0-47,,22.0,
+140,8.41,4.0,Created,Job 4-41,,,
+141,8.41,4.0,Put in Routing Class,Job 4-41,,23.0,
+142,8.67,5.0,Created,Job 5-29,,,
+143,8.67,5.0,Put in Routing Class,Job 5-29,,24.0,
+144,9.0,3.0,Created,Job 3-25,,,
+145,9.0,3.0,Put in Routing Class,Job 3-25,,25.0,
+146,9.1,1.0,Work Finish,Job 1-5,Machine 2,,
+147,9.1,1.0,Completed,Job 1-5,,,0
+148,9.1,,Request Routing for Job,,Machine 2,25.0,
+149,9.1,,Routing Start,,Machine 2,,3.675 Job 선택
+150,9.1,8.0,Routing Finish,Job 8-32,Machine 2,,
+151,9.1,8.0,Work Start,Job 8-32,Machine 2,,
+152,9.28,9.0,Created,Job 9-43,,,
+153,9.28,9.0,Put in Routing Class,Job 9-43,,25.0,
+154,9.31,2.0,Work Finish,Job 2-11,Machine 4,,
+155,9.31,2.0,Completed,Job 2-11,,,0
+156,9.31,,Request Routing for Job,,Machine 4,25.0,
+157,9.31,,Routing Start,,Machine 4,,3.675 Job 선택
+158,9.31,0.0,Routing Finish,Job 0-47,Machine 4,,
+159,9.31,0.0,Work Start,Job 0-47,Machine 4,,
+160,9.44,2.0,Created,Job 2-40,,,
+161,9.44,2.0,Put in Routing Class,Job 2-40,,25.0,
+162,9.47,7.0,Created,Job 7-37,,,
+163,9.47,7.0,Put in Routing Class,Job 7-37,,26.0,
+164,9.48,0.0,Created,Job 0-59,,,
+165,9.48,0.0,Put in Routing Class,Job 0-59,,27.0,
+166,9.53,8.0,Created,Job 8-64,,,
+167,9.53,8.0,Put in Routing Class,Job 8-64,,28.0,
+168,9.56,1.0,Created,Job 1-68,,,
+169,9.56,1.0,Put in Routing Class,Job 1-68,,29.0,
+170,9.76,6.0,Created,Job 6-17,,,
+171,9.76,6.0,Put in Routing Class,Job 6-17,,30.0,
+172,9.96,2.0,Work Finish,Job 2-6,Machine 3,,
+173,9.96,2.0,Completed,Job 2-6,,,0
+174,9.96,,Request Routing for Job,,Machine 3,30.0,
+175,9.96,,Routing Start,,Machine 3,,3.675 Job 선택
+176,9.96,4.0,Routing Finish,Job 4-3,Machine 3,,
+177,9.96,4.0,Work Start,Job 4-3,Machine 3,,
+178,10.14,5.0,Created,Job 5-51,,,
+179,10.14,5.0,Put in Routing Class,Job 5-51,,30.0,
+180,10.5,0.0,Created,Job 0-71,,,
+181,10.5,0.0,Put in Routing Class,Job 0-71,,31.0,
+182,10.58,5.0,Work Finish,Job 5-24,Machine 0,,
+183,10.58,5.0,Completed,Job 5-24,,,0
+184,10.58,,Request Routing for Job,,Machine 0,31.0,
+185,10.58,,Routing Start,,Machine 0,,3.675 Job 선택
+186,10.58,5.0,Routing Finish,Job 5-29,Machine 0,,
+187,10.58,5.0,Work Start,Job 5-29,Machine 0,,
+188,10.68,0.0,Work Finish,Job 0-47,Machine 4,,
+189,10.68,0.0,Completed,Job 0-47,,,0
+190,10.68,,Request Routing for Job,,Machine 4,30.0,
+191,10.68,,Routing Start,,Machine 4,,3.675 Job 선택
+192,10.68,0.0,Routing Finish,Job 0-59,Machine 4,,
+193,10.68,0.0,Work Start,Job 0-59,Machine 4,,
+194,10.72,2.0,Created,Job 2-67,,,
+195,10.72,2.0,Put in Routing Class,Job 2-67,,30.0,
+196,10.79,8.0,Created,Job 8-69,,,
+197,10.79,8.0,Put in Routing Class,Job 8-69,,31.0,
+198,10.86,1.0,Created,Job 1-84,,,
+199,10.86,1.0,Put in Routing Class,Job 1-84,,32.0,
+200,10.87,4.0,Created,Job 4-50,,,
+201,10.87,4.0,Put in Routing Class,Job 4-50,,33.0,
+202,11.21,8.0,Work Finish,Job 8-21,Machine 6,,
+203,11.21,8.0,Completed,Job 8-21,,,0
+204,11.21,,Request Routing for Job,,Machine 6,33.0,
+205,11.21,,Routing Start,,Machine 6,,3.675 Job 선택
+206,11.21,5.0,Routing Finish,Job 5-51,Machine 6,,
+207,11.21,5.0,Work Start,Job 5-51,Machine 6,,
+208,11.25,0.0,Work Finish,Job 0-45,Machine 7,,
+209,11.25,0.0,Completed,Job 0-45,,,0
+210,11.25,,Request Routing for Job,,Machine 7,32.0,
+211,11.25,,Routing Start,,Machine 7,,3.675 Job 선택
+212,11.25,4.0,Routing Finish,Job 4-7,Machine 7,,
+213,11.25,4.0,Work Start,Job 4-7,Machine 7,,
+214,11.34,5.0,Created,Job 5-61,,,
+215,11.34,5.0,Put in Routing Class,Job 5-61,,32.0,
+216,11.53,6.0,Created,Job 6-26,,,
+217,11.53,6.0,Put in Routing Class,Job 6-26,,33.0,
+218,11.69,3.0,Created,Job 3-48,,,
+219,11.69,3.0,Put in Routing Class,Job 3-48,,34.0,
+220,11.83,0.0,Created,Job 0-89,,,
+221,11.83,0.0,Put in Routing Class,Job 0-89,,35.0,
+222,12.05,0.0,Work Finish,Job 0-59,Machine 4,,
+223,12.05,0.0,Completed,Job 0-59,,,0
+224,12.05,,Request Routing for Job,,Machine 4,35.0,
+225,12.05,,Routing Start,,Machine 4,,3.675 Job 선택
+226,12.05,0.0,Routing Finish,Job 0-71,Machine 4,,
+227,12.05,0.0,Work Start,Job 0-71,Machine 4,,
+228,12.31,2.0,Created,Job 2-72,,,
+229,12.31,2.0,Put in Routing Class,Job 2-72,,35.0,
+230,12.55,4.0,Work Finish,Job 4-7,Machine 7,,
+231,12.55,4.0,Completed,Job 4-7,,,0
+232,12.55,,Request Routing for Job,,Machine 7,35.0,
+233,12.55,,Routing Start,,Machine 7,,3.675 Job 선택
+234,12.55,4.0,Routing Finish,Job 4-10,Machine 7,,
+235,12.55,4.0,Work Start,Job 4-10,Machine 7,,
+236,12.56,5.0,Work Finish,Job 5-14,Machine 1,,
+237,12.56,5.0,Completed,Job 5-14,,,0
+238,12.56,,Request Routing for Job,,Machine 1,34.0,
+239,12.56,,Routing Start,,Machine 1,,3.675 Job 선택
+240,12.56,8.0,Routing Finish,Job 8-34,Machine 1,,
+241,12.56,8.0,Work Start,Job 8-34,Machine 1,,
+242,12.57,4.0,Work Finish,Job 4-3,Machine 3,,
+243,12.57,4.0,Completed,Job 4-3,,,0
+244,12.57,,Request Routing for Job,,Machine 3,33.0,
+245,12.57,,Routing Start,,Machine 3,,3.675 Job 선택
+246,12.57,7.0,Routing Finish,Job 7-13,Machine 3,,
+247,12.57,7.0,Work Start,Job 7-13,Machine 3,,
+248,12.65,4.0,Created,Job 4-65,,,
+249,12.65,4.0,Put in Routing Class,Job 4-65,,33.0,
+250,12.73,3.0,Created,Job 3-52,,,
+251,12.73,3.0,Put in Routing Class,Job 3-52,,34.0,
+252,12.85,8.0,Work Finish,Job 8-32,Machine 2,,
+253,12.85,8.0,Completed,Job 8-32,,,0
+254,12.85,,Request Routing for Job,,Machine 2,34.0,
+255,12.85,,Routing Start,,Machine 2,,3.675 Job 선택
+256,12.85,8.0,Routing Finish,Job 8-36,Machine 2,,
+257,12.85,8.0,Work Start,Job 8-36,Machine 2,,
+258,13.33,0.0,Created,Job 0-90,,,
+259,13.33,0.0,Put in Routing Class,Job 0-90,,34.0,
+260,13.37,1.0,Created,Job 1-85,,,
+261,13.37,1.0,Put in Routing Class,Job 1-85,,35.0,
+262,13.4,9.0,Created,Job 9-91,,,
+263,13.4,9.0,Put in Routing Class,Job 9-91,,36.0,
+264,13.42,0.0,Work Finish,Job 0-71,Machine 4,,
+265,13.42,0.0,Completed,Job 0-71,,,0
+266,13.42,,Request Routing for Job,,Machine 4,36.0,
+267,13.42,,Routing Start,,Machine 4,,3.675 Job 선택
+268,13.42,0.0,Routing Finish,Job 0-89,Machine 4,,
+269,13.42,0.0,Work Start,Job 0-89,Machine 4,,
+270,13.62,2.0,Created,Job 2-76,,,
+271,13.62,2.0,Put in Routing Class,Job 2-76,,36.0,
+272,13.72,7.0,Created,Job 7-46,,,
+273,13.72,7.0,Put in Routing Class,Job 7-46,,37.0,
+274,13.77,5.0,Work Finish,Job 5-29,Machine 0,,
+275,13.77,5.0,Completed,Job 5-29,,,0
+276,13.77,,Request Routing for Job,,Machine 0,37.0,
+277,13.77,,Routing Start,,Machine 0,,3.675 Job 선택
+278,13.77,5.0,Routing Finish,Job 5-61,Machine 0,,
+279,13.77,5.0,Work Start,Job 5-61,Machine 0,,
+280,13.84,4.0,Work Finish,Job 4-10,Machine 7,,
+281,13.84,4.0,Completed,Job 4-10,,,0
+282,13.84,,Request Routing for Job,,Machine 7,36.0,
+283,13.84,,Routing Start,,Machine 7,,3.675 Job 선택
+284,13.84,4.0,Routing Finish,Job 4-19,Machine 7,,
+285,13.84,4.0,Work Start,Job 4-19,Machine 7,,
+286,14.37,4.0,Created,Job 4-75,,,
+287,14.37,4.0,Put in Routing Class,Job 4-75,,36.0,
+288,14.74,2.0,Created,Job 2-80,,,
+289,14.74,2.0,Put in Routing Class,Job 2-80,,37.0,
+290,14.79,0.0,Work Finish,Job 0-89,Machine 4,,
+291,14.79,0.0,Completed,Job 0-89,,,0
+292,14.79,,Request Routing for Job,,Machine 4,37.0,
+293,14.79,,Routing Start,,Machine 4,,3.675 Job 선택
+294,14.79,0.0,Routing Finish,Job 0-90,Machine 4,,
+295,14.79,0.0,Work Start,Job 0-90,Machine 4,,
+296,15.08,7.0,Created,Job 7-62,,,
+297,15.08,7.0,Put in Routing Class,Job 7-62,,37.0,
+298,15.14,4.0,Work Finish,Job 4-19,Machine 7,,
+299,15.14,4.0,Completed,Job 4-19,,,0
+300,15.14,,Request Routing for Job,,Machine 7,37.0,
+301,15.14,,Routing Start,,Machine 7,,3.675 Job 선택
+302,15.14,4.0,Routing Finish,Job 4-41,Machine 7,,
+303,15.14,4.0,Work Start,Job 4-41,Machine 7,,
+304,15.21,0.0,Created,Job 0-95,,,
+305,15.21,0.0,Put in Routing Class,Job 0-95,,37.0,
+306,15.42,1.0,Created,Job 1-97,,,
+307,15.42,1.0,Put in Routing Class,Job 1-97,,38.0,
+308,15.71,4.0,Created,Job 4-78,,,
+309,15.71,4.0,Put in Routing Class,Job 4-78,,39.0,
+310,15.8,6.0,Created,Job 6-31,,,
+311,15.8,6.0,Put in Routing Class,Job 6-31,,40.0,
+312,15.85,7.0,Work Finish,Job 7-4,Machine 5,,
+313,15.85,7.0,Completed,Job 7-4,,,1.0068214182063695
+314,15.85,,Request Routing for Job,,Machine 5,40.0,
+315,15.85,,Routing Start,,Machine 5,,3.675 Job 선택
+316,15.85,0.0,Routing Finish,Job 0-95,Machine 5,,
+317,15.85,0.0,Work Start,Job 0-95,Machine 5,,
+318,16.1,3.0,Created,Job 3-53,,,
+319,16.1,3.0,Put in Routing Class,Job 3-53,,40.0,
+320,16.11,2.0,Created,Job 2-120,,,
+321,16.11,2.0,Put in Routing Class,Job 2-120,,41.0,
+322,16.14,8.0,Work Finish,Job 8-34,Machine 1,,
+323,16.14,8.0,Completed,Job 8-34,,,0
+324,16.14,,Request Routing for Job,,Machine 1,41.0,
+325,16.14,,Routing Start,,Machine 1,,3.675 Job 선택
+326,16.14,8.0,Routing Finish,Job 8-64,Machine 1,,
+327,16.14,8.0,Work Start,Job 8-64,Machine 1,,
+328,16.16,0.0,Work Finish,Job 0-90,Machine 4,,
+329,16.16,0.0,Completed,Job 0-90,,,0
+330,16.16,,Request Routing for Job,,Machine 4,40.0,
+331,16.16,,Routing Start,,Machine 4,,3.675 Job 선택
+332,16.16,2.0,Routing Finish,Job 2-23,Machine 4,,
+333,16.16,2.0,Work Start,Job 2-23,Machine 4,,
+334,16.21,7.0,Created,Job 7-63,,,
+335,16.21,7.0,Put in Routing Class,Job 7-63,,40.0,
+336,16.35,8.0,Created,Job 8-92,,,
+337,16.35,8.0,Put in Routing Class,Job 8-92,,41.0,
+338,16.43,4.0,Work Finish,Job 4-41,Machine 7,,
+339,16.43,4.0,Completed,Job 4-41,,,0
+340,16.43,,Request Routing for Job,,Machine 7,41.0,
+341,16.43,,Routing Start,,Machine 7,,3.675 Job 선택
+342,16.43,1.0,Routing Finish,Job 1-49,Machine 7,,
+343,16.43,1.0,Work Start,Job 1-49,Machine 7,,
+344,16.54,0.0,Created,Job 0-99,,,
+345,16.54,0.0,Put in Routing Class,Job 0-99,,41.0,
+346,16.61,8.0,Work Finish,Job 8-36,Machine 2,,
+347,16.61,8.0,Completed,Job 8-36,,,0
+348,16.61,,Request Routing for Job,,Machine 2,41.0,
+349,16.61,,Routing Start,,Machine 2,,3.675 Job 선택
+350,16.61,1.0,Routing Finish,Job 1-56,Machine 2,,
+351,16.61,1.0,Work Start,Job 1-56,Machine 2,,
+352,16.93,5.0,Created,Job 5-70,,,
+353,16.93,5.0,Put in Routing Class,Job 5-70,,41.0,
+354,16.95,5.0,Work Finish,Job 5-61,Machine 0,,
+355,16.95,5.0,Completed,Job 5-61,,,0
+356,16.95,,Request Routing for Job,,Machine 0,41.0,
+357,16.95,,Routing Start,,Machine 0,,3.675 Job 선택
+358,16.95,5.0,Routing Finish,Job 5-70,Machine 0,,
+359,16.95,5.0,Work Start,Job 5-70,Machine 0,,
+360,16.96,9.0,Created,Job 9-94,,,
+361,16.96,9.0,Put in Routing Class,Job 9-94,,41.0,
+362,17.32,6.0,Created,Job 6-33,,,
+363,17.32,6.0,Put in Routing Class,Job 6-33,,42.0,
+364,17.42,7.0,Work Finish,Job 7-13,Machine 3,,
+365,17.42,7.0,Completed,Job 7-13,,,1.2962830835957462
+366,17.42,,Request Routing for Job,,Machine 3,42.0,
+367,17.42,,Routing Start,,Machine 3,,3.675 Job 선택
+368,17.42,4.0,Routing Finish,Job 4-50,Machine 3,,
+369,17.42,4.0,Work Start,Job 4-50,Machine 3,,
+370,17.66,5.0,Work Finish,Job 5-51,Machine 6,,
+371,17.66,5.0,Completed,Job 5-51,,,0
+372,17.66,,Request Routing for Job,,Machine 6,41.0,
+373,17.66,,Routing Start,,Machine 6,,3.675 Job 선택
+374,17.66,3.0,Routing Finish,Job 3-9,Machine 6,,
+375,17.66,3.0,Work Start,Job 3-9,Machine 6,,
+376,18.37,8.0,Created,Job 8-101,,,
+377,18.37,8.0,Put in Routing Class,Job 8-101,,41.0,
+378,18.56,6.0,Created,Job 6-38,,,
+379,18.56,6.0,Put in Routing Class,Job 6-38,,42.0,
+380,18.7,3.0,Work Finish,Job 3-9,Machine 6,,
+381,18.7,3.0,Completed,Job 3-9,,,6.063536887454568
+382,18.7,,Request Routing for Job,,Machine 6,42.0,
+383,18.7,,Routing Start,,Machine 6,,3.675 Job 선택
+384,18.7,3.0,Routing Finish,Job 3-16,Machine 6,,
+385,18.7,3.0,Work Start,Job 3-16,Machine 6,,
+386,18.71,5.0,Created,Job 5-79,,,
+387,18.71,5.0,Put in Routing Class,Job 5-79,,42.0,
+388,18.93,1.0,Created,Job 1-98,,,
+389,18.93,1.0,Put in Routing Class,Job 1-98,,43.0,
+390,19.52,1.0,Work Finish,Job 1-49,Machine 7,,
+391,19.52,1.0,Completed,Job 1-49,,,5.369408459573503
+392,19.52,,Request Routing for Job,,Machine 7,43.0,
+393,19.52,,Routing Start,,Machine 7,,3.675 Job 선택
+394,19.52,4.0,Routing Finish,Job 4-65,Machine 7,,
+395,19.52,4.0,Work Start,Job 4-65,Machine 7,,
+396,19.53,7.0,Created,Job 7-83,,,
+397,19.53,7.0,Put in Routing Class,Job 7-83,,43.0,
+398,19.53,3.0,Created,Job 3-55,,,
+399,19.53,3.0,Put in Routing Class,Job 3-55,,44.0,
+400,19.62,8.0,Created,Job 8-121,,,
+401,19.62,8.0,Put in Routing Class,Job 8-121,,45.0,
+402,19.69,2.0,Created,Job 2-122,,,
+403,19.69,2.0,Put in Routing Class,Job 2-122,,46.0,
+404,19.71,8.0,Work Finish,Job 8-64,Machine 1,,
+405,19.71,8.0,Completed,Job 8-64,,,0
+406,19.71,,Request Routing for Job,,Machine 1,46.0,
+407,19.71,,Routing Start,,Machine 1,,3.675 Job 선택
+408,19.71,8.0,Routing Finish,Job 8-69,Machine 1,,
+409,19.71,8.0,Work Start,Job 8-69,Machine 1,,
+410,19.72,2.0,Work Finish,Job 2-23,Machine 4,,
+411,19.72,2.0,Completed,Job 2-23,,,2.452021698428208
+412,19.72,,Request Routing for Job,,Machine 4,45.0,
+413,19.72,,Routing Start,,Machine 4,,3.675 Job 선택
+414,19.72,0.0,Routing Finish,Job 0-99,Machine 4,,
+415,19.72,0.0,Work Start,Job 0-99,Machine 4,,
+416,19.73,3.0,Work Finish,Job 3-16,Machine 6,,
+417,19.73,3.0,Completed,Job 3-16,,,6.0902801774700706
+418,19.73,,Request Routing for Job,,Machine 6,44.0,
+419,19.73,,Routing Start,,Machine 6,,3.675 Job 선택
+420,19.73,5.0,Routing Finish,Job 5-79,Machine 6,,
+421,19.73,5.0,Work Start,Job 5-79,Machine 6,,
+422,19.8,6.0,Created,Job 6-42,,,
+423,19.8,6.0,Put in Routing Class,Job 6-42,,44.0,
+424,19.97,4.0,Created,Job 4-88,,,
+425,19.97,4.0,Put in Routing Class,Job 4-88,,45.0,
+426,20.03,4.0,Work Finish,Job 4-50,Machine 3,,
+427,20.03,4.0,Completed,Job 4-50,,,0
+428,20.03,,Request Routing for Job,,Machine 3,45.0,
+429,20.03,,Routing Start,,Machine 3,,3.675 Job 선택
+430,20.03,7.0,Routing Finish,Job 7-22,Machine 3,,
+431,20.03,7.0,Work Start,Job 7-22,Machine 3,,
+432,20.14,5.0,Work Finish,Job 5-70,Machine 0,,
+433,20.14,5.0,Completed,Job 5-70,,,0
+434,20.14,,Request Routing for Job,,Machine 0,44.0,
+435,20.14,,Routing Start,,Machine 0,,3.675 Job 선택
+436,20.14,7.0,Routing Finish,Job 7-37,Machine 0,,
+437,20.14,7.0,Work Start,Job 7-37,Machine 0,,
+438,20.27,1.0,Created,Job 1-141,,,
+439,20.27,1.0,Put in Routing Class,Job 1-141,,44.0,
+440,20.53,7.0,Created,Job 7-87,,,
+441,20.53,7.0,Put in Routing Class,Job 7-87,,45.0,
+442,20.81,4.0,Work Finish,Job 4-65,Machine 7,,
+443,20.81,4.0,Completed,Job 4-65,,,0
+444,20.81,,Request Routing for Job,,Machine 7,45.0,
+445,20.81,,Routing Start,,Machine 7,,3.675 Job 선택
+446,20.81,4.0,Routing Finish,Job 4-75,Machine 7,,
+447,20.81,4.0,Work Start,Job 4-75,Machine 7,,
+448,20.85,1.0,Work Finish,Job 1-56,Machine 2,,
+449,20.85,1.0,Completed,Job 1-56,,,4.689117233295246
+450,20.85,,Request Routing for Job,,Machine 2,44.0,
+451,20.85,,Routing Start,,Machine 2,,3.675 Job 선택
+452,20.85,1.0,Routing Finish,Job 1-66,Machine 2,,
+453,20.85,1.0,Work Start,Job 1-66,Machine 2,,
+454,21.05,4.0,Created,Job 4-106,,,
+455,21.05,4.0,Put in Routing Class,Job 4-106,,44.0,
+456,21.09,0.0,Work Finish,Job 0-99,Machine 4,,
+457,21.09,0.0,Completed,Job 0-99,,,0
+458,21.09,,Request Routing for Job,,Machine 4,44.0,
+459,21.09,,Routing Start,,Machine 4,,3.675 Job 선택
+460,21.09,2.0,Routing Finish,Job 2-39,Machine 4,,
+461,21.09,2.0,Work Start,Job 2-39,Machine 4,,
+462,21.16,2.0,Created,Job 2-127,,,
+463,21.16,2.0,Put in Routing Class,Job 2-127,,44.0,
+464,21.35,8.0,Created,Job 8-133,,,
+465,21.35,8.0,Put in Routing Class,Job 8-133,,45.0,
+466,22.08,6.0,Created,Job 6-44,,,
+467,22.08,6.0,Put in Routing Class,Job 6-44,,46.0,
+468,22.11,4.0,Work Finish,Job 4-75,Machine 7,,
+469,22.11,4.0,Completed,Job 4-75,,,0
+470,22.11,,Request Routing for Job,,Machine 7,46.0,
+471,22.11,,Routing Start,,Machine 7,,3.675 Job 선택
+472,22.11,4.0,Routing Finish,Job 4-78,Machine 7,,
+473,22.11,4.0,Work Start,Job 4-78,Machine 7,,
+474,22.49,0.0,Created,Job 0-100,,,
+475,22.49,0.0,Put in Routing Class,Job 0-100,,46.0,
+476,22.57,8.0,Created,Job 8-135,,,
+477,22.57,8.0,Put in Routing Class,Job 8-135,,47.0,
+478,22.81,9.0,Created,Job 9-109,,,
+479,22.81,9.0,Put in Routing Class,Job 9-109,,48.0,
+480,22.84,5.0,Created,Job 5-81,,,
+481,22.84,5.0,Put in Routing Class,Job 5-81,,49.0,
+482,22.91,3.0,Created,Job 3-57,,,
+483,22.91,3.0,Put in Routing Class,Job 3-57,,50.0,
+484,23.29,8.0,Work Finish,Job 8-69,Machine 1,,
+485,23.29,8.0,Completed,Job 8-69,,,0.4177946238095629
+486,23.29,,Request Routing for Job,,Machine 1,50.0,
+487,23.29,,Routing Start,,Machine 1,,3.675 Job 선택
+488,23.29,8.0,Routing Finish,Job 8-92,Machine 1,,
+489,23.29,8.0,Work Start,Job 8-92,Machine 1,,
+490,23.4,4.0,Work Finish,Job 4-78,Machine 7,,
+491,23.4,4.0,Completed,Job 4-78,,,0
+492,23.4,,Request Routing for Job,,Machine 7,49.0,
+493,23.4,,Routing Start,,Machine 7,,3.675 Job 선택
+494,23.4,1.0,Routing Finish,Job 1-68,Machine 7,,
+495,23.4,1.0,Work Start,Job 1-68,Machine 7,,
+496,23.81,6.0,Created,Job 6-54,,,
+497,23.81,6.0,Put in Routing Class,Job 6-54,,49.0,
+498,23.82,0.0,Created,Job 0-102,,,
+499,23.82,0.0,Put in Routing Class,Job 0-102,,50.0,
+500,23.88,2.0,Created,Job 2-165,,,
+501,23.88,2.0,Put in Routing Class,Job 2-165,,51.0,
+502,23.9,7.0,Created,Job 7-96,,,
+503,23.9,7.0,Put in Routing Class,Job 7-96,,52.0,
+504,24.06,3.0,Created,Job 3-60,,,
+505,24.06,3.0,Put in Routing Class,Job 3-60,,53.0,
+506,24.25,5.0,Created,Job 5-86,,,
+507,24.25,5.0,Put in Routing Class,Job 5-86,,54.0,
+508,24.64,1.0,Created,Job 1-145,,,
+509,24.64,1.0,Put in Routing Class,Job 1-145,,55.0,
+510,24.65,2.0,Work Finish,Job 2-39,Machine 4,,
+511,24.65,2.0,Completed,Job 2-39,,,5.953672848786994
+512,24.65,,Request Routing for Job,,Machine 4,55.0,
+513,24.65,,Routing Start,,Machine 4,,3.675 Job 선택
+514,24.65,0.0,Routing Finish,Job 0-100,Machine 4,,
+515,24.65,0.0,Work Start,Job 0-100,Machine 4,,
+516,24.83,4.0,Created,Job 4-130,,,
+517,24.83,4.0,Put in Routing Class,Job 4-130,,55.0,
+518,24.88,7.0,Work Finish,Job 7-22,Machine 3,,
+519,24.88,7.0,Completed,Job 7-22,,,4.170554003384957
+520,24.88,,Request Routing for Job,,Machine 3,55.0,
+521,24.88,,Routing Start,,Machine 3,,3.675 Job 선택
+522,24.88,7.0,Routing Finish,Job 7-46,Machine 3,,
+523,24.88,7.0,Work Start,Job 7-46,Machine 3,,
+524,25.06,2.0,Created,Job 2-178,,,
+525,25.06,2.0,Put in Routing Class,Job 2-178,,55.0,
+526,25.09,1.0,Work Finish,Job 1-66,Machine 2,,
+527,25.09,1.0,Completed,Job 1-66,,,7.717762304436029
+528,25.09,,Request Routing for Job,,Machine 2,55.0,
+529,25.09,,Routing Start,,Machine 2,,3.675 Job 선택
+530,25.09,8.0,Routing Finish,Job 8-101,Machine 2,,
+531,25.09,8.0,Work Start,Job 8-101,Machine 2,,
+532,25.19,7.0,Created,Job 7-116,,,
+533,25.19,7.0,Put in Routing Class,Job 7-116,,55.0,
+534,25.41,0.0,Created,Job 0-110,,,
+535,25.41,0.0,Put in Routing Class,Job 0-110,,56.0,
+536,26.02,0.0,Work Finish,Job 0-100,Machine 4,,
+537,26.02,0.0,Completed,Job 0-100,,,0
+538,26.02,,Request Routing for Job,,Machine 4,56.0,
+539,26.02,,Routing Start,,Machine 4,,3.675 Job 선택
+540,26.02,0.0,Routing Finish,Job 0-102,Machine 4,,
+541,26.02,0.0,Work Start,Job 0-102,Machine 4,,
+542,26.07,6.0,Created,Job 6-58,,,
+543,26.07,6.0,Put in Routing Class,Job 6-58,,56.0,
+544,26.18,5.0,Work Finish,Job 5-79,Machine 6,,
+545,26.18,5.0,Completed,Job 5-79,,,0
+546,26.18,,Request Routing for Job,,Machine 6,56.0,
+547,26.18,,Routing Start,,Machine 6,,3.675 Job 선택
+548,26.18,5.0,Routing Finish,Job 5-81,Machine 6,,
+549,26.18,5.0,Work Start,Job 5-81,Machine 6,,
+550,26.2,3.0,Created,Job 3-93,,,
+551,26.2,3.0,Put in Routing Class,Job 3-93,,56.0,
+552,26.3,4.0,Created,Job 4-131,,,
+553,26.3,4.0,Put in Routing Class,Job 4-131,,57.0,
+554,26.46,0.0,Work Finish,Job 0-95,Machine 5,,
+555,26.46,0.0,Completed,Job 0-95,,,2.2751630671014595
+556,26.46,,Request Routing for Job,,Machine 5,57.0,
+557,26.46,,Routing Start,,Machine 5,,3.675 Job 선택
+558,26.46,0.0,Routing Finish,Job 0-110,Machine 5,,
+559,26.46,0.0,Work Start,Job 0-110,Machine 5,,
+560,26.49,1.0,Work Finish,Job 1-68,Machine 7,,
+561,26.49,1.0,Completed,Job 1-68,,,7.900919452310834
+562,26.49,,Request Routing for Job,,Machine 7,56.0,
+563,26.49,,Routing Start,,Machine 7,,3.675 Job 선택
+564,26.49,4.0,Routing Finish,Job 4-88,Machine 7,,
+565,26.49,4.0,Work Start,Job 4-88,Machine 7,,
+566,26.51,0.0,Created,Job 0-143,,,
+567,26.51,0.0,Put in Routing Class,Job 0-143,,56.0,
+568,26.62,2.0,Created,Job 2-187,,,
+569,26.62,2.0,Put in Routing Class,Job 2-187,,57.0,
+570,26.86,8.0,Work Finish,Job 8-92,Machine 1,,
+571,26.86,8.0,Completed,Job 8-92,,,0
+572,26.86,,Request Routing for Job,,Machine 1,57.0,
+573,26.86,,Routing Start,,Machine 1,,3.675 Job 선택
+574,26.86,8.0,Routing Finish,Job 8-121,Machine 1,,
+575,26.86,8.0,Work Start,Job 8-121,Machine 1,,
+576,27.22,3.0,Created,Job 3-105,,,
+577,27.22,3.0,Put in Routing Class,Job 3-105,,57.0,
+578,27.32,7.0,Work Finish,Job 7-37,Machine 0,,
+579,27.32,7.0,Completed,Job 7-37,,,5.42428855183001
+580,27.32,,Request Routing for Job,,Machine 0,57.0,
+581,27.32,,Routing Start,,Machine 0,,3.675 Job 선택
+582,27.32,5.0,Routing Finish,Job 5-86,Machine 0,,
+583,27.32,5.0,Work Start,Job 5-86,Machine 0,,
+584,27.33,1.0,Created,Job 1-148,,,
+585,27.33,1.0,Put in Routing Class,Job 1-148,,57.0,
+586,27.39,0.0,Work Finish,Job 0-102,Machine 4,,
+587,27.39,0.0,Completed,Job 0-102,,,0
+588,27.39,,Request Routing for Job,,Machine 4,57.0,
+589,27.39,,Routing Start,,Machine 4,,3.675 Job 선택
+590,27.39,2.0,Routing Finish,Job 2-40,Machine 4,,
+591,27.39,2.0,Work Start,Job 2-40,Machine 4,,
+592,27.73,2.0,Created,Job 2-200,,,
+593,27.73,2.0,Put in Routing Class,Job 2-200,,57.0,
+594,27.78,4.0,Work Finish,Job 4-88,Machine 7,,
+595,27.78,4.0,Completed,Job 4-88,,,0
+596,27.78,,Request Routing for Job,,Machine 7,57.0,
+597,27.78,,Routing Start,,Machine 7,,3.675 Job 선택
+598,27.78,4.0,Routing Finish,Job 4-106,Machine 7,,
+599,27.78,4.0,Work Start,Job 4-106,Machine 7,,
+600,27.79,0.0,Created,Job 0-146,,,
+601,27.79,0.0,Put in Routing Class,Job 0-146,,57.0,
+602,27.92,5.0,Created,Job 5-103,,,
+603,27.92,5.0,Put in Routing Class,Job 5-103,,58.0,
+604,28.45,6.0,Created,Job 6-73,,,
+605,28.45,6.0,Put in Routing Class,Job 6-73,,59.0,
+606,28.53,8.0,Created,Job 8-136,,,
+607,28.53,8.0,Put in Routing Class,Job 8-136,,60.0,
+608,28.54,9.0,Created,Job 9-112,,,
+609,28.54,9.0,Put in Routing Class,Job 9-112,,61.0,
+610,28.83,1.0,Created,Job 1-172,,,
+611,28.83,1.0,Put in Routing Class,Job 1-172,,62.0,
+612,28.83,0.0,Created,Job 0-153,,,
+613,28.83,0.0,Put in Routing Class,Job 0-153,,63.0,
+614,28.85,8.0,Work Finish,Job 8-101,Machine 2,,
+615,28.85,8.0,Completed,Job 8-101,,,0
+616,28.85,,Request Routing for Job,,Machine 2,63.0,
+617,28.85,,Routing Start,,Machine 2,,3.675 Job 선택
+618,28.85,8.0,Routing Finish,Job 8-133,Machine 2,,
+619,28.85,8.0,Work Start,Job 8-133,Machine 2,,
+620,28.86,2.0,Created,Job 2-215,,,
+621,28.86,2.0,Put in Routing Class,Job 2-215,,63.0,
+622,28.97,5.0,Created,Job 5-111,,,
+623,28.97,5.0,Put in Routing Class,Job 5-111,,64.0,
+624,29.08,4.0,Work Finish,Job 4-106,Machine 7,,
+625,29.08,4.0,Completed,Job 4-106,,,0
+626,29.08,,Request Routing for Job,,Machine 7,64.0,
+627,29.08,,Routing Start,,Machine 7,,3.675 Job 선택
+628,29.08,0.0,Routing Finish,Job 0-143,Machine 7,,
+629,29.08,0.0,Work Start,Job 0-143,Machine 7,,
+630,29.16,7.0,Created,Job 7-119,,,
+631,29.16,7.0,Put in Routing Class,Job 7-119,,64.0,
+632,29.47,6.0,Created,Job 6-74,,,
+633,29.47,6.0,Put in Routing Class,Job 6-74,,65.0,
+634,29.74,7.0,Work Finish,Job 7-46,Machine 3,,
+635,29.74,7.0,Completed,Job 7-46,,,3.5889595378078205
+636,29.74,,Request Routing for Job,,Machine 3,65.0,
+637,29.74,,Routing Start,,Machine 3,,3.675 Job 선택
+638,29.74,7.0,Routing Finish,Job 7-62,Machine 3,,
+639,29.74,7.0,Work Start,Job 7-62,Machine 3,,
+640,29.92,1.0,Created,Job 1-175,,,
+641,29.92,1.0,Put in Routing Class,Job 1-175,,65.0,
+642,30.22,4.0,Created,Job 4-132,,,
+643,30.22,4.0,Put in Routing Class,Job 4-132,,66.0,
+644,30.44,8.0,Work Finish,Job 8-121,Machine 1,,
+645,30.44,8.0,Completed,Job 8-121,,,0
+646,30.44,,Request Routing for Job,,Machine 1,66.0,
+647,30.44,,Routing Start,,Machine 1,,3.675 Job 선택
+648,30.44,8.0,Routing Finish,Job 8-135,Machine 1,,
+649,30.44,8.0,Work Start,Job 8-135,Machine 1,,
+650,30.5,5.0,Work Finish,Job 5-86,Machine 0,,
+651,30.5,5.0,Completed,Job 5-86,,,0
+652,30.5,,Request Routing for Job,,Machine 0,65.0,
+653,30.5,,Routing Start,,Machine 0,,3.675 Job 선택
+654,30.5,5.0,Routing Finish,Job 5-103,Machine 0,,
+655,30.5,5.0,Work Start,Job 5-103,Machine 0,,
+656,30.52,6.0,Created,Job 6-77,,,
+657,30.52,6.0,Put in Routing Class,Job 6-77,,65.0,
+658,30.73,0.0,Created,Job 0-176,,,
+659,30.73,0.0,Put in Routing Class,Job 0-176,,66.0,
+660,30.75,3.0,Created,Job 3-107,,,
+661,30.75,3.0,Put in Routing Class,Job 3-107,,67.0,
+662,30.95,2.0,Work Finish,Job 2-40,Machine 4,,
+663,30.95,2.0,Completed,Job 2-40,,,10.327170244870544
+664,30.95,,Request Routing for Job,,Machine 4,67.0,
+665,30.95,,Routing Start,,Machine 4,,3.675 Job 선택
+666,30.95,0.0,Routing Finish,Job 0-146,Machine 4,,
+667,30.95,0.0,Work Start,Job 0-146,Machine 4,,
+668,30.95,2.0,Created,Job 2-271,,,
+669,30.95,2.0,Put in Routing Class,Job 2-271,,67.0,
+670,31.2,1.0,Created,Job 1-203,,,
+671,31.2,1.0,Put in Routing Class,Job 1-203,,68.0,
+672,31.42,9.0,Created,Job 9-113,,,
+673,31.42,9.0,Put in Routing Class,Job 9-113,,69.0,
+674,31.57,7.0,Created,Job 7-126,,,
+675,31.57,7.0,Put in Routing Class,Job 7-126,,70.0,
+676,32.04,0.0,Work Finish,Job 0-143,Machine 7,,
+677,32.04,0.0,Completed,Job 0-143,,,0
+678,32.04,,Request Routing for Job,,Machine 7,70.0,
+679,32.04,,Routing Start,,Machine 7,,3.675 Job 선택
+680,32.04,4.0,Routing Finish,Job 4-130,Machine 7,,
+681,32.04,4.0,Work Start,Job 4-130,Machine 7,,
+682,32.05,8.0,Created,Job 8-174,,,
+683,32.05,8.0,Put in Routing Class,Job 8-174,,70.0,
+684,32.32,0.0,Work Finish,Job 0-146,Machine 4,,
+685,32.32,0.0,Completed,Job 0-146,,,0
+686,32.32,,Request Routing for Job,,Machine 4,70.0,
+687,32.32,,Routing Start,,Machine 4,,3.675 Job 선택
+688,32.32,0.0,Routing Finish,Job 0-153,Machine 4,,
+689,32.32,0.0,Work Start,Job 0-153,Machine 4,,
+690,32.34,6.0,Created,Job 6-82,,,
+691,32.34,6.0,Put in Routing Class,Job 6-82,,70.0,
+692,32.6,8.0,Work Finish,Job 8-133,Machine 2,,
+693,32.6,8.0,Completed,Job 8-133,,,0
+694,32.6,,Request Routing for Job,,Machine 2,70.0,
+695,32.6,,Routing Start,,Machine 2,,3.675 Job 선택
+696,32.6,1.0,Routing Finish,Job 1-84,Machine 2,,
+697,32.6,1.0,Work Start,Job 1-84,Machine 2,,
+698,32.64,5.0,Work Finish,Job 5-81,Machine 6,,
+699,32.64,5.0,Completed,Job 5-81,,,0
+700,32.64,,Request Routing for Job,,Machine 6,69.0,
+701,32.64,,Routing Start,,Machine 6,,3.675 Job 선택
+702,32.64,5.0,Routing Finish,Job 5-111,Machine 6,,
+703,32.64,5.0,Work Start,Job 5-111,Machine 6,,
+704,32.82,4.0,Created,Job 4-142,,,
+705,32.82,4.0,Put in Routing Class,Job 4-142,,69.0,
+706,33.01,2.0,Created,Job 2-280,,,
+707,33.01,2.0,Put in Routing Class,Job 2-280,,70.0,
+708,33.08,8.0,Created,Job 8-182,,,
+709,33.08,8.0,Put in Routing Class,Job 8-182,,71.0,
+710,33.32,3.0,Created,Job 3-108,,,
+711,33.32,3.0,Put in Routing Class,Job 3-108,,72.0,
+712,33.34,4.0,Work Finish,Job 4-130,Machine 7,,
+713,33.34,4.0,Completed,Job 4-130,,,0
+714,33.34,,Request Routing for Job,,Machine 7,72.0,
+715,33.34,,Routing Start,,Machine 7,,3.675 Job 선택
+716,33.34,4.0,Routing Finish,Job 4-131,Machine 7,,
+717,33.34,4.0,Work Start,Job 4-131,Machine 7,,
+718,33.47,0.0,Created,Job 0-179,,,
+719,33.47,0.0,Put in Routing Class,Job 0-179,,72.0,
+720,33.53,6.0,Created,Job 6-104,,,
+721,33.53,6.0,Put in Routing Class,Job 6-104,,73.0,
+722,33.69,0.0,Work Finish,Job 0-153,Machine 4,,
+723,33.69,0.0,Completed,Job 0-153,,,0
+724,33.69,,Request Routing for Job,,Machine 4,73.0,
+725,33.69,,Routing Start,,Machine 4,,3.675 Job 선택
+726,33.69,0.0,Routing Finish,Job 0-176,Machine 4,,
+727,33.69,0.0,Work Start,Job 0-176,Machine 4,,
+728,33.69,5.0,Work Finish,Job 5-103,Machine 0,,
+729,33.69,5.0,Completed,Job 5-103,,,0
+730,33.69,,Request Routing for Job,,Machine 0,72.0,
+731,33.69,,Routing Start,,Machine 0,,3.675 Job 선택
+732,33.69,7.0,Routing Finish,Job 7-63,Machine 0,,
+733,33.69,7.0,Work Start,Job 7-63,Machine 0,,
+734,33.86,7.0,Created,Job 7-140,,,
+735,33.86,7.0,Put in Routing Class,Job 7-140,,72.0,
+736,33.92,4.0,Created,Job 4-150,,,
+737,33.92,4.0,Put in Routing Class,Job 4-150,,73.0,
+738,34.02,8.0,Work Finish,Job 8-135,Machine 1,,
+739,34.02,8.0,Completed,Job 8-135,,,0
+740,34.02,,Request Routing for Job,,Machine 1,73.0,
+741,34.02,,Routing Start,,Machine 1,,3.675 Job 선택
+742,34.02,0.0,Routing Finish,Job 0-179,Machine 1,,
+743,34.02,0.0,Work Start,Job 0-179,Machine 1,,
+744,34.23,2.0,Created,Job 2-283,,,
+745,34.23,2.0,Put in Routing Class,Job 2-283,,73.0,
+746,34.59,7.0,Work Finish,Job 7-62,Machine 3,,
+747,34.59,7.0,Completed,Job 7-62,,,7.084785609429886
+748,34.59,,Request Routing for Job,,Machine 3,73.0,
+749,34.59,,Routing Start,,Machine 3,,3.675 Job 선택
+750,34.59,7.0,Routing Finish,Job 7-83,Machine 3,,
+751,34.59,7.0,Work Start,Job 7-83,Machine 3,,
+752,34.63,4.0,Work Finish,Job 4-131,Machine 7,,
+753,34.63,4.0,Completed,Job 4-131,,,0
+754,34.63,,Request Routing for Job,,Machine 7,72.0,
+755,34.63,,Routing Start,,Machine 7,,3.675 Job 선택
+756,34.63,1.0,Routing Finish,Job 1-85,Machine 7,,
+757,34.63,1.0,Work Start,Job 1-85,Machine 7,,
+758,34.67,0.0,Created,Job 0-185,,,
+759,34.67,0.0,Put in Routing Class,Job 0-185,,72.0,
+760,34.87,5.0,Created,Job 5-118,,,
+761,34.87,5.0,Put in Routing Class,Job 5-118,,73.0,
+762,35.06,0.0,Work Finish,Job 0-176,Machine 4,,
+763,35.06,0.0,Completed,Job 0-176,,,0
+764,35.06,,Request Routing for Job,,Machine 4,73.0,
+765,35.06,,Routing Start,,Machine 4,,3.675 Job 선택
+766,35.06,2.0,Routing Finish,Job 2-67,Machine 4,,
+767,35.06,2.0,Work Start,Job 2-67,Machine 4,,
+768,35.14,3.0,Created,Job 3-123,,,
+769,35.14,3.0,Put in Routing Class,Job 3-123,,73.0,
+770,35.3,7.0,Created,Job 7-159,,,
+771,35.3,7.0,Put in Routing Class,Job 7-159,,74.0,
+772,35.68,6.0,Created,Job 6-114,,,
+773,35.68,6.0,Put in Routing Class,Job 6-114,,75.0,
+774,35.9,2.0,Created,Job 2-293,,,
+775,35.9,2.0,Put in Routing Class,Job 2-293,,76.0,
+776,36.12,0.0,Created,Job 0-209,,,
+777,36.12,0.0,Put in Routing Class,Job 0-209,,77.0,
+778,36.36,7.0,Created,Job 7-168,,,
+779,36.36,7.0,Put in Routing Class,Job 7-168,,78.0,
+780,36.43,1.0,Created,Job 1-231,,,
+781,36.43,1.0,Put in Routing Class,Job 1-231,,79.0,
+782,36.65,9.0,Created,Job 9-124,,,
+783,36.65,9.0,Put in Routing Class,Job 9-124,,80.0,
+784,36.85,1.0,Work Finish,Job 1-84,Machine 2,,
+785,36.85,1.0,Completed,Job 1-84,,,16.953548735761665
+786,36.85,,Request Routing for Job,,Machine 2,80.0,
+787,36.85,,Routing Start,,Machine 2,,3.675 Job 선택
+788,36.85,8.0,Routing Finish,Job 8-136,Machine 2,,
+789,36.85,8.0,Work Start,Job 8-136,Machine 2,,
+790,37.06,0.0,Work Finish,Job 0-110,Machine 5,,
+791,37.06,0.0,Completed,Job 0-110,,,2.674032824276047
+792,37.06,,Request Routing for Job,,Machine 5,79.0,
+793,37.06,,Routing Start,,Machine 5,,3.675 Job 선택
+794,37.06,0.0,Routing Finish,Job 0-185,Machine 5,,
+795,37.06,0.0,Work Start,Job 0-185,Machine 5,,
+796,37.14,0.0,Created,Job 0-213,,,
+797,37.14,0.0,Put in Routing Class,Job 0-213,,79.0,
+798,37.29,4.0,Created,Job 4-154,,,
+799,37.29,4.0,Put in Routing Class,Job 4-154,,80.0,
+800,37.56,6.0,Created,Job 6-115,,,
+801,37.56,6.0,Put in Routing Class,Job 6-115,,81.0,
+802,37.72,1.0,Work Finish,Job 1-85,Machine 7,,
+803,37.72,1.0,Completed,Job 1-85,,,15.317267754574885
+804,37.72,,Request Routing for Job,,Machine 7,81.0,
+805,37.72,,Routing Start,,Machine 7,,3.675 Job 선택
+806,37.72,4.0,Routing Finish,Job 4-132,Machine 7,,
+807,37.72,4.0,Work Start,Job 4-132,Machine 7,,
+808,37.75,3.0,Created,Job 3-139,,,
+809,37.75,3.0,Put in Routing Class,Job 3-139,,81.0,
+810,37.79,1.0,Created,Job 1-276,,,
+811,37.79,1.0,Put in Routing Class,Job 1-276,,82.0,
+812,38.11,8.0,Created,Job 8-189,,,
+813,38.11,8.0,Put in Routing Class,Job 8-189,,83.0,
+814,38.62,2.0,Work Finish,Job 2-67,Machine 4,,
+815,38.62,2.0,Completed,Job 2-67,,,16.718148228633268
+816,38.62,,Request Routing for Job,,Machine 4,83.0,
+817,38.62,,Routing Start,,Machine 4,,3.675 Job 선택
+818,38.62,0.0,Routing Finish,Job 0-209,Machine 4,,
+819,38.62,0.0,Work Start,Job 0-209,Machine 4,,
+820,38.84,3.0,Created,Job 3-149,,,
+821,38.84,3.0,Put in Routing Class,Job 3-149,,83.0,
+822,38.97,0.0,Work Finish,Job 0-179,Machine 1,,
+823,38.97,0.0,Completed,Job 0-179,,,0
+824,38.97,,Request Routing for Job,,Machine 1,83.0,
+825,38.97,,Routing Start,,Machine 1,,3.675 Job 선택
+826,38.97,0.0,Routing Finish,Job 0-213,Machine 1,,
+827,38.97,0.0,Work Start,Job 0-213,Machine 1,,
+828,39.01,4.0,Work Finish,Job 4-132,Machine 7,,
+829,39.01,4.0,Completed,Job 4-132,,,0
+830,39.01,,Request Routing for Job,,Machine 7,82.0,
+831,39.01,,Routing Start,,Machine 7,,3.675 Job 선택
+832,39.01,4.0,Routing Finish,Job 4-142,Machine 7,,
+833,39.01,4.0,Work Start,Job 4-142,Machine 7,,
+834,39.09,5.0,Work Finish,Job 5-111,Machine 6,,
+835,39.09,5.0,Completed,Job 5-111,,,0
+836,39.09,,Request Routing for Job,,Machine 6,81.0,
+837,39.09,,Routing Start,,Machine 6,,3.675 Job 선택
+838,39.09,5.0,Routing Finish,Job 5-118,Machine 6,,
+839,39.09,5.0,Work Start,Job 5-118,Machine 6,,
+840,39.18,1.0,Created,Job 1-277,,,
+841,39.18,1.0,Put in Routing Class,Job 1-277,,81.0,
+842,39.24,5.0,Created,Job 5-125,,,
+843,39.24,5.0,Put in Routing Class,Job 5-125,,82.0,
+844,39.45,7.0,Work Finish,Job 7-83,Machine 3,,
+845,39.45,7.0,Completed,Job 7-83,,,7.494018669019187
+846,39.45,,Request Routing for Job,,Machine 3,82.0,
+847,39.45,,Routing Start,,Machine 3,,3.675 Job 선택
+848,39.45,7.0,Routing Finish,Job 7-87,Machine 3,,
+849,39.45,7.0,Work Start,Job 7-87,Machine 3,,
+850,39.54,6.0,Created,Job 6-117,,,
+851,39.54,6.0,Put in Routing Class,Job 6-117,,82.0,
+852,39.6,2.0,Created,Job 2-316,,,
+853,39.6,2.0,Put in Routing Class,Job 2-316,,83.0,
+854,39.65,4.0,Created,Job 4-163,,,
+855,39.65,4.0,Put in Routing Class,Job 4-163,,84.0,
+856,39.71,7.0,Created,Job 7-170,,,
+857,39.71,7.0,Put in Routing Class,Job 7-170,,85.0,
+858,39.99,0.0,Work Finish,Job 0-209,Machine 4,,
+859,39.99,0.0,Completed,Job 0-209,,,0
+860,39.99,,Request Routing for Job,,Machine 4,85.0,
+861,39.99,,Routing Start,,Machine 4,,3.675 Job 선택
+862,39.99,2.0,Routing Finish,Job 2-72,Machine 4,,
+863,39.99,2.0,Work Start,Job 2-72,Machine 4,,
+864,40.31,4.0,Work Finish,Job 4-142,Machine 7,,
+865,40.31,4.0,Completed,Job 4-142,,,0
+866,40.31,,Request Routing for Job,,Machine 7,84.0,
+867,40.31,,Routing Start,,Machine 7,,3.675 Job 선택
+868,40.31,4.0,Routing Finish,Job 4-150,Machine 7,,
+869,40.31,4.0,Work Start,Job 4-150,Machine 7,,
+870,40.37,1.0,Created,Job 1-285,,,
+871,40.37,1.0,Put in Routing Class,Job 1-285,,84.0,
+872,40.4,9.0,Created,Job 9-128,,,
+873,40.4,9.0,Put in Routing Class,Job 9-128,,85.0,
+874,40.58,0.0,Created,Job 0-237,,,
+875,40.58,0.0,Put in Routing Class,Job 0-237,,86.0,
+876,40.6,8.0,Work Finish,Job 8-136,Machine 2,,
+877,40.6,8.0,Completed,Job 8-136,,,0
+878,40.6,,Request Routing for Job,,Machine 2,86.0,
+879,40.6,,Routing Start,,Machine 2,,3.675 Job 선택
+880,40.6,8.0,Routing Finish,Job 8-174,Machine 2,,
+881,40.6,8.0,Work Start,Job 8-174,Machine 2,,
+882,40.65,3.0,Created,Job 3-155,,,
+883,40.65,3.0,Put in Routing Class,Job 3-155,,86.0,
+884,40.67,8.0,Created,Job 8-193,,,
+885,40.67,8.0,Put in Routing Class,Job 8-193,,87.0,
+886,40.68,4.0,Created,Job 4-164,,,
+887,40.68,4.0,Put in Routing Class,Job 4-164,,88.0,
+888,40.68,5.0,Created,Job 5-129,,,
+889,40.68,5.0,Put in Routing Class,Job 5-129,,89.0,
+890,40.77,2.0,Created,Job 2-323,,,
+891,40.77,2.0,Put in Routing Class,Job 2-323,,90.0,
+892,40.87,7.0,Work Finish,Job 7-63,Machine 0,,
+893,40.87,7.0,Completed,Job 7-63,,,12.234848741574016
+894,40.87,,Request Routing for Job,,Machine 0,90.0,
+895,40.87,,Routing Start,,Machine 0,,3.675 Job 선택
+896,40.87,5.0,Routing Finish,Job 5-125,Machine 0,,
+897,40.87,5.0,Work Start,Job 5-125,Machine 0,,
+898,40.88,7.0,Created,Job 7-173,,,
+899,40.88,7.0,Put in Routing Class,Job 7-173,,90.0,
+900,40.88,6.0,Created,Job 6-134,,,
+901,40.88,6.0,Put in Routing Class,Job 6-134,,91.0,
+902,41.6,4.0,Work Finish,Job 4-150,Machine 7,,
+903,41.6,4.0,Completed,Job 4-150,,,0
+904,41.6,,Request Routing for Job,,Machine 7,91.0,
+905,41.6,,Routing Start,,Machine 7,,3.675 Job 선택
+906,41.6,1.0,Routing Finish,Job 1-97,Machine 7,,
+907,41.6,1.0,Work Start,Job 1-97,Machine 7,,
+908,41.75,8.0,Created,Job 8-202,,,
+909,41.75,8.0,Put in Routing Class,Job 8-202,,91.0,
+910,41.79,2.0,Created,Job 2-325,,,
+911,41.79,2.0,Put in Routing Class,Job 2-325,,92.0,
+912,41.8,4.0,Created,Job 4-166,,,
+913,41.8,4.0,Put in Routing Class,Job 4-166,,93.0,
+914,41.97,3.0,Created,Job 3-160,,,
+915,41.97,3.0,Put in Routing Class,Job 3-160,,94.0,
+916,42.34,7.0,Created,Job 7-181,,,
+917,42.34,7.0,Put in Routing Class,Job 7-181,,95.0,
+918,43.0,9.0,Created,Job 9-144,,,
+919,43.0,9.0,Put in Routing Class,Job 9-144,,96.0,
+920,43.06,6.0,Created,Job 6-151,,,
+921,43.06,6.0,Put in Routing Class,Job 6-151,,97.0,
+922,43.51,1.0,Created,Job 1-287,,,
+923,43.51,1.0,Put in Routing Class,Job 1-287,,98.0,
+924,43.52,0.0,Created,Job 0-245,,,
+925,43.52,0.0,Put in Routing Class,Job 0-245,,99.0,
+926,43.55,2.0,Work Finish,Job 2-72,Machine 4,,
+927,43.55,2.0,Completed,Job 2-72,,,20.05639540950468
+928,43.55,,Request Routing for Job,,Machine 4,99.0,
+929,43.55,,Routing Start,,Machine 4,,3.675 Job 선택
+930,43.55,0.0,Routing Finish,Job 0-237,Machine 4,,
+931,43.55,0.0,Work Start,Job 0-237,Machine 4,,
+932,43.58,5.0,Created,Job 5-137,,,
+933,43.58,5.0,Put in Routing Class,Job 5-137,,99.0,
+934,43.92,0.0,Work Finish,Job 0-213,Machine 1,,
+935,43.92,0.0,Completed,Job 0-213,,,0
+936,43.92,,Request Routing for Job,,Machine 1,99.0,
+937,43.92,,Routing Start,,Machine 1,,3.675 Job 선택
+938,43.92,8.0,Routing Finish,Job 8-182,Machine 1,,
+939,43.92,8.0,Work Start,Job 8-182,Machine 1,,
+940,43.97,4.0,Created,Job 4-167,,,
+941,43.97,4.0,Put in Routing Class,Job 4-167,,99.0,
+942,44.02,2.0,Created,Job 2-326,,,
+943,44.02,2.0,Put in Routing Class,Job 2-326,,100.0,
+944,44.06,5.0,Work Finish,Job 5-125,Machine 0,,
+945,44.06,5.0,Completed,Job 5-125,,,0
+946,44.06,,Request Routing for Job,,Machine 0,100.0,
+947,44.06,,Routing Start,,Machine 0,,3.675 Job 선택
+948,44.06,5.0,Routing Finish,Job 5-129,Machine 0,,
+949,44.06,5.0,Work Start,Job 5-129,Machine 0,,
+950,44.06,8.0,Created,Job 8-205,,,
+951,44.06,8.0,Put in Routing Class,Job 8-205,,100.0,
+952,44.07,9.0,Created,Job 9-152,,,
+953,44.07,9.0,Put in Routing Class,Job 9-152,,101.0,
+954,44.3,7.0,Work Finish,Job 7-87,Machine 3,,
+955,44.3,7.0,Completed,Job 7-87,,,11.347114284944134
+956,44.3,,Request Routing for Job,,Machine 3,101.0,
+957,44.3,,Routing Start,,Machine 3,,3.675 Job 선택
+958,44.3,4.0,Routing Finish,Job 4-154,Machine 3,,
+959,44.3,4.0,Work Start,Job 4-154,Machine 3,,
+960,44.36,8.0,Work Finish,Job 8-174,Machine 2,,
+961,44.36,8.0,Completed,Job 8-174,,,0.21932601625957204
+962,44.36,,Request Routing for Job,,Machine 2,100.0,
+963,44.36,,Routing Start,,Machine 2,,3.675 Job 선택
+964,44.36,8.0,Routing Finish,Job 8-189,Machine 2,,
+965,44.36,8.0,Work Start,Job 8-189,Machine 2,,
+966,44.37,7.0,Created,Job 7-204,,,
+967,44.37,7.0,Put in Routing Class,Job 7-204,,100.0,
+968,44.58,0.0,Created,Job 0-260,,,
+969,44.58,0.0,Put in Routing Class,Job 0-260,,101.0,
+970,44.69,1.0,Work Finish,Job 1-97,Machine 7,,
+971,44.69,1.0,Completed,Job 1-97,,,20.235865943632547
+972,44.69,,Request Routing for Job,,Machine 7,101.0,
+973,44.69,,Routing Start,,Machine 7,,3.675 Job 선택
+974,44.69,1.0,Routing Finish,Job 1-98,Machine 7,,
+975,44.69,1.0,Work Start,Job 1-98,Machine 7,,
+976,44.82,1.0,Created,Job 1-291,,,
+977,44.82,1.0,Put in Routing Class,Job 1-291,,101.0,
+978,44.92,0.0,Work Finish,Job 0-237,Machine 4,,
+979,44.92,0.0,Completed,Job 0-237,,,0
+980,44.92,,Request Routing for Job,,Machine 4,101.0,
+981,44.92,,Routing Start,,Machine 4,,3.675 Job 선택
+982,44.92,0.0,Routing Finish,Job 0-245,Machine 4,,
+983,44.92,0.0,Work Start,Job 0-245,Machine 4,,
+984,45.07,2.0,Created,Job 2-335,,,
+985,45.07,2.0,Put in Routing Class,Job 2-335,,101.0,
+986,45.11,9.0,Created,Job 9-157,,,
+987,45.11,9.0,Put in Routing Class,Job 9-157,,102.0,
+988,45.55,5.0,Work Finish,Job 5-118,Machine 6,,
+989,45.55,5.0,Completed,Job 5-118,,,0
+990,45.55,,Request Routing for Job,,Machine 6,102.0,
+991,45.55,,Routing Start,,Machine 6,,3.675 Job 선택
+992,45.55,5.0,Routing Finish,Job 5-137,Machine 6,,
+993,45.55,5.0,Work Start,Job 5-137,Machine 6,,
+994,46.02,0.0,Created,Job 0-273,,,
+995,46.02,0.0,Put in Routing Class,Job 0-273,,102.0,
+996,46.06,7.0,Created,Job 7-210,,,
+997,46.06,7.0,Put in Routing Class,Job 7-210,,103.0,
+998,46.21,1.0,Created,Job 1-314,,,
+999,46.21,1.0,Put in Routing Class,Job 1-314,,104.0,
+1000,46.24,4.0,Created,Job 4-171,,,
+1001,46.24,4.0,Put in Routing Class,Job 4-171,,105.0,
+1002,46.27,8.0,Created,Job 8-211,,,
+1003,46.27,8.0,Put in Routing Class,Job 8-211,,106.0,
+1004,46.29,0.0,Work Finish,Job 0-245,Machine 4,,
+1005,46.29,0.0,Completed,Job 0-245,,,0
+1006,46.29,,Request Routing for Job,,Machine 4,106.0,
+1007,46.29,,Routing Start,,Machine 4,,3.675 Job 선택
+1008,46.29,0.0,Routing Finish,Job 0-260,Machine 4,,
+1009,46.29,0.0,Work Start,Job 0-260,Machine 4,,
+1010,46.33,5.0,Created,Job 5-138,,,
+1011,46.33,5.0,Put in Routing Class,Job 5-138,,106.0,
+1012,46.41,6.0,Created,Job 6-156,,,
+1013,46.41,6.0,Put in Routing Class,Job 6-156,,107.0,
+1014,46.91,4.0,Work Finish,Job 4-154,Machine 3,,
+1015,46.91,4.0,Completed,Job 4-154,,,0
+1016,46.91,,Request Routing for Job,,Machine 3,107.0,
+1017,46.91,,Routing Start,,Machine 3,,3.675 Job 선택
+1018,46.91,4.0,Routing Finish,Job 4-163,Machine 3,,
+1019,46.91,4.0,Work Start,Job 4-163,Machine 3,,
+1020,47.24,5.0,Work Finish,Job 5-129,Machine 0,,
+1021,47.24,5.0,Completed,Job 5-129,,,0
+1022,47.24,,Request Routing for Job,,Machine 0,106.0,
+1023,47.24,,Routing Start,,Machine 0,,3.675 Job 선택
+1024,47.24,5.0,Routing Finish,Job 5-138,Machine 0,,
+1025,47.24,5.0,Work Start,Job 5-138,Machine 0,,
+1026,47.26,7.0,Created,Job 7-214,,,
+1027,47.26,7.0,Put in Routing Class,Job 7-214,,106.0,
+1028,47.49,8.0,Created,Job 8-224,,,
+1029,47.49,8.0,Put in Routing Class,Job 8-224,,107.0,
+1030,47.5,8.0,Work Finish,Job 8-182,Machine 1,,
+1031,47.5,8.0,Completed,Job 8-182,,,2.3343355840336315
+1032,47.5,,Request Routing for Job,,Machine 1,107.0,
+1033,47.5,,Routing Start,,Machine 1,,3.675 Job 선택
+1034,47.5,0.0,Routing Finish,Job 0-273,Machine 1,,
+1035,47.5,0.0,Work Start,Job 0-273,Machine 1,,
+1036,47.61,3.0,Created,Job 3-161,,,
+1037,47.61,3.0,Put in Routing Class,Job 3-161,,107.0,
+1038,47.66,0.0,Work Finish,Job 0-260,Machine 4,,
+1039,47.66,0.0,Completed,Job 0-260,,,0
+1040,47.66,,Request Routing for Job,,Machine 4,107.0,
+1041,47.66,,Routing Start,,Machine 4,,3.675 Job 선택
+1042,47.66,2.0,Routing Finish,Job 2-76,Machine 4,,
+1043,47.66,2.0,Work Start,Job 2-76,Machine 4,,
+1044,47.66,0.0,Work Finish,Job 0-185,Machine 5,,
+1045,47.66,0.0,Completed,Job 0-185,,,4.0215767289230655
+1046,47.66,,Request Routing for Job,,Machine 5,106.0,
+1047,47.66,,Routing Start,,Machine 5,,3.675 Job 선택
+1048,47.66,7.0,Routing Finish,Job 7-96,Machine 5,,
+1049,47.66,7.0,Work Start,Job 7-96,Machine 5,,
+1050,47.75,1.0,Created,Job 1-318,,,
+1051,47.75,1.0,Put in Routing Class,Job 1-318,,106.0,
+1052,47.78,1.0,Work Finish,Job 1-98,Machine 7,,
+1053,47.78,1.0,Completed,Job 1-98,,,19.814569421031045
+1054,47.78,,Request Routing for Job,,Machine 7,106.0,
+1055,47.78,,Routing Start,,Machine 7,,3.675 Job 선택
+1056,47.78,4.0,Routing Finish,Job 4-164,Machine 7,,
+1057,47.78,4.0,Work Start,Job 4-164,Machine 7,,
+1058,48.12,8.0,Work Finish,Job 8-189,Machine 2,,
+1059,48.12,8.0,Completed,Job 8-189,,,0
+1060,48.12,,Request Routing for Job,,Machine 2,105.0,
+1061,48.12,,Routing Start,,Machine 2,,3.675 Job 선택
+1062,48.12,8.0,Routing Finish,Job 8-193,Machine 2,,
+1063,48.12,8.0,Work Start,Job 8-193,Machine 2,,
+1064,48.4,7.0,Created,Job 7-218,,,
+1065,48.4,7.0,Put in Routing Class,Job 7-218,,105.0,
+1066,48.54,9.0,Created,Job 9-162,,,
+1067,48.54,9.0,Put in Routing Class,Job 9-162,,106.0,
+1068,48.95,4.0,Created,Job 4-186,,,
+1069,48.95,4.0,Put in Routing Class,Job 4-186,,107.0,
+1070,49.07,4.0,Work Finish,Job 4-164,Machine 7,,
+1071,49.07,4.0,Completed,Job 4-164,,,0
+1072,49.07,,Request Routing for Job,,Machine 7,107.0,
+1073,49.07,,Routing Start,,Machine 7,,3.675 Job 선택
+1074,49.07,4.0,Routing Finish,Job 4-166,Machine 7,,
+1075,49.07,4.0,Work Start,Job 4-166,Machine 7,,
+1076,49.32,1.0,Created,Job 1-330,,,
+1077,49.32,1.0,Put in Routing Class,Job 1-330,,107.0,
+1078,49.51,7.0,Created,Job 7-220,,,
+1079,49.51,7.0,Put in Routing Class,Job 7-220,,108.0,
+1080,49.51,4.0,Work Finish,Job 4-163,Machine 3,,
+1081,49.51,4.0,Completed,Job 4-163,,,0.07382018061892381
+1082,49.51,,Request Routing for Job,,Machine 3,108.0,
+1083,49.51,,Routing Start,,Machine 3,,3.675 Job 선택
+1084,49.51,7.0,Routing Finish,Job 7-116,Machine 3,,
+1085,49.51,7.0,Work Start,Job 7-116,Machine 3,,
+1086,50.24,9.0,Created,Job 9-196,,,
+1087,50.24,9.0,Put in Routing Class,Job 9-196,,108.0,
+1088,50.28,8.0,Created,Job 8-227,,,
+1089,50.28,8.0,Put in Routing Class,Job 8-227,,109.0,
+1090,50.37,4.0,Work Finish,Job 4-166,Machine 7,,
+1091,50.37,4.0,Completed,Job 4-166,,,0
+1092,50.37,,Request Routing for Job,,Machine 7,109.0,
+1093,50.37,,Routing Start,,Machine 7,,3.675 Job 선택
+1094,50.37,4.0,Routing Finish,Job 4-167,Machine 7,,
+1095,50.37,4.0,Work Start,Job 4-167,Machine 7,,
+1096,50.43,5.0,Work Finish,Job 5-138,Machine 0,,
+1097,50.43,5.0,Completed,Job 5-138,,,0
+1098,50.43,,Request Routing for Job,,Machine 0,108.0,
+1099,50.43,,Routing Start,,Machine 0,,3.675 Job 선택
+1100,50.43,7.0,Routing Finish,Job 7-119,Machine 0,,
+1101,50.43,7.0,Work Start,Job 7-119,Machine 0,,
+1102,50.53,5.0,Created,Job 5-147,,,
+1103,50.53,5.0,Put in Routing Class,Job 5-147,,108.0,
+1104,50.86,1.0,Created,Job 1-337,,,
+1105,50.86,1.0,Put in Routing Class,Job 1-337,,109.0,
+1106,50.9,2.0,Created,Job 2-338,,,
+1107,50.9,2.0,Put in Routing Class,Job 2-338,,110.0,
+1108,51.22,2.0,Work Finish,Job 2-76,Machine 4,,
+1109,51.22,2.0,Completed,Job 2-76,,,26.414334875213868
+1110,51.22,,Request Routing for Job,,Machine 4,110.0,
+1111,51.22,,Routing Start,,Machine 4,,3.675 Job 선택
+1112,51.22,2.0,Routing Finish,Job 2-80,Machine 4,,
+1113,51.22,2.0,Work Start,Job 2-80,Machine 4,,
+1114,51.22,0.0,Created,Job 0-281,,,
+1115,51.22,0.0,Put in Routing Class,Job 0-281,,110.0,
+1116,51.24,3.0,Created,Job 3-197,,,
+1117,51.24,3.0,Put in Routing Class,Job 3-197,,111.0,
+1118,51.36,8.0,Created,Job 8-242,,,
+1119,51.36,8.0,Put in Routing Class,Job 8-242,,112.0,
+1120,51.51,4.0,Created,Job 4-191,,,
+1121,51.51,4.0,Put in Routing Class,Job 4-191,,113.0,
+1122,51.66,4.0,Work Finish,Job 4-167,Machine 7,,
+1123,51.66,4.0,Completed,Job 4-167,,,0
+1124,51.66,,Request Routing for Job,,Machine 7,113.0,
+1125,51.66,,Routing Start,,Machine 7,,3.675 Job 선택
+1126,51.66,1.0,Routing Finish,Job 1-141,Machine 7,,
+1127,51.66,1.0,Work Start,Job 1-141,Machine 7,,
+1128,51.87,8.0,Work Finish,Job 8-193,Machine 2,,
+1129,51.87,8.0,Completed,Job 8-193,,,0
+1130,51.87,,Request Routing for Job,,Machine 2,112.0,
+1131,51.87,,Routing Start,,Machine 2,,3.675 Job 선택
+1132,51.87,8.0,Routing Finish,Job 8-202,Machine 2,,
+1133,51.87,8.0,Work Start,Job 8-202,Machine 2,,
+1134,51.88,5.0,Created,Job 5-177,,,
+1135,51.88,5.0,Put in Routing Class,Job 5-177,,112.0,
+1136,52.0,5.0,Work Finish,Job 5-137,Machine 6,,
+1137,52.0,5.0,Completed,Job 5-137,,,0
+1138,52.0,,Request Routing for Job,,Machine 6,112.0,
+1139,52.0,,Routing Start,,Machine 6,,3.675 Job 선택
+1140,52.0,5.0,Routing Finish,Job 5-147,Machine 6,,
+1141,52.0,5.0,Work Start,Job 5-147,Machine 6,,
+1142,52.45,0.0,Work Finish,Job 0-273,Machine 1,,
+1143,52.45,0.0,Completed,Job 0-273,,,0
+1144,52.45,,Request Routing for Job,,Machine 1,111.0,
+1145,52.45,,Routing Start,,Machine 1,,3.675 Job 선택
+1146,52.45,8.0,Routing Finish,Job 8-205,Machine 1,,
+1147,52.45,8.0,Work Start,Job 8-205,Machine 1,,
+1148,52.6,1.0,Created,Job 1-341,,,
+1149,52.6,1.0,Put in Routing Class,Job 1-341,,111.0,
+1150,52.72,0.0,Created,Job 0-313,,,
+1151,52.72,0.0,Put in Routing Class,Job 0-313,,112.0,
+1152,52.81,6.0,Created,Job 6-158,,,
+1153,52.81,6.0,Put in Routing Class,Job 6-158,,113.0,
+1154,52.96,2.0,Created,Job 2-342,,,
+1155,52.96,2.0,Put in Routing Class,Job 2-342,,114.0,
+1156,53.07,8.0,Created,Job 8-247,,,
+1157,53.07,8.0,Put in Routing Class,Job 8-247,,115.0,
+1158,53.21,7.0,Created,Job 7-232,,,
+1159,53.21,7.0,Put in Routing Class,Job 7-232,,116.0,
+1160,53.46,9.0,Created,Job 9-212,,,
+1161,53.46,9.0,Put in Routing Class,Job 9-212,,117.0,
+1162,53.53,5.0,Created,Job 5-180,,,
+1163,53.53,5.0,Put in Routing Class,Job 5-180,,118.0,
+1164,53.77,4.0,Created,Job 4-194,,,
+1165,53.77,4.0,Put in Routing Class,Job 4-194,,119.0,
+1166,53.87,3.0,Created,Job 3-201,,,
+1167,53.87,3.0,Put in Routing Class,Job 3-201,,120.0,
+1168,54.07,8.0,Created,Job 8-259,,,
+1169,54.07,8.0,Put in Routing Class,Job 8-259,,121.0,
+1170,54.24,7.0,Created,Job 7-236,,,
+1171,54.24,7.0,Put in Routing Class,Job 7-236,,122.0,
+1172,54.37,7.0,Work Finish,Job 7-116,Machine 3,,
+1173,54.37,7.0,Completed,Job 7-116,,,16.75372280138764
+1174,54.37,,Request Routing for Job,,Machine 3,122.0,
+1175,54.37,,Routing Start,,Machine 3,,3.675 Job 선택
+1176,54.37,4.0,Routing Finish,Job 4-171,Machine 3,,
+1177,54.37,4.0,Work Start,Job 4-171,Machine 3,,
+1178,54.52,0.0,Created,Job 0-324,,,
+1179,54.52,0.0,Put in Routing Class,Job 0-324,,122.0,
+1180,54.62,2.0,Created,Job 2-354,,,
+1181,54.62,2.0,Put in Routing Class,Job 2-354,,123.0,
+1182,54.75,1.0,Work Finish,Job 1-141,Machine 7,,
+1183,54.75,1.0,Completed,Job 1-141,,,25.45167249109987
+1184,54.75,,Request Routing for Job,,Machine 7,123.0,
+1185,54.75,,Routing Start,,Machine 7,,3.675 Job 선택
+1186,54.75,0.0,Routing Finish,Job 0-281,Machine 7,,
+1187,54.75,0.0,Work Start,Job 0-281,Machine 7,,
+1188,54.78,2.0,Work Finish,Job 2-80,Machine 4,,
+1189,54.78,2.0,Completed,Job 2-80,,,28.860716067288816
+1190,54.78,,Request Routing for Job,,Machine 4,122.0,
+1191,54.78,,Routing Start,,Machine 4,,3.675 Job 선택
+1192,54.78,0.0,Routing Finish,Job 0-313,Machine 4,,
+1193,54.78,0.0,Work Start,Job 0-313,Machine 4,,
+1194,54.82,9.0,Created,Job 9-217,,,
+1195,54.82,9.0,Put in Routing Class,Job 9-217,,122.0,
+1196,55.63,8.0,Work Finish,Job 8-202,Machine 2,,
+1197,55.63,8.0,Completed,Job 8-202,,,1.7938304921617316
+1198,55.63,,Request Routing for Job,,Machine 2,122.0,
+1199,55.63,,Routing Start,,Machine 2,,3.675 Job 선택
+1200,55.63,8.0,Routing Finish,Job 8-211,Machine 2,,
+1201,55.63,8.0,Work Start,Job 8-211,Machine 2,,
+1202,55.81,1.0,Created,Job 1-355,,,
+1203,55.81,1.0,Put in Routing Class,Job 1-355,,122.0,
+1204,55.95,0.0,Created,Job 0-339,,,
+1205,55.95,0.0,Put in Routing Class,Job 0-339,,123.0,
+1206,56.02,8.0,Work Finish,Job 8-205,Machine 1,,
+1207,56.02,8.0,Completed,Job 8-205,,,0
+1208,56.02,,Request Routing for Job,,Machine 1,123.0,
+1209,56.02,,Routing Start,,Machine 1,,3.675 Job 선택
+1210,56.02,8.0,Routing Finish,Job 8-224,Machine 1,,
+1211,56.02,8.0,Work Start,Job 8-224,Machine 1,,
+1212,56.15,0.0,Work Finish,Job 0-313,Machine 4,,
+1213,56.15,0.0,Completed,Job 0-313,,,0
+1214,56.15,,Request Routing for Job,,Machine 4,122.0,
+1215,56.15,,Routing Start,,Machine 4,,3.675 Job 선택
+1216,56.15,0.0,Routing Finish,Job 0-324,Machine 4,,
+1217,56.15,0.0,Work Start,Job 0-324,Machine 4,,
+1218,56.2,2.0,Created,Job 2-392,,,
+1219,56.2,2.0,Put in Routing Class,Job 2-392,,122.0,
+1220,56.25,6.0,Created,Job 6-169,,,
+1221,56.25,6.0,Put in Routing Class,Job 6-169,,123.0,
+1222,56.32,9.0,Created,Job 9-238,,,
+1223,56.32,9.0,Put in Routing Class,Job 9-238,,124.0,
+1224,56.61,4.0,Created,Job 4-195,,,
+1225,56.61,4.0,Put in Routing Class,Job 4-195,,125.0,
+1226,56.98,4.0,Work Finish,Job 4-171,Machine 3,,
+1227,56.98,4.0,Completed,Job 4-171,,,0.9424072158462735
+1228,56.98,,Request Routing for Job,,Machine 3,125.0,
+1229,56.98,,Routing Start,,Machine 3,,3.675 Job 선택
+1230,56.98,4.0,Routing Finish,Job 4-186,Machine 3,,
+1231,56.98,4.0,Work Start,Job 4-186,Machine 3,,
+1232,57.25,5.0,Created,Job 5-183,,,
+1233,57.25,5.0,Put in Routing Class,Job 5-183,,125.0,
+1234,57.52,0.0,Work Finish,Job 0-324,Machine 4,,
+1235,57.52,0.0,Completed,Job 0-324,,,0
+1236,57.52,,Request Routing for Job,,Machine 4,125.0,
+1237,57.52,,Routing Start,,Machine 4,,3.675 Job 선택
+1238,57.52,0.0,Routing Finish,Job 0-339,Machine 4,,
+1239,57.52,0.0,Work Start,Job 0-339,Machine 4,,
+1240,57.61,7.0,Work Finish,Job 7-119,Machine 0,,
+1241,57.61,7.0,Completed,Job 7-119,,,16.02191090501838
+1242,57.61,,Request Routing for Job,,Machine 0,124.0,
+1243,57.61,,Routing Start,,Machine 0,,3.675 Job 선택
+1244,57.61,5.0,Routing Finish,Job 5-177,Machine 0,,
+1245,57.61,5.0,Work Start,Job 5-177,Machine 0,,
+1246,57.72,0.0,Work Finish,Job 0-281,Machine 7,,
+1247,57.72,0.0,Completed,Job 0-281,,,0
+1248,57.72,,Request Routing for Job,,Machine 7,123.0,
+1249,57.72,,Routing Start,,Machine 7,,3.675 Job 선택
+1250,57.72,4.0,Routing Finish,Job 4-191,Machine 7,,
+1251,57.72,4.0,Work Start,Job 4-191,Machine 7,,
+1252,57.97,0.0,Created,Job 0-340,,,
+1253,57.97,0.0,Put in Routing Class,Job 0-340,,123.0,
+1254,58.14,2.0,Created,Job 2-395,,,
+1255,58.14,2.0,Put in Routing Class,Job 2-395,,124.0,
+1256,58.14,6.0,Created,Job 6-188,,,
+1257,58.14,6.0,Put in Routing Class,Job 6-188,,125.0,
+1258,58.46,5.0,Work Finish,Job 5-147,Machine 6,,
+1259,58.46,5.0,Completed,Job 5-147,,,0
+1260,58.46,,Request Routing for Job,,Machine 6,125.0,
+1261,58.46,,Routing Start,,Machine 6,,3.675 Job 선택
+1262,58.46,5.0,Routing Finish,Job 5-180,Machine 6,,
+1263,58.46,5.0,Work Start,Job 5-180,Machine 6,,
+1264,58.56,4.0,Created,Job 4-198,,,
+1265,58.56,4.0,Put in Routing Class,Job 4-198,,125.0,
+1266,58.62,3.0,Created,Job 3-234,,,
+1267,58.62,3.0,Put in Routing Class,Job 3-234,,126.0,
+1268,58.77,9.0,Created,Job 9-241,,,
+1269,58.77,9.0,Put in Routing Class,Job 9-241,,127.0,
+1270,58.89,0.0,Work Finish,Job 0-339,Machine 4,,
+1271,58.89,0.0,Completed,Job 0-339,,,0
+1272,58.89,,Request Routing for Job,,Machine 4,127.0,
+1273,58.89,,Routing Start,,Machine 4,,3.675 Job 선택
+1274,58.89,2.0,Routing Finish,Job 2-120,Machine 4,,
+1275,58.89,2.0,Work Start,Job 2-120,Machine 4,,
+1276,59.01,4.0,Work Finish,Job 4-191,Machine 7,,
+1277,59.01,4.0,Completed,Job 4-191,,,0
+1278,59.01,,Request Routing for Job,,Machine 7,126.0,
+1279,59.01,,Routing Start,,Machine 7,,3.675 Job 선택
+1280,59.01,1.0,Routing Finish,Job 1-145,Machine 7,,
+1281,59.01,1.0,Work Start,Job 1-145,Machine 7,,
+1282,59.07,1.0,Created,Job 1-356,,,
+1283,59.07,1.0,Put in Routing Class,Job 1-356,,126.0,
+1284,59.22,2.0,Created,Job 2-403,,,
+1285,59.22,2.0,Put in Routing Class,Job 2-403,,127.0,
+1286,59.34,6.0,Created,Job 6-192,,,
+1287,59.34,6.0,Put in Routing Class,Job 6-192,,128.0,
+1288,59.38,8.0,Work Finish,Job 8-211,Machine 2,,
+1289,59.38,8.0,Completed,Job 8-211,,,1.0329201615236059
+1290,59.38,,Request Routing for Job,,Machine 2,128.0,
+1291,59.38,,Routing Start,,Machine 2,,3.675 Job 선택
+1292,59.38,8.0,Routing Finish,Job 8-227,Machine 2,,
+1293,59.38,8.0,Work Start,Job 8-227,Machine 2,,
+1294,59.58,4.0,Work Finish,Job 4-186,Machine 3,,
+1295,59.58,4.0,Completed,Job 4-186,,,0.8349020912249117
+1296,59.58,,Request Routing for Job,,Machine 3,127.0,
+1297,59.58,,Routing Start,,Machine 3,,3.675 Job 선택
+1298,59.58,7.0,Routing Finish,Job 7-126,Machine 3,,
+1299,59.58,7.0,Work Start,Job 7-126,Machine 3,,
+1300,59.6,8.0,Work Finish,Job 8-224,Machine 1,,
+1301,59.6,8.0,Completed,Job 8-224,,,0.021434010732008346
+1302,59.6,,Request Routing for Job,,Machine 1,126.0,
+1303,59.6,,Routing Start,,Machine 1,,3.675 Job 선택
+1304,59.6,8.0,Routing Finish,Job 8-242,Machine 1,,
+1305,59.6,8.0,Work Start,Job 8-242,Machine 1,,
+1306,59.6,8.0,Created,Job 8-261,,,
+1307,59.6,8.0,Put in Routing Class,Job 8-261,,126.0,
+1308,59.84,4.0,Created,Job 4-206,,,
+1309,59.84,4.0,Put in Routing Class,Job 4-206,,127.0,
+1310,59.99,7.0,Created,Job 7-246,,,
+1311,59.99,7.0,Put in Routing Class,Job 7-246,,128.0,
+1312,60.04,3.0,Created,Job 3-239,,,
+1313,60.04,3.0,Put in Routing Class,Job 3-239,,129.0,
+1314,60.18,5.0,Created,Job 5-184,,,
+1315,60.18,5.0,Put in Routing Class,Job 5-184,,130.0,
+1316,60.8,5.0,Work Finish,Job 5-177,Machine 0,,
+1317,60.8,5.0,Completed,Job 5-177,,,0
+1318,60.8,,Request Routing for Job,,Machine 0,130.0,
+1319,60.8,,Routing Start,,Machine 0,,3.675 Job 선택
+1320,60.8,5.0,Routing Finish,Job 5-183,Machine 0,,
+1321,60.8,5.0,Work Start,Job 5-183,Machine 0,,
+1322,61.1,7.0,Work Finish,Job 7-96,Machine 5,,
+1323,61.1,7.0,Completed,Job 7-96,,,24.767439456853495
+1324,61.1,,Request Routing for Job,,Machine 5,129.0,
+1325,61.1,,Routing Start,,Machine 5,,3.675 Job 선택
+1326,61.1,0.0,Routing Finish,Job 0-340,Machine 5,,
+1327,61.1,0.0,Work Start,Job 0-340,Machine 5,,
+1328,61.19,7.0,Created,Job 7-251,,,
+1329,61.19,7.0,Put in Routing Class,Job 7-251,,129.0,
+1330,61.68,5.0,Created,Job 5-190,,,
+1331,61.68,5.0,Put in Routing Class,Job 5-190,,130.0,
+1332,61.7,6.0,Created,Job 6-199,,,
+1333,61.7,6.0,Put in Routing Class,Job 6-199,,131.0,
+1334,62.1,1.0,Work Finish,Job 1-145,Machine 7,,
+1335,62.1,1.0,Completed,Job 1-145,,,28.43211185841455
+1336,62.1,,Request Routing for Job,,Machine 7,131.0,
+1337,62.1,,Routing Start,,Machine 7,,3.675 Job 선택
+1338,62.1,4.0,Routing Finish,Job 4-194,Machine 7,,
+1339,62.1,4.0,Work Start,Job 4-194,Machine 7,,
+1340,62.14,1.0,Created,Job 1-369,,,
+1341,62.14,1.0,Put in Routing Class,Job 1-369,,131.0,
+1342,62.29,7.0,Created,Job 7-252,,,
+1343,62.29,7.0,Put in Routing Class,Job 7-252,,132.0,
+1344,62.35,8.0,Created,Job 8-262,,,
+1345,62.35,8.0,Put in Routing Class,Job 8-262,,133.0,
+1346,62.45,2.0,Work Finish,Job 2-120,Machine 4,,
+1347,62.45,2.0,Completed,Job 2-120,,,35.156065185025824
+1348,62.45,,Request Routing for Job,,Machine 4,133.0,
+1349,62.45,,Routing Start,,Machine 4,,3.675 Job 선택
+1350,62.45,2.0,Routing Finish,Job 2-122,Machine 4,,
+1351,62.45,2.0,Work Start,Job 2-122,Machine 4,,
+1352,63.14,8.0,Work Finish,Job 8-227,Machine 2,,
+1353,63.14,8.0,Completed,Job 8-227,,,0.7744669989881174
+1354,63.14,,Request Routing for Job,,Machine 2,132.0,
+1355,63.14,,Routing Start,,Machine 2,,3.675 Job 선택
+1356,63.14,8.0,Routing Finish,Job 8-247,Machine 2,,
+1357,63.14,8.0,Work Start,Job 8-247,Machine 2,,
+1358,63.18,8.0,Work Finish,Job 8-242,Machine 1,,
+1359,63.18,8.0,Completed,Job 8-242,,,0
+1360,63.18,,Request Routing for Job,,Machine 1,131.0,
+1361,63.18,,Routing Start,,Machine 1,,3.675 Job 선택
+1362,63.18,8.0,Routing Finish,Job 8-259,Machine 1,,
+1363,63.18,8.0,Work Start,Job 8-259,Machine 1,,
+1364,63.2,9.0,Created,Job 9-250,,,
+1365,63.2,9.0,Put in Routing Class,Job 9-250,,131.0,
+1366,63.24,1.0,Created,Job 1-371,,,
+1367,63.24,1.0,Put in Routing Class,Job 1-371,,132.0,
+1368,63.4,4.0,Work Finish,Job 4-194,Machine 7,,
+1369,63.4,4.0,Completed,Job 4-194,,,0
+1370,63.4,,Request Routing for Job,,Machine 7,132.0,
+1371,63.4,,Routing Start,,Machine 7,,3.675 Job 선택
+1372,63.4,4.0,Routing Finish,Job 4-195,Machine 7,,
+1373,63.4,4.0,Work Start,Job 4-195,Machine 7,,
+1374,63.5,8.0,Created,Job 8-268,,,
+1375,63.5,8.0,Put in Routing Class,Job 8-268,,132.0,
+1376,63.75,0.0,Created,Job 0-352,,,
+1377,63.75,0.0,Put in Routing Class,Job 0-352,,133.0,
+1378,63.9,2.0,Created,Job 2-408,,,
+1379,63.9,2.0,Put in Routing Class,Job 2-408,,134.0,
+1380,63.98,5.0,Work Finish,Job 5-183,Machine 0,,
+1381,63.98,5.0,Completed,Job 5-183,,,0
+1382,63.98,,Request Routing for Job,,Machine 0,134.0,
+1383,63.98,,Routing Start,,Machine 0,,3.675 Job 선택
+1384,63.98,5.0,Routing Finish,Job 5-184,Machine 0,,
+1385,63.98,5.0,Work Start,Job 5-184,Machine 0,,
+1386,64.22,4.0,Created,Job 4-219,,,
+1387,64.22,4.0,Put in Routing Class,Job 4-219,,134.0,
+1388,64.23,3.0,Created,Job 3-240,,,
+1389,64.23,3.0,Put in Routing Class,Job 3-240,,135.0,
+1390,64.25,7.0,Created,Job 7-258,,,
+1391,64.25,7.0,Put in Routing Class,Job 7-258,,136.0,
+1392,64.28,9.0,Created,Job 9-256,,,
+1393,64.28,9.0,Put in Routing Class,Job 9-256,,137.0,
+1394,64.44,7.0,Work Finish,Job 7-126,Machine 3,,
+1395,64.44,7.0,Completed,Job 7-126,,,20.44158942634293
+1396,64.44,,Request Routing for Job,,Machine 3,137.0,
+1397,64.44,,Routing Start,,Machine 3,,3.675 Job 선택
+1398,64.44,7.0,Routing Finish,Job 7-140,Machine 3,,
+1399,64.44,7.0,Work Start,Job 7-140,Machine 3,,
+1400,64.69,4.0,Work Finish,Job 4-195,Machine 7,,
+1401,64.69,4.0,Completed,Job 4-195,,,0
+1402,64.69,,Request Routing for Job,,Machine 7,136.0,
+1403,64.69,,Routing Start,,Machine 7,,3.675 Job 선택
+1404,64.69,4.0,Routing Finish,Job 4-198,Machine 7,,
+1405,64.69,4.0,Work Start,Job 4-198,Machine 7,,
+1406,64.91,8.0,Created,Job 8-269,,,
+1407,64.91,8.0,Put in Routing Class,Job 8-269,,136.0,
+1408,64.91,5.0,Work Finish,Job 5-180,Machine 6,,
+1409,64.91,5.0,Completed,Job 5-180,,,0
+1410,64.91,,Request Routing for Job,,Machine 6,136.0,
+1411,64.91,,Routing Start,,Machine 6,,3.675 Job 선택
+1412,64.91,5.0,Routing Finish,Job 5-190,Machine 6,,
+1413,64.91,5.0,Work Start,Job 5-190,Machine 6,,
+1414,65.19,5.0,Created,Job 5-208,,,
+1415,65.19,5.0,Put in Routing Class,Job 5-208,,136.0,
+1416,65.23,4.0,Created,Job 4-248,,,
+1417,65.23,4.0,Put in Routing Class,Job 4-248,,137.0,
+1418,65.32,7.0,Created,Job 7-267,,,
+1419,65.32,7.0,Put in Routing Class,Job 7-267,,138.0,
+1420,65.61,3.0,Created,Job 3-244,,,
+1421,65.61,3.0,Put in Routing Class,Job 3-244,,139.0,
+1422,65.98,4.0,Work Finish,Job 4-198,Machine 7,,
+1423,65.98,4.0,Completed,Job 4-198,,,0
+1424,65.98,,Request Routing for Job,,Machine 7,139.0,
+1425,65.98,,Routing Start,,Machine 7,,3.675 Job 선택
+1426,65.98,0.0,Routing Finish,Job 0-352,Machine 7,,
+1427,65.98,0.0,Work Start,Job 0-352,Machine 7,,
+1428,66.01,2.0,Work Finish,Job 2-122,Machine 4,,
+1429,66.01,2.0,Completed,Job 2-122,,,35.14186244642478
+1430,66.01,,Request Routing for Job,,Machine 4,138.0,
+1431,66.01,,Routing Start,,Machine 4,,3.675 Job 선택
+1432,66.01,2.0,Routing Finish,Job 2-127,Machine 4,,
+1433,66.01,2.0,Work Start,Job 2-127,Machine 4,,
+1434,66.02,2.0,Created,Job 2-414,,,
+1435,66.02,2.0,Put in Routing Class,Job 2-414,,138.0,
+1436,66.06,8.0,Created,Job 8-296,,,
+1437,66.06,8.0,Put in Routing Class,Job 8-296,,139.0,
+1438,66.23,5.0,Created,Job 5-216,,,
+1439,66.23,5.0,Put in Routing Class,Job 5-216,,140.0,
+1440,66.33,1.0,Created,Job 1-373,,,
+1441,66.33,1.0,Put in Routing Class,Job 1-373,,141.0,
+1442,66.52,6.0,Created,Job 6-207,,,
+1443,66.52,6.0,Put in Routing Class,Job 6-207,,142.0,
+1444,66.68,4.0,Created,Job 4-249,,,
+1445,66.68,4.0,Put in Routing Class,Job 4-249,,143.0,
+1446,66.75,8.0,Work Finish,Job 8-259,Machine 1,,
+1447,66.75,8.0,Completed,Job 8-259,,,0.5904581041133667
+1448,66.75,,Request Routing for Job,,Machine 1,143.0,
+1449,66.75,,Routing Start,,Machine 1,,3.675 Job 선택
+1450,66.75,8.0,Routing Finish,Job 8-261,Machine 1,,
+1451,66.75,8.0,Work Start,Job 8-261,Machine 1,,
+1452,66.9,8.0,Work Finish,Job 8-247,Machine 2,,
+1453,66.9,8.0,Completed,Job 8-247,,,1.7453803882037562
+1454,66.9,,Request Routing for Job,,Machine 2,142.0,
+1455,66.9,,Routing Start,,Machine 2,,3.675 Job 선택
+1456,66.9,1.0,Routing Finish,Job 1-148,Machine 2,,
+1457,66.9,1.0,Work Start,Job 1-148,Machine 2,,
+1458,67.17,5.0,Work Finish,Job 5-184,Machine 0,,
+1459,67.17,5.0,Completed,Job 5-184,,,0
+1460,67.17,,Request Routing for Job,,Machine 0,141.0,
+1461,67.17,,Routing Start,,Machine 0,,3.675 Job 선택
+1462,67.17,5.0,Routing Finish,Job 5-208,Machine 0,,
+1463,67.17,5.0,Work Start,Job 5-208,Machine 0,,
+1464,67.21,2.0,Created,Job 2-416,,,
+1465,67.21,2.0,Put in Routing Class,Job 2-416,,141.0,
+1466,67.36,7.0,Created,Job 7-272,,,
+1467,67.36,7.0,Put in Routing Class,Job 7-272,,142.0,
+1468,67.44,1.0,Created,Job 1-374,,,
+1469,67.44,1.0,Put in Routing Class,Job 1-374,,143.0,
+1470,67.74,6.0,Created,Job 6-221,,,
+1471,67.74,6.0,Put in Routing Class,Job 6-221,,144.0,
+1472,67.96,9.0,Created,Job 9-264,,,
+1473,67.96,9.0,Put in Routing Class,Job 9-264,,145.0,
+1474,68.24,3.0,Created,Job 3-254,,,
+1475,68.24,3.0,Put in Routing Class,Job 3-254,,146.0,
+1476,68.56,1.0,Created,Job 1-375,,,
+1477,68.56,1.0,Put in Routing Class,Job 1-375,,147.0,
+1478,68.91,8.0,Created,Job 8-299,,,
+1479,68.91,8.0,Put in Routing Class,Job 8-299,,148.0,
+1480,68.95,0.0,Work Finish,Job 0-352,Machine 7,,
+1481,68.95,0.0,Completed,Job 0-352,,,0
+1482,68.95,,Request Routing for Job,,Machine 7,148.0,
+1483,68.95,,Routing Start,,Machine 7,,3.675 Job 선택
+1484,68.95,4.0,Routing Finish,Job 4-206,Machine 7,,
+1485,68.95,4.0,Work Start,Job 4-206,Machine 7,,
+1486,69.02,6.0,Created,Job 6-222,,,
+1487,69.02,6.0,Put in Routing Class,Job 6-222,,148.0,
+1488,69.11,2.0,Created,Job 2-428,,,
+1489,69.11,2.0,Put in Routing Class,Job 2-428,,149.0,
+1490,69.18,5.0,Created,Job 5-225,,,
+1491,69.18,5.0,Put in Routing Class,Job 5-225,,150.0,
+1492,69.29,4.0,Created,Job 4-253,,,
+1493,69.29,4.0,Put in Routing Class,Job 4-253,,151.0,
+1494,69.29,7.0,Work Finish,Job 7-140,Machine 3,,
+1495,69.29,7.0,Completed,Job 7-140,,,23.006933518860414
+1496,69.29,,Request Routing for Job,,Machine 3,151.0,
+1497,69.29,,Routing Start,,Machine 3,,3.675 Job 선택
+1498,69.29,7.0,Routing Finish,Job 7-159,Machine 3,,
+1499,69.29,7.0,Work Start,Job 7-159,Machine 3,,
+1500,69.58,2.0,Work Finish,Job 2-127,Machine 4,,
+1501,69.58,2.0,Completed,Job 2-127,,,37.22878706296611
+1502,69.58,,Request Routing for Job,,Machine 4,150.0,
+1503,69.58,,Routing Start,,Machine 4,,3.675 Job 선택
+1504,69.58,2.0,Routing Finish,Job 2-165,Machine 4,,
+1505,69.58,2.0,Work Start,Job 2-165,Machine 4,,
+1506,69.96,8.0,Created,Job 8-303,,,
+1507,69.96,8.0,Put in Routing Class,Job 8-303,,150.0,
+1508,70.14,0.0,Created,Job 0-358,,,
+1509,70.14,0.0,Put in Routing Class,Job 0-358,,151.0,
+1510,70.16,6.0,Created,Job 6-223,,,
+1511,70.16,6.0,Put in Routing Class,Job 6-223,,152.0,
+1512,70.24,2.0,Created,Job 2-445,,,
+1513,70.24,2.0,Put in Routing Class,Job 2-445,,153.0,
+1514,70.25,4.0,Work Finish,Job 4-206,Machine 7,,
+1515,70.25,4.0,Completed,Job 4-206,,,0.6123206056069819
+1516,70.25,,Request Routing for Job,,Machine 7,153.0,
+1517,70.25,,Routing Start,,Machine 7,,3.675 Job 선택
+1518,70.25,4.0,Routing Finish,Job 4-219,Machine 7,,
+1519,70.25,4.0,Work Start,Job 4-219,Machine 7,,
+1520,70.33,8.0,Work Finish,Job 8-261,Machine 1,,
+1521,70.33,8.0,Completed,Job 8-261,,,0
+1522,70.33,,Request Routing for Job,,Machine 1,152.0,
+1523,70.33,,Routing Start,,Machine 1,,3.675 Job 선택
+1524,70.33,8.0,Routing Finish,Job 8-262,Machine 1,,
+1525,70.33,8.0,Work Start,Job 8-262,Machine 1,,
+1526,70.36,5.0,Work Finish,Job 5-208,Machine 0,,
+1527,70.36,5.0,Completed,Job 5-208,,,0
+1528,70.36,,Request Routing for Job,,Machine 0,151.0,
+1529,70.36,,Routing Start,,Machine 0,,3.675 Job 선택
+1530,70.36,5.0,Routing Finish,Job 5-216,Machine 0,,
+1531,70.36,5.0,Work Start,Job 5-216,Machine 0,,
+1532,70.4,5.0,Created,Job 5-226,,,
+1533,70.4,5.0,Put in Routing Class,Job 5-226,,151.0,
+1534,70.85,4.0,Created,Job 4-257,,,
+1535,70.85,4.0,Put in Routing Class,Job 4-257,,152.0,
+1536,70.89,3.0,Created,Job 3-286,,,
+1537,70.89,3.0,Put in Routing Class,Job 3-286,,153.0,
+1538,70.92,7.0,Created,Job 7-278,,,
+1539,70.92,7.0,Put in Routing Class,Job 7-278,,154.0,
+1540,71.0,9.0,Created,Job 9-270,,,
+1541,71.0,9.0,Put in Routing Class,Job 9-270,,155.0,
+1542,71.14,1.0,Work Finish,Job 1-148,Machine 2,,
+1543,71.14,1.0,Completed,Job 1-148,,,34.774650973640945
+1544,71.14,,Request Routing for Job,,Machine 2,155.0,
+1545,71.14,,Routing Start,,Machine 2,,3.675 Job 선택
+1546,71.14,8.0,Routing Finish,Job 8-268,Machine 2,,
+1547,71.14,8.0,Work Start,Job 8-268,Machine 2,,
+1548,71.26,2.0,Created,Job 2-463,,,
+1549,71.26,2.0,Put in Routing Class,Job 2-463,,155.0,
+1550,71.37,5.0,Work Finish,Job 5-190,Machine 6,,
+1551,71.37,5.0,Completed,Job 5-190,,,0
+1552,71.37,,Request Routing for Job,,Machine 6,155.0,
+1553,71.37,,Routing Start,,Machine 6,,3.675 Job 선택
+1554,71.37,5.0,Routing Finish,Job 5-225,Machine 6,,
+1555,71.37,5.0,Work Start,Job 5-225,Machine 6,,
+1556,71.54,4.0,Work Finish,Job 4-219,Machine 7,,
+1557,71.54,4.0,Completed,Job 4-219,,,0
+1558,71.54,,Request Routing for Job,,Machine 7,154.0,
+1559,71.54,,Routing Start,,Machine 7,,3.675 Job 선택
+1560,71.54,4.0,Routing Finish,Job 4-248,Machine 7,,
+1561,71.54,4.0,Work Start,Job 4-248,Machine 7,,
+1562,71.7,0.0,Work Finish,Job 0-340,Machine 5,,
+1563,71.7,0.0,Completed,Job 0-340,,,4.76382352698883
+1564,71.7,,Request Routing for Job,,Machine 5,153.0,
+1565,71.7,,Routing Start,,Machine 5,,3.675 Job 선택
+1566,71.7,0.0,Routing Finish,Job 0-358,Machine 5,,
+1567,71.7,0.0,Work Start,Job 0-358,Machine 5,,
+1568,71.71,5.0,Created,Job 5-228,,,
+1569,71.71,5.0,Put in Routing Class,Job 5-228,,153.0,
+1570,71.87,4.0,Created,Job 4-265,,,
+1571,71.87,4.0,Put in Routing Class,Job 4-265,,154.0,
+1572,71.91,3.0,Created,Job 3-288,,,
+1573,71.91,3.0,Put in Routing Class,Job 3-288,,155.0,
+1574,71.96,7.0,Created,Job 7-290,,,
+1575,71.96,7.0,Put in Routing Class,Job 7-290,,156.0,
+1576,72.36,9.0,Created,Job 9-292,,,
+1577,72.36,9.0,Put in Routing Class,Job 9-292,,157.0,
+1578,72.82,6.0,Created,Job 6-229,,,
+1579,72.82,6.0,Put in Routing Class,Job 6-229,,158.0,
+1580,72.83,4.0,Work Finish,Job 4-248,Machine 7,,
+1581,72.83,4.0,Completed,Job 4-248,,,0
+1582,72.83,,Request Routing for Job,,Machine 7,158.0,
+1583,72.83,,Routing Start,,Machine 7,,3.675 Job 선택
+1584,72.83,4.0,Routing Finish,Job 4-249,Machine 7,,
+1585,72.83,4.0,Work Start,Job 4-249,Machine 7,,
+1586,72.93,4.0,Created,Job 4-275,,,
+1587,72.93,4.0,Put in Routing Class,Job 4-275,,158.0,
+1588,73.04,0.0,Created,Job 0-362,,,
+1589,73.04,0.0,Put in Routing Class,Job 0-362,,159.0,
+1590,73.14,2.0,Work Finish,Job 2-165,Machine 4,,
+1591,73.14,2.0,Completed,Job 2-165,,,38.07020983979941
+1592,73.14,,Request Routing for Job,,Machine 4,159.0,
+1593,73.14,,Routing Start,,Machine 4,,3.675 Job 선택
+1594,73.14,2.0,Routing Finish,Job 2-178,Machine 4,,
+1595,73.14,2.0,Work Start,Job 2-178,Machine 4,,
+1596,73.35,3.0,Created,Job 3-300,,,
+1597,73.35,3.0,Put in Routing Class,Job 3-300,,159.0,
+1598,73.4,2.0,Created,Job 2-481,,,
+1599,73.4,2.0,Put in Routing Class,Job 2-481,,160.0,
+1600,73.41,8.0,Created,Job 8-343,,,
+1601,73.41,8.0,Put in Routing Class,Job 8-343,,161.0,
+1602,73.43,5.0,Created,Job 5-233,,,
+1603,73.43,5.0,Put in Routing Class,Job 5-233,,162.0,
+1604,73.55,5.0,Work Finish,Job 5-216,Machine 0,,
+1605,73.55,5.0,Completed,Job 5-216,,,0
+1606,73.55,,Request Routing for Job,,Machine 0,162.0,
+1607,73.55,,Routing Start,,Machine 0,,3.675 Job 선택
+1608,73.55,5.0,Routing Finish,Job 5-226,Machine 0,,
+1609,73.55,5.0,Work Start,Job 5-226,Machine 0,,
+1610,73.59,1.0,Created,Job 1-379,,,
+1611,73.59,1.0,Put in Routing Class,Job 1-379,,162.0,
+1612,73.79,9.0,Created,Job 9-294,,,
+1613,73.79,9.0,Put in Routing Class,Job 9-294,,163.0,
+1614,73.9,8.0,Work Finish,Job 8-262,Machine 1,,
+1615,73.9,8.0,Completed,Job 8-262,,,0
+1616,73.9,,Request Routing for Job,,Machine 1,163.0,
+1617,73.9,,Routing Start,,Machine 1,,3.675 Job 선택
+1618,73.9,8.0,Routing Finish,Job 8-269,Machine 1,,
+1619,73.9,8.0,Work Start,Job 8-269,Machine 1,,
+1620,74.13,4.0,Work Finish,Job 4-249,Machine 7,,
+1621,74.13,4.0,Completed,Job 4-249,,,0
+1622,74.13,,Request Routing for Job,,Machine 7,162.0,
+1623,74.13,,Routing Start,,Machine 7,,3.675 Job 선택
+1624,74.13,1.0,Routing Finish,Job 1-172,Machine 7,,
+1625,74.13,1.0,Work Start,Job 1-172,Machine 7,,
+1626,74.15,7.0,Work Finish,Job 7-159,Machine 3,,
+1627,74.15,7.0,Completed,Job 7-159,,,26.415181305651885
+1628,74.15,,Request Routing for Job,,Machine 3,161.0,
+1629,74.15,,Routing Start,,Machine 3,,3.675 Job 선택
+1630,74.15,7.0,Routing Finish,Job 7-168,Machine 3,,
+1631,74.15,7.0,Work Start,Job 7-168,Machine 3,,
+1632,74.34,6.0,Created,Job 6-230,,,
+1633,74.34,6.0,Put in Routing Class,Job 6-230,,161.0,
+1634,74.36,3.0,Created,Job 3-304,,,
+1635,74.36,3.0,Put in Routing Class,Job 3-304,,162.0,
+1636,74.56,0.0,Created,Job 0-376,,,
+1637,74.56,0.0,Put in Routing Class,Job 0-376,,163.0,
+1638,74.83,9.0,Created,Job 9-297,,,
+1639,74.83,9.0,Put in Routing Class,Job 9-297,,164.0,
+1640,74.9,8.0,Work Finish,Job 8-268,Machine 2,,
+1641,74.9,8.0,Completed,Job 8-268,,,0
+1642,74.9,,Request Routing for Job,,Machine 2,164.0,
+1643,74.9,,Routing Start,,Machine 2,,3.675 Job 선택
+1644,74.9,8.0,Routing Finish,Job 8-296,Machine 2,,
+1645,74.9,8.0,Work Start,Job 8-296,Machine 2,,
+1646,75.04,5.0,Created,Job 5-243,,,
+1647,75.04,5.0,Put in Routing Class,Job 5-243,,164.0,
+1648,75.05,7.0,Created,Job 7-332,,,
+1649,75.05,7.0,Put in Routing Class,Job 7-332,,165.0,
+1650,75.15,4.0,Created,Job 4-279,,,
+1651,75.15,4.0,Put in Routing Class,Job 4-279,,166.0,
+1652,75.4,6.0,Created,Job 6-235,,,
+1653,75.4,6.0,Put in Routing Class,Job 6-235,,167.0,
+1654,75.61,2.0,Created,Job 2-489,,,
+1655,75.61,2.0,Put in Routing Class,Job 2-489,,168.0,
+1656,75.84,9.0,Created,Job 9-301,,,
+1657,75.84,9.0,Put in Routing Class,Job 9-301,,169.0,
+1658,76.28,0.0,Created,Job 0-410,,,
+1659,76.28,0.0,Put in Routing Class,Job 0-410,,170.0,
+1660,76.55,7.0,Created,Job 7-344,,,
+1661,76.55,7.0,Put in Routing Class,Job 7-344,,171.0,
+1662,76.7,2.0,Work Finish,Job 2-178,Machine 4,,
+1663,76.7,2.0,Completed,Job 2-178,,,40.458647525435794
+1664,76.7,,Request Routing for Job,,Machine 4,171.0,
+1665,76.7,,Routing Start,,Machine 4,,3.675 Job 선택
+1666,76.7,0.0,Routing Finish,Job 0-362,Machine 4,,
+1667,76.7,0.0,Work Start,Job 0-362,Machine 4,,
+1668,76.74,5.0,Work Finish,Job 5-226,Machine 0,,
+1669,76.74,5.0,Completed,Job 5-226,,,0
+1670,76.74,,Request Routing for Job,,Machine 0,170.0,
+1671,76.74,,Routing Start,,Machine 0,,3.675 Job 선택
+1672,76.74,5.0,Routing Finish,Job 5-228,Machine 0,,
+1673,76.74,5.0,Work Start,Job 5-228,Machine 0,,
+1674,76.83,5.0,Created,Job 5-255,,,
+1675,76.83,5.0,Put in Routing Class,Job 5-255,,170.0,
+1676,76.85,1.0,Created,Job 1-380,,,
+1677,76.85,1.0,Put in Routing Class,Job 1-380,,171.0,
+1678,77.22,1.0,Work Finish,Job 1-172,Machine 7,,
+1679,77.22,1.0,Completed,Job 1-172,,,39.3499570365632
+1680,77.22,,Request Routing for Job,,Machine 7,171.0,
+1681,77.22,,Routing Start,,Machine 7,,3.675 Job 선택
+1682,77.22,4.0,Routing Finish,Job 4-253,Machine 7,,
+1683,77.22,4.0,Work Start,Job 4-253,Machine 7,,
+1684,77.48,8.0,Work Finish,Job 8-269,Machine 1,,
+1685,77.48,8.0,Completed,Job 8-269,,,0.48350367283853757
+1686,77.48,,Request Routing for Job,,Machine 1,170.0,
+1687,77.48,,Routing Start,,Machine 1,,3.675 Job 선택
+1688,77.48,8.0,Routing Finish,Job 8-299,Machine 1,,
+1689,77.48,8.0,Work Start,Job 8-299,Machine 1,,
+1690,77.52,9.0,Created,Job 9-317,,,
+1691,77.52,9.0,Put in Routing Class,Job 9-317,,170.0,
+1692,77.59,2.0,Created,Job 2-493,,,
+1693,77.59,2.0,Put in Routing Class,Job 2-493,,171.0,
+1694,77.71,0.0,Created,Job 0-418,,,
+1695,77.71,0.0,Put in Routing Class,Job 0-418,,172.0,
+1696,77.71,7.0,Created,Job 7-357,,,
+1697,77.71,7.0,Put in Routing Class,Job 7-357,,173.0,
+1698,77.82,5.0,Work Finish,Job 5-225,Machine 6,,
+1699,77.82,5.0,Completed,Job 5-225,,,0
+1700,77.82,,Request Routing for Job,,Machine 6,173.0,
+1701,77.82,,Routing Start,,Machine 6,,3.675 Job 선택
+1702,77.82,5.0,Routing Finish,Job 5-233,Machine 6,,
+1703,77.82,5.0,Work Start,Job 5-233,Machine 6,,
+1704,78.07,0.0,Work Finish,Job 0-362,Machine 4,,
+1705,78.07,0.0,Completed,Job 0-362,,,0
+1706,78.07,,Request Routing for Job,,Machine 4,172.0,
+1707,78.07,,Routing Start,,Machine 4,,3.675 Job 선택
+1708,78.07,0.0,Routing Finish,Job 0-376,Machine 4,,
+1709,78.07,0.0,Work Start,Job 0-376,Machine 4,,
+1710,78.33,8.0,Created,Job 8-345,,,
+1711,78.33,8.0,Put in Routing Class,Job 8-345,,172.0,
+1712,78.51,4.0,Work Finish,Job 4-253,Machine 7,,
+1713,78.51,4.0,Completed,Job 4-253,,,0
+1714,78.51,,Request Routing for Job,,Machine 7,172.0,
+1715,78.51,,Routing Start,,Machine 7,,3.675 Job 선택
+1716,78.51,4.0,Routing Finish,Job 4-257,Machine 7,,
+1717,78.51,4.0,Work Start,Job 4-257,Machine 7,,
+1718,78.61,9.0,Created,Job 9-334,,,
+1719,78.61,9.0,Put in Routing Class,Job 9-334,,172.0,
+1720,78.65,8.0,Work Finish,Job 8-296,Machine 2,,
+1721,78.65,8.0,Completed,Job 8-296,,,0.5008538629184613
+1722,78.65,,Request Routing for Job,,Machine 2,172.0,
+1723,78.65,,Routing Start,,Machine 2,,3.675 Job 선택
+1724,78.65,8.0,Routing Finish,Job 8-303,Machine 2,,
+1725,78.65,8.0,Work Start,Job 8-303,Machine 2,,
+1726,78.68,5.0,Created,Job 5-263,,,
+1727,78.68,5.0,Put in Routing Class,Job 5-263,,172.0,
+1728,78.73,1.0,Created,Job 1-383,,,
+1729,78.73,1.0,Put in Routing Class,Job 1-383,,173.0,
+1730,78.77,2.0,Created,Job 2-498,,,
+1731,78.77,2.0,Put in Routing Class,Job 2-498,,174.0,
+1732,78.88,7.0,Created,Job 7-359,,,
+1733,78.88,7.0,Put in Routing Class,Job 7-359,,175.0,
+1734,79.0,7.0,Work Finish,Job 7-168,Machine 3,,
+1735,79.0,7.0,Completed,Job 7-168,,,30.21750675655644
+1736,79.0,,Request Routing for Job,,Machine 3,175.0,
+1737,79.0,,Routing Start,,Machine 3,,3.675 Job 선택
+1738,79.0,4.0,Routing Finish,Job 4-265,Machine 3,,
+1739,79.0,4.0,Work Start,Job 4-265,Machine 3,,
+1740,79.24,6.0,Created,Job 6-266,,,
+1741,79.24,6.0,Put in Routing Class,Job 6-266,,175.0,
+1742,79.44,0.0,Work Finish,Job 0-376,Machine 4,,
+1743,79.44,0.0,Completed,Job 0-376,,,0
+1744,79.44,,Request Routing for Job,,Machine 4,175.0,
+1745,79.44,,Routing Start,,Machine 4,,3.675 Job 선택
+1746,79.44,0.0,Routing Finish,Job 0-410,Machine 4,,
+1747,79.44,0.0,Work Start,Job 0-410,Machine 4,,
+1748,79.8,4.0,Work Finish,Job 4-257,Machine 7,,
+1749,79.8,4.0,Completed,Job 4-257,,,0
+1750,79.8,,Request Routing for Job,,Machine 7,174.0,
+1751,79.8,,Routing Start,,Machine 7,,3.675 Job 선택
+1752,79.8,4.0,Routing Finish,Job 4-275,Machine 7,,
+1753,79.8,4.0,Work Start,Job 4-275,Machine 7,,
+1754,79.8,9.0,Created,Job 9-336,,,
+1755,79.8,9.0,Put in Routing Class,Job 9-336,,174.0,
+1756,79.92,5.0,Work Finish,Job 5-228,Machine 0,,
+1757,79.92,5.0,Completed,Job 5-228,,,0
+1758,79.92,,Request Routing for Job,,Machine 0,174.0,
+1759,79.92,,Routing Start,,Machine 0,,3.675 Job 선택
+1760,79.92,5.0,Routing Finish,Job 5-243,Machine 0,,
+1761,79.92,5.0,Work Start,Job 5-243,Machine 0,,
+1762,80.07,5.0,Created,Job 5-310,,,
+1763,80.07,5.0,Put in Routing Class,Job 5-310,,174.0,
+1764,80.58,4.0,Created,Job 4-289,,,
+1765,80.58,4.0,Put in Routing Class,Job 4-289,,175.0,
+1766,80.67,8.0,Created,Job 8-360,,,
+1767,80.67,8.0,Put in Routing Class,Job 8-360,,176.0,
+1768,80.74,3.0,Created,Job 3-307,,,
+1769,80.74,3.0,Put in Routing Class,Job 3-307,,177.0,
+1770,80.81,0.0,Work Finish,Job 0-410,Machine 4,,
+1771,80.81,0.0,Completed,Job 0-410,,,0
+1772,80.81,,Request Routing for Job,,Machine 4,177.0,
+1773,80.81,,Routing Start,,Machine 4,,3.675 Job 선택
+1774,80.81,0.0,Routing Finish,Job 0-418,Machine 4,,
+1775,80.81,0.0,Work Start,Job 0-418,Machine 4,,
+1776,81.05,8.0,Work Finish,Job 8-299,Machine 1,,
+1777,81.05,8.0,Completed,Job 8-299,,,0.05921446572064326
+1778,81.05,,Request Routing for Job,,Machine 1,176.0,
+1779,81.05,,Routing Start,,Machine 1,,3.675 Job 선택
+1780,81.05,8.0,Routing Finish,Job 8-343,Machine 1,,
+1781,81.05,8.0,Work Start,Job 8-343,Machine 1,,
+1782,81.1,4.0,Work Finish,Job 4-275,Machine 7,,
+1783,81.1,4.0,Completed,Job 4-275,,,0
+1784,81.1,,Request Routing for Job,,Machine 7,175.0,
+1785,81.1,,Routing Start,,Machine 7,,3.675 Job 선택
+1786,81.1,4.0,Routing Finish,Job 4-279,Machine 7,,
+1787,81.1,4.0,Work Start,Job 4-279,Machine 7,,
+1788,81.13,6.0,Created,Job 6-274,,,
+1789,81.13,6.0,Put in Routing Class,Job 6-274,,175.0,
+1790,81.25,5.0,Created,Job 5-312,,,
+1791,81.25,5.0,Put in Routing Class,Job 5-312,,176.0,
+1792,81.61,4.0,Work Finish,Job 4-265,Machine 3,,
+1793,81.61,4.0,Completed,Job 4-265,,,0
+1794,81.61,,Request Routing for Job,,Machine 3,176.0,
+1795,81.61,,Routing Start,,Machine 3,,3.675 Job 선택
+1796,81.61,7.0,Routing Finish,Job 7-170,Machine 3,,
+1797,81.61,7.0,Work Start,Job 7-170,Machine 3,,
+1798,81.85,3.0,Created,Job 3-308,,,
+1799,81.85,3.0,Put in Routing Class,Job 3-308,,176.0,
+1800,81.89,8.0,Created,Job 8-366,,,
+1801,81.89,8.0,Put in Routing Class,Job 8-366,,177.0,
+1802,82.18,0.0,Work Finish,Job 0-418,Machine 4,,
+1803,82.18,0.0,Completed,Job 0-418,,,0
+1804,82.18,,Request Routing for Job,,Machine 4,177.0,
+1805,82.18,,Routing Start,,Machine 4,,3.675 Job 선택
+1806,82.18,2.0,Routing Finish,Job 2-187,Machine 4,,
+1807,82.18,2.0,Work Start,Job 2-187,Machine 4,,
+1808,82.31,0.0,Work Finish,Job 0-358,Machine 5,,
+1809,82.31,0.0,Completed,Job 0-358,,,3.1982001176667865
+1810,82.31,,Request Routing for Job,,Machine 5,176.0,
+1811,82.31,,Routing Start,,Machine 5,,3.675 Job 선택
+1812,82.31,7.0,Routing Finish,Job 7-173,Machine 5,,
+1813,82.31,7.0,Work Start,Job 7-173,Machine 5,,
+1814,82.39,4.0,Work Finish,Job 4-279,Machine 7,,
+1815,82.39,4.0,Completed,Job 4-279,,,0
+1816,82.39,,Request Routing for Job,,Machine 7,175.0,
+1817,82.39,,Routing Start,,Machine 7,,3.675 Job 선택
+1818,82.39,1.0,Routing Finish,Job 1-175,Machine 7,,
+1819,82.39,1.0,Work Start,Job 1-175,Machine 7,,
+1820,82.41,8.0,Work Finish,Job 8-303,Machine 2,,
+1821,82.41,8.0,Completed,Job 8-303,,,0.36222829031709125
+1822,82.41,,Request Routing for Job,,Machine 2,174.0,
+1823,82.41,,Routing Start,,Machine 2,,3.675 Job 선택
+1824,82.41,1.0,Routing Finish,Job 1-203,Machine 2,,
+1825,82.41,1.0,Work Start,Job 1-203,Machine 2,,
+1826,82.45,4.0,Created,Job 4-295,,,
+1827,82.45,4.0,Put in Routing Class,Job 4-295,,174.0,
+1828,82.52,6.0,Created,Job 6-282,,,
+1829,82.52,6.0,Put in Routing Class,Job 6-282,,175.0,
+1830,82.57,1.0,Created,Job 1-393,,,
+1831,82.57,1.0,Put in Routing Class,Job 1-393,,176.0,
+1832,83.11,5.0,Work Finish,Job 5-243,Machine 0,,
+1833,83.11,5.0,Completed,Job 5-243,,,0
+1834,83.11,,Request Routing for Job,,Machine 0,176.0,
+1835,83.11,,Routing Start,,Machine 0,,3.675 Job 선택
+1836,83.11,5.0,Routing Finish,Job 5-255,Machine 0,,
+1837,83.11,5.0,Work Start,Job 5-255,Machine 0,,
+1838,83.32,9.0,Created,Job 9-363,,,
+1839,83.32,9.0,Put in Routing Class,Job 9-363,,176.0,
+1840,83.33,8.0,Created,Job 8-372,,,
+1841,83.33,8.0,Put in Routing Class,Job 8-372,,177.0,
+1842,83.36,7.0,Created,Job 7-378,,,
+1843,83.36,7.0,Put in Routing Class,Job 7-378,,178.0,
+1844,83.7,3.0,Created,Job 3-320,,,
+1845,83.7,3.0,Put in Routing Class,Job 3-320,,179.0,
+1846,83.71,0.0,Created,Job 0-438,,,
+1847,83.71,0.0,Put in Routing Class,Job 0-438,,180.0,
+1848,83.93,6.0,Created,Job 6-284,,,
+1849,83.93,6.0,Put in Routing Class,Job 6-284,,181.0,
+1850,84.1,5.0,Created,Job 5-319,,,
+1851,84.1,5.0,Put in Routing Class,Job 5-319,,182.0,
+1852,84.2,4.0,Created,Job 4-298,,,
+1853,84.2,4.0,Put in Routing Class,Job 4-298,,183.0,
+1854,84.28,5.0,Work Finish,Job 5-233,Machine 6,,
+1855,84.28,5.0,Completed,Job 5-233,,,0
+1856,84.28,,Request Routing for Job,,Machine 6,183.0,
+1857,84.28,,Routing Start,,Machine 6,,3.675 Job 선택
+1858,84.28,5.0,Routing Finish,Job 5-263,Machine 6,,
+1859,84.28,5.0,Work Start,Job 5-263,Machine 6,,
+1860,84.47,7.0,Created,Job 7-384,,,
+1861,84.47,7.0,Put in Routing Class,Job 7-384,,183.0,
+1862,84.63,8.0,Work Finish,Job 8-343,Machine 1,,
+1863,84.63,8.0,Completed,Job 8-343,,,0
+1864,84.63,,Request Routing for Job,,Machine 1,183.0,
+1865,84.63,,Routing Start,,Machine 1,,3.675 Job 선택
+1866,84.63,0.0,Routing Finish,Job 0-438,Machine 1,,
+1867,84.63,0.0,Work Start,Job 0-438,Machine 1,,
+1868,85.0,8.0,Created,Job 8-377,,,
+1869,85.0,8.0,Put in Routing Class,Job 8-377,,183.0,
+1870,85.26,6.0,Created,Job 6-311,,,
+1871,85.26,6.0,Put in Routing Class,Job 6-311,,184.0,
+1872,85.26,9.0,Created,Job 9-390,,,
+1873,85.26,9.0,Put in Routing Class,Job 9-390,,185.0,
+1874,85.48,1.0,Work Finish,Job 1-175,Machine 7,,
+1875,85.48,1.0,Completed,Job 1-175,,,46.526533515648644
+1876,85.48,,Request Routing for Job,,Machine 7,185.0,
+1877,85.48,,Routing Start,,Machine 7,,3.675 Job 선택
+1878,85.48,1.0,Routing Finish,Job 1-231,Machine 7,,
+1879,85.48,1.0,Work Start,Job 1-231,Machine 7,,
+1880,85.57,4.0,Created,Job 4-302,,,
+1881,85.57,4.0,Put in Routing Class,Job 4-302,,185.0,
+1882,85.61,5.0,Created,Job 5-322,,,
+1883,85.61,5.0,Put in Routing Class,Job 5-322,,186.0,
+1884,85.74,2.0,Work Finish,Job 2-187,Machine 4,,
+1885,85.74,2.0,Completed,Job 2-187,,,47.93713938059972
+1886,85.74,,Request Routing for Job,,Machine 4,186.0,
+1887,85.74,,Routing Start,,Machine 4,,3.675 Job 선택
+1888,85.74,2.0,Routing Finish,Job 2-200,Machine 4,,
+1889,85.74,2.0,Work Start,Job 2-200,Machine 4,,
+1890,86.2,0.0,Created,Job 0-464,,,
+1891,86.2,0.0,Put in Routing Class,Job 0-464,,186.0,
+1892,86.3,5.0,Work Finish,Job 5-255,Machine 0,,
+1893,86.3,5.0,Completed,Job 5-255,,,0
+1894,86.3,,Request Routing for Job,,Machine 0,186.0,
+1895,86.3,,Routing Start,,Machine 0,,3.675 Job 선택
+1896,86.3,5.0,Routing Finish,Job 5-310,Machine 0,,
+1897,86.3,5.0,Work Start,Job 5-310,Machine 0,,
+1898,86.46,7.0,Work Finish,Job 7-170,Machine 3,,
+1899,86.46,7.0,Completed,Job 7-170,,,34.32343941899169
+1900,86.46,,Request Routing for Job,,Machine 3,185.0,
+1901,86.46,,Routing Start,,Machine 3,,3.675 Job 선택
+1902,86.46,7.0,Routing Finish,Job 7-181,Machine 3,,
+1903,86.46,7.0,Work Start,Job 7-181,Machine 3,,
+1904,86.65,1.0,Work Finish,Job 1-203,Machine 2,,
+1905,86.65,1.0,Completed,Job 1-203,,,46.418691005203804
+1906,86.65,,Request Routing for Job,,Machine 2,184.0,
+1907,86.65,,Routing Start,,Machine 2,,3.675 Job 선택
+1908,86.65,8.0,Routing Finish,Job 8-345,Machine 2,,
+1909,86.65,8.0,Work Start,Job 8-345,Machine 2,,
+1910,86.72,3.0,Created,Job 3-328,,,
+1911,86.72,3.0,Put in Routing Class,Job 3-328,,184.0,
+1912,86.85,4.0,Created,Job 4-305,,,
+1913,86.85,4.0,Put in Routing Class,Job 4-305,,185.0,
+1914,86.88,6.0,Created,Job 6-315,,,
+1915,86.88,6.0,Put in Routing Class,Job 6-315,,186.0,
+1916,87.05,8.0,Created,Job 8-388,,,
+1917,87.05,8.0,Put in Routing Class,Job 8-388,,187.0,
+1918,87.36,5.0,Created,Job 5-327,,,
+1919,87.36,5.0,Put in Routing Class,Job 5-327,,188.0,
+1920,87.41,9.0,Created,Job 9-423,,,
+1921,87.41,9.0,Put in Routing Class,Job 9-423,,189.0,
+1922,87.81,0.0,Created,Job 0-469,,,
+1923,87.81,0.0,Put in Routing Class,Job 0-469,,190.0,
+1924,87.87,4.0,Created,Job 4-306,,,
+1925,87.87,4.0,Put in Routing Class,Job 4-306,,191.0,
+1926,87.92,3.0,Created,Job 3-331,,,
+1927,87.92,3.0,Put in Routing Class,Job 3-331,,192.0,
+1928,88.21,7.0,Created,Job 7-385,,,
+1929,88.21,7.0,Put in Routing Class,Job 7-385,,193.0,
+1930,88.28,6.0,Created,Job 6-329,,,
+1931,88.28,6.0,Put in Routing Class,Job 6-329,,194.0,
+1932,88.57,1.0,Work Finish,Job 1-231,Machine 7,,
+1933,88.57,1.0,Completed,Job 1-231,,,43.10252876150172
+1934,88.57,,Request Routing for Job,,Machine 7,194.0,
+1935,88.57,,Routing Start,,Machine 7,,3.675 Job 선택
+1936,88.57,4.0,Routing Finish,Job 4-289,Machine 7,,
+1937,88.57,4.0,Work Start,Job 4-289,Machine 7,,
+1938,88.6,9.0,Created,Job 9-433,,,
+1939,88.6,9.0,Put in Routing Class,Job 9-433,,194.0,
+1940,88.69,1.0,Created,Job 1-396,,,
+1941,88.69,1.0,Put in Routing Class,Job 1-396,,195.0,
+1942,89.17,4.0,Created,Job 4-309,,,
+1943,89.17,4.0,Put in Routing Class,Job 4-309,,196.0,
+1944,89.3,2.0,Work Finish,Job 2-200,Machine 4,,
+1945,89.3,2.0,Completed,Job 2-200,,,50.391914501042386
+1946,89.3,,Request Routing for Job,,Machine 4,196.0,
+1947,89.3,,Routing Start,,Machine 4,,3.675 Job 선택
+1948,89.3,0.0,Routing Finish,Job 0-464,Machine 4,,
+1949,89.3,0.0,Work Start,Job 0-464,Machine 4,,
+1950,89.35,8.0,Created,Job 8-391,,,
+1951,89.35,8.0,Put in Routing Class,Job 8-391,,196.0,
+1952,89.49,5.0,Work Finish,Job 5-310,Machine 0,,
+1953,89.49,5.0,Completed,Job 5-310,,,0
+1954,89.49,,Request Routing for Job,,Machine 0,196.0,
+1955,89.49,,Routing Start,,Machine 0,,3.675 Job 선택
+1956,89.49,5.0,Routing Finish,Job 5-312,Machine 0,,
+1957,89.49,5.0,Work Start,Job 5-312,Machine 0,,
+1958,89.56,5.0,Created,Job 5-333,,,
+1959,89.56,5.0,Put in Routing Class,Job 5-333,,196.0,
+1960,89.58,0.0,Work Finish,Job 0-438,Machine 1,,
+1961,89.58,0.0,Completed,Job 0-438,,,0
+1962,89.58,,Request Routing for Job,,Machine 1,196.0,
+1963,89.58,,Routing Start,,Machine 1,,3.675 Job 선택
+1964,89.58,8.0,Routing Finish,Job 8-360,Machine 1,,
+1965,89.58,8.0,Work Start,Job 8-360,Machine 1,,
+1966,89.62,3.0,Created,Job 3-350,,,
+1967,89.62,3.0,Put in Routing Class,Job 3-350,,196.0,
+1968,89.86,4.0,Work Finish,Job 4-289,Machine 7,,
+1969,89.86,4.0,Completed,Job 4-289,,,0
+1970,89.86,,Request Routing for Job,,Machine 7,196.0,
+1971,89.86,,Routing Start,,Machine 7,,3.675 Job 선택
+1972,89.86,4.0,Routing Finish,Job 4-295,Machine 7,,
+1973,89.86,4.0,Work Start,Job 4-295,Machine 7,,
+1974,90.06,7.0,Created,Job 7-394,,,
+1975,90.06,7.0,Put in Routing Class,Job 7-394,,196.0,
+1976,90.14,6.0,Created,Job 6-346,,,
+1977,90.14,6.0,Put in Routing Class,Job 6-346,,197.0,
+1978,90.41,8.0,Work Finish,Job 8-345,Machine 2,,
+1979,90.41,8.0,Completed,Job 8-345,,,0
+1980,90.41,,Request Routing for Job,,Machine 2,197.0,
+1981,90.41,,Routing Start,,Machine 2,,3.675 Job 선택
+1982,90.41,8.0,Routing Finish,Job 8-366,Machine 2,,
+1983,90.41,8.0,Work Start,Job 8-366,Machine 2,,
+1984,90.67,0.0,Work Finish,Job 0-464,Machine 4,,
+1985,90.67,0.0,Completed,Job 0-464,,,0
+1986,90.67,,Request Routing for Job,,Machine 4,196.0,
+1987,90.67,,Routing Start,,Machine 4,,3.675 Job 선택
+1988,90.67,0.0,Routing Finish,Job 0-469,Machine 4,,
+1989,90.67,0.0,Work Start,Job 0-469,Machine 4,,
+1990,90.73,5.0,Work Finish,Job 5-263,Machine 6,,
+1991,90.73,5.0,Completed,Job 5-263,,,0.39049403677843486
+1992,90.73,,Request Routing for Job,,Machine 6,195.0,
+1993,90.73,,Routing Start,,Machine 6,,3.675 Job 선택
+1994,90.73,5.0,Routing Finish,Job 5-319,Machine 6,,
+1995,90.73,5.0,Work Start,Job 5-319,Machine 6,,
+1996,90.76,1.0,Created,Job 1-409,,,
+1997,90.76,1.0,Put in Routing Class,Job 1-409,,195.0,
+1998,90.78,4.0,Created,Job 4-321,,,
+1999,90.78,4.0,Put in Routing Class,Job 4-321,,196.0,
+2000,91.1,7.0,Created,Job 7-397,,,
+2001,91.1,7.0,Put in Routing Class,Job 7-397,,197.0,
+2002,91.16,4.0,Work Finish,Job 4-295,Machine 7,,
+2003,91.16,4.0,Completed,Job 4-295,,,0
+2004,91.16,,Request Routing for Job,,Machine 7,197.0,
+2005,91.16,,Routing Start,,Machine 7,,3.675 Job 선택
+2006,91.16,4.0,Routing Finish,Job 4-298,Machine 7,,
+2007,91.16,4.0,Work Start,Job 4-298,Machine 7,,
+2008,91.23,8.0,Created,Job 8-400,,,
+2009,91.23,8.0,Put in Routing Class,Job 8-400,,197.0,
+2010,91.32,7.0,Work Finish,Job 7-181,Machine 3,,
+2011,91.32,7.0,Completed,Job 7-181,,,36.55037926417274
+2012,91.32,,Request Routing for Job,,Machine 3,197.0,
+2013,91.32,,Routing Start,,Machine 3,,3.675 Job 선택
+2014,91.32,7.0,Routing Finish,Job 7-204,Machine 3,,
+2015,91.32,7.0,Work Start,Job 7-204,Machine 3,,
+2016,91.67,3.0,Created,Job 3-353,,,
+2017,91.67,3.0,Put in Routing Class,Job 3-353,,197.0,
+2018,91.94,9.0,Created,Job 9-443,,,
+2019,91.94,9.0,Put in Routing Class,Job 9-443,,198.0,
+2020,91.98,4.0,Created,Job 4-348,,,
+2021,91.98,4.0,Put in Routing Class,Job 4-348,,199.0,
+2022,92.04,0.0,Work Finish,Job 0-469,Machine 4,,
+2023,92.04,0.0,Completed,Job 0-469,,,0
+2024,92.04,,Request Routing for Job,,Machine 4,199.0,
+2025,92.04,,Routing Start,,Machine 4,,3.675 Job 선택
+2026,92.04,2.0,Routing Finish,Job 2-215,Machine 4,,
+2027,92.04,2.0,Work Start,Job 2-215,Machine 4,,
+2028,92.45,4.0,Work Finish,Job 4-298,Machine 7,,
+2029,92.45,4.0,Completed,Job 4-298,,,0
+2030,92.45,,Request Routing for Job,,Machine 7,198.0,
+2031,92.45,,Routing Start,,Machine 7,,3.675 Job 선택
+2032,92.45,4.0,Routing Finish,Job 4-302,Machine 7,,
+2033,92.45,4.0,Work Start,Job 4-302,Machine 7,,
+2034,92.66,8.0,Created,Job 8-405,,,
+2035,92.66,8.0,Put in Routing Class,Job 8-405,,198.0,
+2036,92.68,5.0,Work Finish,Job 5-312,Machine 0,,
+2037,92.68,5.0,Completed,Job 5-312,,,0
+2038,92.68,,Request Routing for Job,,Machine 0,198.0,
+2039,92.68,,Routing Start,,Machine 0,,3.675 Job 선택
+2040,92.68,5.0,Routing Finish,Job 5-322,Machine 0,,
+2041,92.68,5.0,Work Start,Job 5-322,Machine 0,,
+2042,92.75,7.0,Created,Job 7-398,,,
+2043,92.75,7.0,Put in Routing Class,Job 7-398,,198.0,
+2044,92.83,3.0,Created,Job 3-370,,,
+2045,92.83,3.0,Put in Routing Class,Job 3-370,,199.0,
+2046,92.83,1.0,Created,Job 1-413,,,
+2047,92.83,1.0,Put in Routing Class,Job 1-413,,200.0,
+2048,93.03,6.0,Created,Job 6-347,,,
+2049,93.03,6.0,Put in Routing Class,Job 6-347,,201.0,
+2050,93.06,4.0,Created,Job 4-351,,,
+2051,93.06,4.0,Put in Routing Class,Job 4-351,,202.0,
+2052,93.16,8.0,Work Finish,Job 8-360,Machine 1,,
+2053,93.16,8.0,Completed,Job 8-360,,,0.39941599311619314
+2054,93.16,,Request Routing for Job,,Machine 1,202.0,
+2055,93.16,,Routing Start,,Machine 1,,3.675 Job 선택
+2056,93.16,8.0,Routing Finish,Job 8-372,Machine 1,,
+2057,93.16,8.0,Work Start,Job 8-372,Machine 1,,
+2058,93.74,4.0,Work Finish,Job 4-302,Machine 7,,
+2059,93.74,4.0,Completed,Job 4-302,,,0
+2060,93.74,,Request Routing for Job,,Machine 7,201.0,
+2061,93.74,,Routing Start,,Machine 7,,3.675 Job 선택
+2062,93.74,4.0,Routing Finish,Job 4-305,Machine 7,,
+2063,93.74,4.0,Work Start,Job 4-305,Machine 7,,
+2064,93.89,5.0,Created,Job 5-361,,,
+2065,93.89,5.0,Put in Routing Class,Job 5-361,,201.0,
+2066,94.16,8.0,Work Finish,Job 8-366,Machine 2,,
+2067,94.16,8.0,Completed,Job 8-366,,,0.18601297257893634
+2068,94.16,,Request Routing for Job,,Machine 2,201.0,
+2069,94.16,,Routing Start,,Machine 2,,3.675 Job 선택
+2070,94.16,8.0,Routing Finish,Job 8-377,Machine 2,,
+2071,94.16,8.0,Work Start,Job 8-377,Machine 2,,
+2072,95.04,4.0,Work Finish,Job 4-305,Machine 7,,
+2073,95.04,4.0,Completed,Job 4-305,,,0
+2074,95.04,,Request Routing for Job,,Machine 7,200.0,
+2075,95.04,,Routing Start,,Machine 7,,3.675 Job 선택
+2076,95.04,4.0,Routing Finish,Job 4-306,Machine 7,,
+2077,95.04,4.0,Work Start,Job 4-306,Machine 7,,
+2078,95.36,6.0,Created,Job 6-349,,,
+2079,95.36,6.0,Put in Routing Class,Job 6-349,,200.0,
+2080,95.59,1.0,Created,Job 1-426,,,
+2081,95.59,1.0,Put in Routing Class,Job 1-426,,201.0,
+2082,95.6,2.0,Work Finish,Job 2-215,Machine 4,,
+2083,95.6,2.0,Completed,Job 2-215,,,55.55942706699141
+2084,95.6,,Request Routing for Job,,Machine 4,201.0,
+2085,95.6,,Routing Start,,Machine 4,,3.675 Job 선택
+2086,95.6,2.0,Routing Finish,Job 2-271,Machine 4,,
+2087,95.6,2.0,Work Start,Job 2-271,Machine 4,,
+2088,95.6,4.0,Created,Job 4-365,,,
+2089,95.6,4.0,Put in Routing Class,Job 4-365,,201.0,
+2090,95.7,9.0,Created,Job 9-444,,,
+2091,95.7,9.0,Put in Routing Class,Job 9-444,,202.0,
+2092,95.74,7.0,Work Finish,Job 7-173,Machine 5,,
+2093,95.74,7.0,Completed,Job 7-173,,,42.435936207358864
+2094,95.74,,Request Routing for Job,,Machine 5,202.0,
+2095,95.74,,Routing Start,,Machine 5,,3.675 Job 선택
+2096,95.74,7.0,Routing Finish,Job 7-210,Machine 5,,
+2097,95.74,7.0,Work Start,Job 7-210,Machine 5,,
+2098,95.76,3.0,Created,Job 3-382,,,
+2099,95.76,3.0,Put in Routing Class,Job 3-382,,202.0,
+2100,95.86,5.0,Work Finish,Job 5-322,Machine 0,,
+2101,95.86,5.0,Completed,Job 5-322,,,0
+2102,95.86,,Request Routing for Job,,Machine 0,202.0,
+2103,95.86,,Routing Start,,Machine 0,,3.675 Job 선택
+2104,95.86,5.0,Routing Finish,Job 5-327,Machine 0,,
+2105,95.86,5.0,Work Start,Job 5-327,Machine 0,,
+2106,95.98,7.0,Created,Job 7-421,,,
+2107,95.98,7.0,Put in Routing Class,Job 7-421,,202.0,
+2108,96.17,7.0,Work Finish,Job 7-204,Machine 3,,
+2109,96.17,7.0,Completed,Job 7-204,,,39.374589719643225
+2110,96.17,,Request Routing for Job,,Machine 3,202.0,
+2111,96.17,,Routing Start,,Machine 3,,3.675 Job 선택
+2112,96.17,4.0,Routing Finish,Job 4-309,Machine 3,,
+2113,96.17,4.0,Work Start,Job 4-309,Machine 3,,
+2114,96.33,4.0,Work Finish,Job 4-306,Machine 7,,
+2115,96.33,4.0,Completed,Job 4-306,,,0
+2116,96.33,,Request Routing for Job,,Machine 7,201.0,
+2117,96.33,,Routing Start,,Machine 7,,3.675 Job 선택
+2118,96.33,1.0,Routing Finish,Job 1-276,Machine 7,,
+2119,96.33,1.0,Work Start,Job 1-276,Machine 7,,
+2120,96.38,5.0,Created,Job 5-401,,,
+2121,96.38,5.0,Put in Routing Class,Job 5-401,,201.0,
+2122,96.69,6.0,Created,Job 6-364,,,
+2123,96.69,6.0,Put in Routing Class,Job 6-364,,202.0,
+2124,96.71,8.0,Created,Job 8-415,,,
+2125,96.71,8.0,Put in Routing Class,Job 8-415,,203.0,
+2126,96.73,8.0,Work Finish,Job 8-372,Machine 1,,
+2127,96.73,8.0,Completed,Job 8-372,,,1.317483418420153
+2128,96.73,,Request Routing for Job,,Machine 1,203.0,
+2129,96.73,,Routing Start,,Machine 1,,3.675 Job 선택
+2130,96.73,8.0,Routing Finish,Job 8-388,Machine 1,,
+2131,96.73,8.0,Work Start,Job 8-388,Machine 1,,
+2132,96.84,1.0,Created,Job 1-431,,,
+2133,96.84,1.0,Put in Routing Class,Job 1-431,,203.0,
+2134,97.1,3.0,Created,Job 3-386,,,
+2135,97.1,3.0,Put in Routing Class,Job 3-386,,204.0,
+2136,97.19,5.0,Work Finish,Job 5-319,Machine 6,,
+2137,97.19,5.0,Completed,Job 5-319,,,1.4266579642160337
+2138,97.19,,Request Routing for Job,,Machine 6,204.0,
+2139,97.19,,Routing Start,,Machine 6,,3.675 Job 선택
+2140,97.19,5.0,Routing Finish,Job 5-333,Machine 6,,
+2141,97.19,5.0,Work Start,Job 5-333,Machine 6,,
+2142,97.42,5.0,Created,Job 5-411,,,
+2143,97.42,5.0,Put in Routing Class,Job 5-411,,204.0,
+2144,97.49,9.0,Created,Job 9-449,,,
+2145,97.49,9.0,Put in Routing Class,Job 9-449,,205.0,
+2146,97.78,8.0,Created,Job 8-420,,,
+2147,97.78,8.0,Put in Routing Class,Job 8-420,,206.0,
+2148,97.92,8.0,Work Finish,Job 8-377,Machine 2,,
+2149,97.92,8.0,Completed,Job 8-377,,,0.8281496712330778
+2150,97.92,,Request Routing for Job,,Machine 2,206.0,
+2151,97.92,,Routing Start,,Machine 2,,3.675 Job 선택
+2152,97.92,8.0,Routing Finish,Job 8-391,Machine 2,,
+2153,97.92,8.0,Work Start,Job 8-391,Machine 2,,
+2154,98.0,1.0,Created,Job 1-450,,,
+2155,98.0,1.0,Put in Routing Class,Job 1-450,,206.0,
+2156,98.31,3.0,Created,Job 3-387,,,
+2157,98.31,3.0,Put in Routing Class,Job 3-387,,207.0,
+2158,98.5,6.0,Created,Job 6-367,,,
+2159,98.5,6.0,Put in Routing Class,Job 6-367,,208.0,
+2160,98.57,7.0,Created,Job 7-424,,,
+2161,98.57,7.0,Put in Routing Class,Job 7-424,,209.0,
+2162,98.78,4.0,Work Finish,Job 4-309,Machine 3,,
+2163,98.78,4.0,Completed,Job 4-309,,,0
+2164,98.78,,Request Routing for Job,,Machine 3,209.0,
+2165,98.78,,Routing Start,,Machine 3,,3.675 Job 선택
+2166,98.78,4.0,Routing Finish,Job 4-321,Machine 3,,
+2167,98.78,4.0,Work Start,Job 4-321,Machine 3,,
+2168,99.05,5.0,Work Finish,Job 5-327,Machine 0,,
+2169,99.05,5.0,Completed,Job 5-327,,,0.03460728371419464
+2170,99.05,,Request Routing for Job,,Machine 0,208.0,
+2171,99.05,,Routing Start,,Machine 0,,3.675 Job 선택
+2172,99.05,5.0,Routing Finish,Job 5-361,Machine 0,,
+2173,99.05,5.0,Work Start,Job 5-361,Machine 0,,
+2174,99.16,2.0,Work Finish,Job 2-271,Machine 4,,
+2175,99.16,2.0,Completed,Job 2-271,,,57.02938629883847
+2176,99.16,,Request Routing for Job,,Machine 4,207.0,
+2177,99.16,,Routing Start,,Machine 4,,3.675 Job 선택
+2178,99.16,2.0,Routing Finish,Job 2-280,Machine 4,,
+2179,99.16,2.0,Work Start,Job 2-280,Machine 4,,
+2180,99.42,1.0,Work Finish,Job 1-276,Machine 7,,
+2181,99.42,1.0,Completed,Job 1-276,,,52.59841932956079
+2182,99.42,,Request Routing for Job,,Machine 7,206.0,
+2183,99.42,,Routing Start,,Machine 7,,3.675 Job 선택
+2184,99.42,4.0,Routing Finish,Job 4-348,Machine 7,,
+2185,99.42,4.0,Work Start,Job 4-348,Machine 7,,
+2186,99.43,8.0,Created,Job 8-427,,,
+2187,99.43,8.0,Put in Routing Class,Job 8-427,,206.0,
+2188,99.71,4.0,Created,Job 4-368,,,
+2189,99.71,4.0,Put in Routing Class,Job 4-368,,207.0,
+2190,100.21,3.0,Created,Job 3-389,,,
+2191,100.21,3.0,Put in Routing Class,Job 3-389,,208.0,
+2192,100.28,7.0,Created,Job 7-432,,,
+2193,100.28,7.0,Put in Routing Class,Job 7-432,,209.0,
+2194,100.31,8.0,Work Finish,Job 8-388,Machine 1,,
+2195,100.31,8.0,Completed,Job 8-388,,,1.1703979193248841
+2196,100.31,,Request Routing for Job,,Machine 1,209.0,
+2197,100.31,,Routing Start,,Machine 1,,3.675 Job 선택
+2198,100.31,8.0,Routing Finish,Job 8-400,Machine 1,,
+2199,100.31,8.0,Work Start,Job 8-400,Machine 1,,
+2200,100.71,4.0,Work Finish,Job 4-348,Machine 7,,
+2201,100.71,4.0,Completed,Job 4-348,,,0
+2202,100.71,,Request Routing for Job,,Machine 7,208.0,
+2203,100.71,,Routing Start,,Machine 7,,3.675 Job 선택
+2204,100.71,4.0,Routing Finish,Job 4-351,Machine 7,,
+2205,100.71,4.0,Work Start,Job 4-351,Machine 7,,
+2206,100.8,1.0,Created,Job 1-451,,,
+2207,100.8,1.0,Put in Routing Class,Job 1-451,,208.0,
+2208,100.86,5.0,Created,Job 5-467,,,
+2209,100.86,5.0,Put in Routing Class,Job 5-467,,209.0,
+2210,101.38,4.0,Work Finish,Job 4-321,Machine 3,,
+2211,101.38,4.0,Completed,Job 4-321,,,0.8106436419135008
+2212,101.38,,Request Routing for Job,,Machine 3,209.0,
+2213,101.38,,Routing Start,,Machine 3,,3.675 Job 선택
+2214,101.38,7.0,Routing Finish,Job 7-214,Machine 3,,
+2215,101.38,7.0,Work Start,Job 7-214,Machine 3,,
+2216,101.68,8.0,Work Finish,Job 8-391,Machine 2,,
+2217,101.68,8.0,Completed,Job 8-391,,,0.2376676239763924
+2218,101.68,,Request Routing for Job,,Machine 2,208.0,
+2219,101.68,,Routing Start,,Machine 2,,3.675 Job 선택
+2220,101.68,8.0,Routing Finish,Job 8-405,Machine 2,,
+2221,101.68,8.0,Work Start,Job 8-405,Machine 2,,
+2222,101.74,3.0,Created,Job 3-406,,,
+2223,101.74,3.0,Put in Routing Class,Job 3-406,,208.0,
+2224,101.87,9.0,Created,Job 9-465,,,
+2225,101.87,9.0,Put in Routing Class,Job 9-465,,209.0,
+2226,101.95,6.0,Created,Job 6-404,,,
+2227,101.95,6.0,Put in Routing Class,Job 6-404,,210.0,
+2228,102.01,4.0,Work Finish,Job 4-351,Machine 7,,
+2229,102.01,4.0,Completed,Job 4-351,,,0
+2230,102.01,,Request Routing for Job,,Machine 7,210.0,
+2231,102.01,,Routing Start,,Machine 7,,3.675 Job 선택
+2232,102.01,4.0,Routing Finish,Job 4-365,Machine 7,,
+2233,102.01,4.0,Work Start,Job 4-365,Machine 7,,
+2234,102.21,1.0,Created,Job 1-452,,,
+2235,102.21,1.0,Put in Routing Class,Job 1-452,,210.0,
+2236,102.24,5.0,Work Finish,Job 5-361,Machine 0,,
+2237,102.24,5.0,Completed,Job 5-361,,,0
+2238,102.24,,Request Routing for Job,,Machine 0,210.0,
+2239,102.24,,Routing Start,,Machine 0,,3.675 Job 선택
+2240,102.24,5.0,Routing Finish,Job 5-401,Machine 0,,
+2241,102.24,5.0,Work Start,Job 5-401,Machine 0,,
+2242,102.34,8.0,Created,Job 8-436,,,
+2243,102.34,8.0,Put in Routing Class,Job 8-436,,210.0,
+2244,102.73,2.0,Work Finish,Job 2-280,Machine 4,,
+2245,102.73,2.0,Completed,Job 2-280,,,58.53555828039732
+2246,102.73,,Request Routing for Job,,Machine 4,210.0,
+2247,102.73,,Routing Start,,Machine 4,,3.675 Job 선택
+2248,102.73,2.0,Routing Finish,Job 2-283,Machine 4,,
+2249,102.73,2.0,Work Start,Job 2-283,Machine 4,,
+2250,103.02,6.0,Created,Job 6-407,,,
+2251,103.02,6.0,Put in Routing Class,Job 6-407,,210.0,
+2252,103.3,4.0,Work Finish,Job 4-365,Machine 7,,
+2253,103.3,4.0,Completed,Job 4-365,,,0
+2254,103.3,,Request Routing for Job,,Machine 7,210.0,
+2255,103.3,,Routing Start,,Machine 7,,3.675 Job 선택
+2256,103.3,1.0,Routing Finish,Job 1-277,Machine 7,,
+2257,103.3,1.0,Work Start,Job 1-277,Machine 7,,
+2258,103.34,1.0,Created,Job 1-453,,,
+2259,103.34,1.0,Put in Routing Class,Job 1-453,,210.0,
+2260,103.39,8.0,Created,Job 8-439,,,
+2261,103.39,8.0,Put in Routing Class,Job 8-439,,211.0,
+2262,103.64,5.0,Work Finish,Job 5-333,Machine 6,,
+2263,103.64,5.0,Completed,Job 5-333,,,2.4248919975287464
+2264,103.64,,Request Routing for Job,,Machine 6,211.0,
+2265,103.64,,Routing Start,,Machine 6,,3.675 Job 선택
+2266,103.64,5.0,Routing Finish,Job 5-411,Machine 6,,
+2267,103.64,5.0,Work Start,Job 5-411,Machine 6,,
+2268,103.88,8.0,Work Finish,Job 8-400,Machine 1,,
+2269,103.88,8.0,Completed,Job 8-400,,,0.5630519957623648
+2270,103.88,,Request Routing for Job,,Machine 1,210.0,
+2271,103.88,,Routing Start,,Machine 1,,3.675 Job 선택
+2272,103.88,8.0,Routing Finish,Job 8-415,Machine 1,,
+2273,103.88,8.0,Work Start,Job 8-415,Machine 1,,
+2274,103.94,7.0,Created,Job 7-434,,,
+2275,103.94,7.0,Put in Routing Class,Job 7-434,,210.0,
+2276,104.09,6.0,Created,Job 6-417,,,
+2277,104.09,6.0,Put in Routing Class,Job 6-417,,211.0,
+2278,104.52,4.0,Created,Job 4-381,,,
+2279,104.52,4.0,Put in Routing Class,Job 4-381,,212.0,
+2280,104.7,1.0,Created,Job 1-456,,,
+2281,104.7,1.0,Put in Routing Class,Job 1-456,,213.0,
+2282,105.06,7.0,Created,Job 7-437,,,
+2283,105.06,7.0,Put in Routing Class,Job 7-437,,214.0,
+2284,105.37,9.0,Created,Job 9-470,,,
+2285,105.37,9.0,Put in Routing Class,Job 9-470,,215.0,
+2286,105.43,5.0,Work Finish,Job 5-401,Machine 0,,
+2287,105.43,5.0,Completed,Job 5-401,,,0
+2288,105.43,,Request Routing for Job,,Machine 0,215.0,
+2289,105.43,,Routing Start,,Machine 0,,3.675 Job 선택
+2290,105.43,5.0,Routing Finish,Job 5-467,Machine 0,,
+2291,105.43,5.0,Work Start,Job 5-467,Machine 0,,
+2292,105.43,8.0,Work Finish,Job 8-405,Machine 2,,
+2293,105.43,8.0,Completed,Job 8-405,,,0.6896320322628071
+2294,105.43,,Request Routing for Job,,Machine 2,214.0,
+2295,105.43,,Routing Start,,Machine 2,,3.675 Job 선택
+2296,105.43,8.0,Routing Finish,Job 8-420,Machine 2,,
+2297,105.43,8.0,Work Start,Job 8-420,Machine 2,,
+2298,105.87,8.0,Created,Job 8-441,,,
+2299,105.87,8.0,Put in Routing Class,Job 8-441,,214.0,
+2300,105.97,6.0,Created,Job 6-419,,,
+2301,105.97,6.0,Put in Routing Class,Job 6-419,,215.0,
+2302,106.14,1.0,Created,Job 1-468,,,
+2303,106.14,1.0,Put in Routing Class,Job 1-468,,216.0,
+2304,106.24,7.0,Work Finish,Job 7-214,Machine 3,,
+2305,106.24,7.0,Completed,Job 7-214,,,46.54931579475991
+2306,106.24,,Request Routing for Job,,Machine 3,216.0,
+2307,106.24,,Routing Start,,Machine 3,,3.675 Job 선택
+2308,106.24,4.0,Routing Finish,Job 4-368,Machine 3,,
+2309,106.24,4.0,Work Start,Job 4-368,Machine 3,,
+2310,106.25,3.0,Created,Job 3-425,,,
+2311,106.25,3.0,Put in Routing Class,Job 3-425,,216.0,
+2312,106.29,2.0,Work Finish,Job 2-283,Machine 4,,
+2313,106.29,2.0,Completed,Job 2-283,,,60.877763452180375
+2314,106.29,,Request Routing for Job,,Machine 4,216.0,
+2315,106.29,,Routing Start,,Machine 4,,3.675 Job 선택
+2316,106.29,2.0,Routing Finish,Job 2-293,Machine 4,,
+2317,106.29,2.0,Work Start,Job 2-293,Machine 4,,
+2318,106.39,1.0,Work Finish,Job 1-277,Machine 7,,
+2319,106.39,1.0,Completed,Job 1-277,,,58.18198288044397
+2320,106.39,,Request Routing for Job,,Machine 7,215.0,
+2321,106.39,,Routing Start,,Machine 7,,3.675 Job 선택
+2322,106.39,1.0,Routing Finish,Job 1-285,Machine 7,,
+2323,106.39,1.0,Work Start,Job 1-285,Machine 7,,
+2324,106.61,4.0,Created,Job 4-399,,,
+2325,106.61,4.0,Put in Routing Class,Job 4-399,,215.0,
+2326,106.98,5.0,Created,Job 5-473,,,
+2327,106.98,5.0,Put in Routing Class,Job 5-473,,216.0,
+2328,107.46,8.0,Work Finish,Job 8-415,Machine 1,,
+2329,107.46,8.0,Completed,Job 8-415,,,0
+2330,107.46,,Request Routing for Job,,Machine 1,216.0,
+2331,107.46,,Routing Start,,Machine 1,,3.675 Job 선택
+2332,107.46,8.0,Routing Finish,Job 8-427,Machine 1,,
+2333,107.46,8.0,Work Start,Job 8-427,Machine 1,,
+2334,107.66,4.0,Created,Job 4-402,,,
+2335,107.66,4.0,Put in Routing Class,Job 4-402,,216.0,
+2336,107.99,9.0,Created,Job 9-478,,,
+2337,107.99,9.0,Put in Routing Class,Job 9-478,,217.0,
+2338,108.15,6.0,Created,Job 6-422,,,
+2339,108.15,6.0,Put in Routing Class,Job 6-422,,218.0,
+2340,108.62,5.0,Work Finish,Job 5-467,Machine 0,,
+2341,108.62,5.0,Completed,Job 5-467,,,0
+2342,108.62,,Request Routing for Job,,Machine 0,218.0,
+2343,108.62,,Routing Start,,Machine 0,,3.675 Job 선택
+2344,108.62,5.0,Routing Finish,Job 5-473,Machine 0,,
+2345,108.62,5.0,Work Start,Job 5-473,Machine 0,,
+2346,108.64,5.0,Created,Job 5-485,,,
+2347,108.64,5.0,Put in Routing Class,Job 5-485,,218.0,
+2348,108.84,4.0,Work Finish,Job 4-368,Machine 3,,
+2349,108.84,4.0,Completed,Job 4-368,,,0
+2350,108.84,,Request Routing for Job,,Machine 3,218.0,
+2351,108.84,,Routing Start,,Machine 3,,3.675 Job 선택
+2352,108.84,7.0,Routing Finish,Job 7-218,Machine 3,,
+2353,108.84,7.0,Work Start,Job 7-218,Machine 3,,
+2354,109.13,8.0,Created,Job 8-442,,,
+2355,109.13,8.0,Put in Routing Class,Job 8-442,,218.0,
+2356,109.18,7.0,Work Finish,Job 7-210,Machine 5,,
+2357,109.18,7.0,Completed,Job 7-210,,,50.6909623853233
+2358,109.18,,Request Routing for Job,,Machine 5,218.0,
+2359,109.18,,Routing Start,,Machine 5,,3.675 Job 선택
+2360,109.18,7.0,Routing Finish,Job 7-220,Machine 5,,
+2361,109.18,7.0,Work Start,Job 7-220,Machine 5,,
+2362,109.19,8.0,Work Finish,Job 8-420,Machine 2,,
+2363,109.19,8.0,Completed,Job 8-420,,,0
+2364,109.19,,Request Routing for Job,,Machine 2,217.0,
+2365,109.19,,Routing Start,,Machine 2,,3.675 Job 선택
+2366,109.19,8.0,Routing Finish,Job 8-436,Machine 2,,
+2367,109.19,8.0,Work Start,Job 8-436,Machine 2,,
+2368,109.37,6.0,Created,Job 6-430,,,
+2369,109.37,6.0,Put in Routing Class,Job 6-430,,217.0,
+2370,109.39,7.0,Created,Job 7-446,,,
+2371,109.39,7.0,Put in Routing Class,Job 7-446,,218.0,
+2372,109.48,1.0,Work Finish,Job 1-285,Machine 7,,
+2373,109.48,1.0,Completed,Job 1-285,,,60.08023405500111
+2374,109.48,,Request Routing for Job,,Machine 7,218.0,
+2375,109.48,,Routing Start,,Machine 7,,3.675 Job 선택
+2376,109.48,1.0,Routing Finish,Job 1-287,Machine 7,,
+2377,109.48,1.0,Work Start,Job 1-287,Machine 7,,
+2378,109.85,2.0,Work Finish,Job 2-293,Machine 4,,
+2379,109.85,2.0,Completed,Job 2-293,,,62.77023469499366
+2380,109.85,,Request Routing for Job,,Machine 4,217.0,
+2381,109.85,,Routing Start,,Machine 4,,3.675 Job 선택
+2382,109.85,2.0,Routing Finish,Job 2-316,Machine 4,,
+2383,109.85,2.0,Work Start,Job 2-316,Machine 4,,
+2384,110.1,5.0,Work Finish,Job 5-411,Machine 6,,
+2385,110.1,5.0,Completed,Job 5-411,,,1.0189579700597022
+2386,110.1,,Request Routing for Job,,Machine 6,216.0,
+2387,110.1,,Routing Start,,Machine 6,,3.675 Job 선택
+2388,110.1,5.0,Routing Finish,Job 5-485,Machine 6,,
+2389,110.1,5.0,Work Start,Job 5-485,Machine 6,,
+2390,110.15,3.0,Created,Job 3-429,,,
+2391,110.15,3.0,Put in Routing Class,Job 3-429,,216.0,
+2392,110.34,4.0,Created,Job 4-412,,,
+2393,110.34,4.0,Put in Routing Class,Job 4-412,,217.0,
+2394,110.63,9.0,Created,Job 9-488,,,
+2395,110.63,9.0,Put in Routing Class,Job 9-488,,218.0,
+2396,111.03,8.0,Work Finish,Job 8-427,Machine 1,,
+2397,111.03,8.0,Completed,Job 8-427,,,0
+2398,111.03,,Request Routing for Job,,Machine 1,218.0,
+2399,111.03,,Routing Start,,Machine 1,,3.675 Job 선택
+2400,111.03,8.0,Routing Finish,Job 8-439,Machine 1,,
+2401,111.03,8.0,Work Start,Job 8-439,Machine 1,,
+2402,111.4,8.0,Created,Job 8-459,,,
+2403,111.4,8.0,Put in Routing Class,Job 8-459,,218.0,
+2404,111.44,4.0,Created,Job 4-435,,,
+2405,111.44,4.0,Put in Routing Class,Job 4-435,,219.0,
+2406,111.58,1.0,Created,Job 1-483,,,
+2407,111.58,1.0,Put in Routing Class,Job 1-483,,220.0,
+2408,111.81,5.0,Work Finish,Job 5-473,Machine 0,,
+2409,111.81,5.0,Completed,Job 5-473,,,0
+2410,111.81,,Request Routing for Job,,Machine 0,220.0,
+2411,111.81,,Routing Start,,Machine 0,,3.675 Job 선택
+2412,111.81,7.0,Routing Finish,Job 7-232,Machine 0,,
+2413,111.81,7.0,Work Start,Job 7-232,Machine 0,,
+2414,111.85,3.0,Created,Job 3-454,,,
+2415,111.85,3.0,Put in Routing Class,Job 3-454,,220.0,
+2416,112.07,6.0,Created,Job 6-447,,,
+2417,112.07,6.0,Put in Routing Class,Job 6-447,,221.0,
+2418,112.41,8.0,Created,Job 8-461,,,
+2419,112.41,8.0,Put in Routing Class,Job 8-461,,222.0,
+2420,112.57,1.0,Work Finish,Job 1-287,Machine 7,,
+2421,112.57,1.0,Completed,Job 1-287,,,60.02241922887387
+2422,112.57,,Request Routing for Job,,Machine 7,222.0,
+2423,112.57,,Routing Start,,Machine 7,,3.675 Job 선택
+2424,112.57,4.0,Routing Finish,Job 4-381,Machine 7,,
+2425,112.57,4.0,Work Start,Job 4-381,Machine 7,,
+2426,112.91,7.0,Created,Job 7-460,,,
+2427,112.91,7.0,Put in Routing Class,Job 7-460,,222.0,
+2428,112.94,8.0,Work Finish,Job 8-436,Machine 2,,
+2429,112.94,8.0,Completed,Job 8-436,,,0
+2430,112.94,,Request Routing for Job,,Machine 2,222.0,
+2431,112.94,,Routing Start,,Machine 2,,3.675 Job 선택
+2432,112.94,8.0,Routing Finish,Job 8-441,Machine 2,,
+2433,112.94,8.0,Work Start,Job 8-441,Machine 2,,
+2434,113.28,3.0,Created,Job 3-471,,,
+2435,113.28,3.0,Put in Routing Class,Job 3-471,,222.0,
+2436,113.41,2.0,Work Finish,Job 2-316,Machine 4,,
+2437,113.41,2.0,Completed,Job 2-316,,,62.629266868513014
+2438,113.41,,Request Routing for Job,,Machine 4,222.0,
+2439,113.41,,Routing Start,,Machine 4,,3.675 Job 선택
+2440,113.41,2.0,Routing Finish,Job 2-323,Machine 4,,
+2441,113.41,2.0,Work Start,Job 2-323,Machine 4,,
+2442,113.59,8.0,Created,Job 8-475,,,
+2443,113.59,8.0,Put in Routing Class,Job 8-475,,222.0,
+2444,113.7,7.0,Work Finish,Job 7-218,Machine 3,,
+2445,113.7,7.0,Completed,Job 7-218,,,52.874554539735605
+2446,113.7,,Request Routing for Job,,Machine 3,222.0,
+2447,113.7,,Routing Start,,Machine 3,,3.675 Job 선택
+2448,113.7,4.0,Routing Finish,Job 4-399,Machine 3,,
+2449,113.7,4.0,Work Start,Job 4-399,Machine 3,,
+2450,113.75,4.0,Created,Job 4-440,,,
+2451,113.75,4.0,Put in Routing Class,Job 4-440,,222.0,
+2452,113.86,4.0,Work Finish,Job 4-381,Machine 7,,
+2453,113.86,4.0,Completed,Job 4-381,,,0
+2454,113.86,,Request Routing for Job,,Machine 7,222.0,
+2455,113.86,,Routing Start,,Machine 7,,3.675 Job 선택
+2456,113.86,4.0,Routing Finish,Job 4-402,Machine 7,,
+2457,113.86,4.0,Work Start,Job 4-402,Machine 7,,
+2458,114.02,1.0,Created,Job 1-487,,,
+2459,114.02,1.0,Put in Routing Class,Job 1-487,,222.0,
+2460,114.19,5.0,Created,Job 5-497,,,
+2461,114.19,5.0,Put in Routing Class,Job 5-497,,223.0,
+2462,114.28,6.0,Created,Job 6-448,,,
+2463,114.28,6.0,Put in Routing Class,Job 6-448,,224.0,
+2464,114.61,8.0,Work Finish,Job 8-439,Machine 1,,
+2465,114.61,8.0,Completed,Job 8-439,,,0
+2466,114.61,,Request Routing for Job,,Machine 1,224.0,
+2467,114.61,,Routing Start,,Machine 1,,3.675 Job 선택
+2468,114.61,8.0,Routing Finish,Job 8-442,Machine 1,,
+2469,114.61,8.0,Work Start,Job 8-442,Machine 1,,
+2470,114.66,3.0,Created,Job 3-472,,,
+2471,114.66,3.0,Put in Routing Class,Job 3-472,,224.0,
+2472,114.99,8.0,Created,Job 8-477,,,
+2473,114.99,8.0,Put in Routing Class,Job 8-477,,225.0,
+2474,115.16,4.0,Work Finish,Job 4-402,Machine 7,,
+2475,115.16,4.0,Completed,Job 4-402,,,0
+2476,115.16,,Request Routing for Job,,Machine 7,225.0,
+2477,115.16,,Routing Start,,Machine 7,,3.675 Job 선택
+2478,115.16,1.0,Routing Finish,Job 1-291,Machine 7,,
+2479,115.16,1.0,Work Start,Job 1-291,Machine 7,,
+2480,115.41,7.0,Created,Job 7-476,,,
+2481,115.41,7.0,Put in Routing Class,Job 7-476,,225.0,
+2482,115.83,1.0,Created,Job 1-495,,,
+2483,115.83,1.0,Put in Routing Class,Job 1-495,,226.0,
+2484,115.95,3.0,Created,Job 3-486,,,
+2485,115.95,3.0,Put in Routing Class,Job 3-486,,227.0,
+2486,116.24,8.0,Created,Job 8-480,,,
+2487,116.24,8.0,Put in Routing Class,Job 8-480,,228.0,
+2488,116.3,4.0,Work Finish,Job 4-399,Machine 3,,
+2489,116.3,4.0,Completed,Job 4-399,,,0
+2490,116.3,,Request Routing for Job,,Machine 3,228.0,
+2491,116.3,,Routing Start,,Machine 3,,3.675 Job 선택
+2492,116.3,7.0,Routing Finish,Job 7-236,Machine 3,,
+2493,116.3,7.0,Work Start,Job 7-236,Machine 3,,
+2494,116.55,5.0,Work Finish,Job 5-485,Machine 6,,
+2495,116.55,5.0,Completed,Job 5-485,,,0
+2496,116.55,,Request Routing for Job,,Machine 6,227.0,
+2497,116.55,,Routing Start,,Machine 6,,3.675 Job 선택
+2498,116.55,5.0,Routing Finish,Job 5-497,Machine 6,,
+2499,116.55,5.0,Work Start,Job 5-497,Machine 6,,
+2500,116.68,4.0,Created,Job 4-457,,,
+2501,116.68,4.0,Put in Routing Class,Job 4-457,,227.0,
+2502,116.7,8.0,Work Finish,Job 8-441,Machine 2,,
+2503,116.7,8.0,Completed,Job 8-441,,,0
+2504,116.7,,Request Routing for Job,,Machine 2,227.0,
+2505,116.7,,Routing Start,,Machine 2,,3.675 Job 선택
+2506,116.7,1.0,Routing Finish,Job 1-314,Machine 2,,
+2507,116.7,1.0,Work Start,Job 1-314,Machine 2,,
+2508,116.98,2.0,Work Finish,Job 2-323,Machine 4,,
+2509,116.98,2.0,Completed,Job 2-323,,,65.01886435665868
+2510,116.98,,Request Routing for Job,,Machine 4,226.0,
+2511,116.98,,Routing Start,,Machine 4,,3.675 Job 선택
+2512,116.98,2.0,Routing Finish,Job 2-325,Machine 4,,
+2513,116.98,2.0,Work Start,Job 2-325,Machine 4,,
+2514,117.81,3.0,Created,Job 3-494,,,
+2515,117.81,3.0,Put in Routing Class,Job 3-494,,226.0,
+2516,118.18,8.0,Work Finish,Job 8-442,Machine 1,,
+2517,118.18,8.0,Completed,Job 8-442,,,0
+2518,118.18,,Request Routing for Job,,Machine 1,226.0,
+2519,118.18,,Routing Start,,Machine 1,,3.675 Job 선택
+2520,118.18,8.0,Routing Finish,Job 8-459,Machine 1,,
+2521,118.18,8.0,Work Start,Job 8-459,Machine 1,,
+2522,118.25,1.0,Work Finish,Job 1-291,Machine 7,,
+2523,118.25,1.0,Completed,Job 1-291,,,64.39518896805441
+2524,118.25,,Request Routing for Job,,Machine 7,225.0,
+2525,118.25,,Routing Start,,Machine 7,,3.675 Job 선택
+2526,118.25,4.0,Routing Finish,Job 4-412,Machine 7,,
+2527,118.25,4.0,Work Start,Job 4-412,Machine 7,,
+2528,118.65,7.0,Created,Job 7-496,,,
+2529,118.65,7.0,Put in Routing Class,Job 7-496,,225.0,
+2530,118.84,6.0,Created,Job 6-455,,,
+2531,118.84,6.0,Put in Routing Class,Job 6-455,,226.0,
+2532,118.98,7.0,Work Finish,Job 7-232,Machine 0,,
+2533,118.98,7.0,Completed,Job 7-232,,,53.34204683971049
+2534,118.98,,Request Routing for Job,,Machine 0,226.0,
+2535,118.98,,Routing Start,,Machine 0,,3.675 Job 선택
+2536,118.98,7.0,Routing Finish,Job 7-246,Machine 0,,
+2537,118.98,7.0,Work Start,Job 7-246,Machine 0,,
+2538,119.27,4.0,Created,Job 4-474,,,
+2539,119.27,4.0,Put in Routing Class,Job 4-474,,226.0,
+2540,119.54,4.0,Work Finish,Job 4-412,Machine 7,,
+2541,119.54,4.0,Completed,Job 4-412,,,0
+2542,119.54,,Request Routing for Job,,Machine 7,226.0,
+2543,119.54,,Routing Start,,Machine 7,,3.675 Job 선택
+2544,119.54,4.0,Routing Finish,Job 4-435,Machine 7,,
+2545,119.54,4.0,Work Start,Job 4-435,Machine 7,,
+2546,120.0,6.0,Created,Job 6-458,,,
+2547,120.0,6.0,Put in Routing Class,Job 6-458,,226.0,
+2548,120.54,2.0,Work Finish,Job 2-325,Machine 4,,
+2549,120.54,2.0,Completed,Job 2-325,,,67.56469081542463
+2550,120.54,,Request Routing for Job,,Machine 4,226.0,
+2551,120.54,,Routing Start,,Machine 4,,3.675 Job 선택
+2552,120.54,2.0,Routing Finish,Job 2-326,Machine 4,,
+2553,120.54,2.0,Work Start,Job 2-326,Machine 4,,
+2554,120.83,4.0,Work Finish,Job 4-435,Machine 7,,
+2555,120.83,4.0,Completed,Job 4-435,,,0
+2556,120.83,,Request Routing for Job,,Machine 7,225.0,
+2557,120.83,,Routing Start,,Machine 7,,3.675 Job 선택
+2558,120.83,4.0,Routing Finish,Job 4-440,Machine 7,,
+2559,120.83,4.0,Work Start,Job 4-440,Machine 7,,
+2560,120.94,1.0,Work Finish,Job 1-314,Machine 2,,
+2561,120.94,1.0,Completed,Job 1-314,,,65.70418260257165
+2562,120.94,,Request Routing for Job,,Machine 2,224.0,
+2563,120.94,,Routing Start,,Machine 2,,3.675 Job 선택
+2564,120.94,8.0,Routing Finish,Job 8-461,Machine 2,,
+2565,120.94,8.0,Work Start,Job 8-461,Machine 2,,
+2566,121.16,7.0,Work Finish,Job 7-236,Machine 3,,
+2567,121.16,7.0,Completed,Job 7-236,,,54.49113465150991
+2568,121.16,,Request Routing for Job,,Machine 3,223.0,
+2569,121.16,,Routing Start,,Machine 3,,3.675 Job 선택
+2570,121.16,7.0,Routing Finish,Job 7-251,Machine 3,,
+2571,121.16,7.0,Work Start,Job 7-251,Machine 3,,
+2572,121.62,8.0,Created,Job 8-482,,,
+2573,121.62,8.0,Put in Routing Class,Job 8-482,,223.0,
+2574,121.76,8.0,Work Finish,Job 8-459,Machine 1,,
+2575,121.76,8.0,Completed,Job 8-459,,,0
+2576,121.76,,Request Routing for Job,,Machine 1,223.0,
+2577,121.76,,Routing Start,,Machine 1,,3.675 Job 선택
+2578,121.76,8.0,Routing Finish,Job 8-475,Machine 1,,
+2579,121.76,8.0,Work Start,Job 8-475,Machine 1,,
+2580,122.13,4.0,Work Finish,Job 4-440,Machine 7,,
+2581,122.13,4.0,Completed,Job 4-440,,,0
+2582,122.13,,Request Routing for Job,,Machine 7,222.0,
+2583,122.13,,Routing Start,,Machine 7,,3.675 Job 선택
+2584,122.13,1.0,Routing Finish,Job 1-318,Machine 7,,
+2585,122.13,1.0,Work Start,Job 1-318,Machine 7,,
+2586,122.61,7.0,Work Finish,Job 7-220,Machine 5,,
+2587,122.61,7.0,Completed,Job 7-220,,,60.67170722312804
+2588,122.61,,Request Routing for Job,,Machine 5,221.0,
+2589,122.61,,Routing Start,,Machine 5,,3.675 Job 선택
+2590,122.61,7.0,Routing Finish,Job 7-252,Machine 5,,
+2591,122.61,7.0,Work Start,Job 7-252,Machine 5,,
+2592,122.74,6.0,Created,Job 6-462,,,
+2593,122.74,6.0,Put in Routing Class,Job 6-462,,221.0,
+2594,123.01,5.0,Work Finish,Job 5-497,Machine 6,,
+2595,123.01,5.0,Completed,Job 5-497,,,0
+2596,123.01,,Request Routing for Job,,Machine 6,221.0,
+2597,123.01,,Routing Start,,Machine 6,,3.675 Job 선택
+2598,123.01,3.0,Routing Finish,Job 3-20,Machine 6,,
+2599,123.01,3.0,Work Start,Job 3-20,Machine 6,,
+2600,123.82,6.0,Created,Job 6-466,,,
+2601,123.82,6.0,Put in Routing Class,Job 6-466,,221.0,
+2602,123.84,8.0,Created,Job 8-484,,,
+2603,123.84,8.0,Put in Routing Class,Job 8-484,,222.0,
+2604,124.04,3.0,Work Finish,Job 3-20,Machine 6,,
+2605,124.04,3.0,Completed,Job 3-20,,,108.61641782912648
+2606,124.04,,Request Routing for Job,,Machine 6,222.0,
+2607,124.04,,Routing Start,,Machine 6,,3.675 Job 선택
+2608,124.04,3.0,Routing Finish,Job 3-25,Machine 6,,
+2609,124.04,3.0,Work Start,Job 3-25,Machine 6,,
+2610,124.1,2.0,Work Finish,Job 2-326,Machine 4,,
+2611,124.1,2.0,Completed,Job 2-326,,,68.89838650332928
+2612,124.1,,Request Routing for Job,,Machine 4,221.0,
+2613,124.1,,Routing Start,,Machine 4,,3.675 Job 선택
+2614,124.1,2.0,Routing Finish,Job 2-335,Machine 4,,
+2615,124.1,2.0,Work Start,Job 2-335,Machine 4,,
+2616,124.39,4.0,Created,Job 4-490,,,
+2617,124.39,4.0,Put in Routing Class,Job 4-490,,221.0,
+2618,124.7,8.0,Work Finish,Job 8-461,Machine 2,,
+2619,124.7,8.0,Completed,Job 8-461,,,0.20529131741882622
+2620,124.7,,Request Routing for Job,,Machine 2,221.0,
+2621,124.7,,Routing Start,,Machine 2,,3.675 Job 선택
+2622,124.7,8.0,Routing Finish,Job 8-477,Machine 2,,
+2623,124.7,8.0,Work Start,Job 8-477,Machine 2,,
+2624,125.07,3.0,Work Finish,Job 3-25,Machine 6,,
+2625,125.07,3.0,Completed,Job 3-25,,,108.4219584627294
+2626,125.07,,Request Routing for Job,,Machine 6,220.0,
+2627,125.07,,Routing Start,,Machine 6,,3.675 Job 선택
+2628,125.07,3.0,Routing Finish,Job 3-48,Machine 6,,
+2629,125.07,3.0,Work Start,Job 3-48,Machine 6,,
+2630,125.18,8.0,Created,Job 8-491,,,
+2631,125.18,8.0,Put in Routing Class,Job 8-491,,220.0,
+2632,125.22,1.0,Work Finish,Job 1-318,Machine 7,,
+2633,125.22,1.0,Completed,Job 1-318,,,68.4388731634206
+2634,125.22,,Request Routing for Job,,Machine 7,220.0,
+2635,125.22,,Routing Start,,Machine 7,,3.675 Job 선택
+2636,125.22,4.0,Routing Finish,Job 4-457,Machine 7,,
+2637,125.22,4.0,Work Start,Job 4-457,Machine 7,,
+2638,125.34,8.0,Work Finish,Job 8-475,Machine 1,,
+2639,125.34,8.0,Completed,Job 8-475,,,0
+2640,125.34,,Request Routing for Job,,Machine 1,219.0,
+2641,125.34,,Routing Start,,Machine 1,,3.675 Job 선택
+2642,125.34,8.0,Routing Finish,Job 8-480,Machine 1,,
+2643,125.34,8.0,Work Start,Job 8-480,Machine 1,,
+2644,125.74,6.0,Created,Job 6-479,,,
+2645,125.74,6.0,Put in Routing Class,Job 6-479,,219.0,
+2646,126.01,7.0,Work Finish,Job 7-251,Machine 3,,
+2647,126.01,7.0,Completed,Job 7-251,,,52.393614106883106
+2648,126.01,,Request Routing for Job,,Machine 3,219.0,
+2649,126.01,,Routing Start,,Machine 3,,3.675 Job 선택
+2650,126.01,4.0,Routing Finish,Job 4-474,Machine 3,,
+2651,126.01,4.0,Work Start,Job 4-474,Machine 3,,
+2652,126.1,3.0,Work Finish,Job 3-48,Machine 6,,
+2653,126.1,3.0,Completed,Job 3-48,,,106.75940762388242
+2654,126.1,,Request Routing for Job,,Machine 6,218.0,
+2655,126.1,,Routing Start,,Machine 6,,3.675 Job 선택
+2656,126.1,3.0,Routing Finish,Job 3-52,Machine 6,,
+2657,126.1,3.0,Work Start,Job 3-52,Machine 6,,
+2658,126.16,7.0,Work Finish,Job 7-246,Machine 0,,
+2659,126.16,7.0,Completed,Job 7-246,,,53.73889215989435
+2660,126.16,,Request Routing for Job,,Machine 0,217.0,
+2661,126.16,,Routing Start,,Machine 0,,3.675 Job 선택
+2662,126.16,7.0,Routing Finish,Job 7-258,Machine 0,,
+2663,126.16,7.0,Work Start,Job 7-258,Machine 0,,
+2664,126.51,4.0,Work Finish,Job 4-457,Machine 7,,
+2665,126.51,4.0,Completed,Job 4-457,,,0.04028274854005076
+2666,126.51,,Request Routing for Job,,Machine 7,216.0,
+2667,126.51,,Routing Start,,Machine 7,,3.675 Job 선택
+2668,126.51,1.0,Routing Finish,Job 1-330,Machine 7,,
+2669,126.51,1.0,Work Start,Job 1-330,Machine 7,,
+2670,127.05,4.0,Created,Job 4-499,,,
+2671,127.05,4.0,Put in Routing Class,Job 4-499,,216.0,
+2672,127.13,3.0,Work Finish,Job 3-52,Machine 6,,
+2673,127.13,3.0,Completed,Job 3-52,,,106.75206822170476
+2674,127.13,,Request Routing for Job,,Machine 6,216.0,
+2675,127.13,,Routing Start,,Machine 6,,3.675 Job 선택
+2676,127.13,3.0,Routing Finish,Job 3-53,Machine 6,,
+2677,127.13,3.0,Work Start,Job 3-53,Machine 6,,
+2678,127.61,6.0,Created,Job 6-492,,,
+2679,127.61,6.0,Put in Routing Class,Job 6-492,,216.0,
+2680,127.66,2.0,Work Finish,Job 2-335,Machine 4,,
+2681,127.66,2.0,Completed,Job 2-335,,,71.41334592350597
+2682,127.66,,Request Routing for Job,,Machine 4,216.0,
+2683,127.66,,Routing Start,,Machine 4,,3.675 Job 선택
+2684,127.66,2.0,Routing Finish,Job 2-338,Machine 4,,
+2685,127.66,2.0,Work Start,Job 2-338,Machine 4,,
+2686,128.16,3.0,Work Finish,Job 3-53,Machine 6,,
+2687,128.16,3.0,Completed,Job 3-53,,,104.41411734881328
+2688,128.16,,Request Routing for Job,,Machine 6,215.0,
+2689,128.16,,Routing Start,,Machine 6,,3.675 Job 선택
+2690,128.16,3.0,Routing Finish,Job 3-55,Machine 6,,
+2691,128.16,3.0,Work Start,Job 3-55,Machine 6,,
+2692,128.46,8.0,Work Finish,Job 8-477,Machine 2,,
+2693,128.46,8.0,Completed,Job 8-477,,,1.3750285125685622
+2694,128.46,,Request Routing for Job,,Machine 2,214.0,
+2695,128.46,,Routing Start,,Machine 2,,3.675 Job 선택
+2696,128.46,8.0,Routing Finish,Job 8-482,Machine 2,,
+2697,128.46,8.0,Work Start,Job 8-482,Machine 2,,
+2698,128.62,4.0,Work Finish,Job 4-474,Machine 3,,
+2699,128.62,4.0,Completed,Job 4-474,,,0
+2700,128.62,,Request Routing for Job,,Machine 3,213.0,
+2701,128.62,,Routing Start,,Machine 3,,3.675 Job 선택
+2702,128.62,7.0,Routing Finish,Job 7-267,Machine 3,,
+2703,128.62,7.0,Work Start,Job 7-267,Machine 3,,
+2704,128.91,8.0,Work Finish,Job 8-480,Machine 1,,
+2705,128.91,8.0,Completed,Job 8-480,,,0.5841307243526899
+2706,128.91,,Request Routing for Job,,Machine 1,212.0,
+2707,128.91,,Routing Start,,Machine 1,,3.675 Job 선택
+2708,128.91,8.0,Routing Finish,Job 8-484,Machine 1,,
+2709,128.91,8.0,Work Start,Job 8-484,Machine 1,,
+2710,129.19,3.0,Work Finish,Job 3-55,Machine 6,,
+2711,129.19,3.0,Completed,Job 3-55,,,102.0122568861168
+2712,129.19,,Request Routing for Job,,Machine 6,211.0,
+2713,129.19,,Routing Start,,Machine 6,,3.675 Job 선택
+2714,129.19,3.0,Routing Finish,Job 3-57,Machine 6,,
+2715,129.19,3.0,Work Start,Job 3-57,Machine 6,,
+2716,129.6,1.0,Work Finish,Job 1-330,Machine 7,,
+2717,129.6,1.0,Completed,Job 1-330,,,71.24266046525116
+2718,129.6,,Request Routing for Job,,Machine 7,210.0,
+2719,129.6,,Routing Start,,Machine 7,,3.675 Job 선택
+2720,129.6,1.0,Routing Finish,Job 1-337,Machine 7,,
+2721,129.6,1.0,Work Start,Job 1-337,Machine 7,,
+2722,130.22,3.0,Work Finish,Job 3-57,Machine 6,,
+2723,130.22,3.0,Completed,Job 3-57,,,99.6616783167756
+2724,130.22,,Request Routing for Job,,Machine 6,209.0,
+2725,130.22,,Routing Start,,Machine 6,,3.675 Job 선택
+2726,130.22,3.0,Routing Finish,Job 3-60,Machine 6,,
+2727,130.22,3.0,Work Start,Job 3-60,Machine 6,,
+2728,131.23,2.0,Work Finish,Job 2-338,Machine 4,,
+2729,131.23,2.0,Completed,Job 2-338,,,69.14167523021838
+2730,131.23,,Request Routing for Job,,Machine 4,208.0,
+2731,131.23,,Routing Start,,Machine 4,,3.675 Job 선택
+2732,131.23,2.0,Routing Finish,Job 2-342,Machine 4,,
+2733,131.23,2.0,Work Start,Job 2-342,Machine 4,,
+2734,131.25,3.0,Work Finish,Job 3-60,Machine 6,,
+2735,131.25,3.0,Completed,Job 3-60,,,99.5440190322461
+2736,131.25,,Request Routing for Job,,Machine 6,207.0,
+2737,131.25,,Routing Start,,Machine 6,,3.675 Job 선택
+2738,131.25,3.0,Routing Finish,Job 3-93,Machine 6,,
+2739,131.25,3.0,Work Start,Job 3-93,Machine 6,,
+2740,132.21,8.0,Work Finish,Job 8-482,Machine 2,,
+2741,132.21,8.0,Completed,Job 8-482,,,0
+2742,132.21,,Request Routing for Job,,Machine 2,206.0,
+2743,132.21,,Routing Start,,Machine 2,,3.675 Job 선택
+2744,132.21,8.0,Routing Finish,Job 8-491,Machine 2,,
+2745,132.21,8.0,Work Start,Job 8-491,Machine 2,,
+2746,132.28,3.0,Work Finish,Job 3-93,Machine 6,,
+2747,132.28,3.0,Completed,Job 3-93,,,98.4329512370901
+2748,132.28,,Request Routing for Job,,Machine 6,205.0,
+2749,132.28,,Routing Start,,Machine 6,,3.675 Job 선택
+2750,132.28,3.0,Routing Finish,Job 3-105,Machine 6,,
+2751,132.28,3.0,Work Start,Job 3-105,Machine 6,,
+2752,132.49,8.0,Work Finish,Job 8-484,Machine 1,,
+2753,132.49,8.0,Completed,Job 8-484,,,0
+2754,132.49,,Request Routing for Job,,Machine 1,204.0,
+2755,132.49,,Routing Start,,Machine 1,,3.675 Job 선택
+2756,132.49,6.0,Routing Finish,Job 6-1,Machine 1,,
+2757,132.49,6.0,Work Start,Job 6-1,Machine 1,,
+2758,132.69,1.0,Work Finish,Job 1-337,Machine 7,,
+2759,132.69,1.0,Completed,Job 1-337,,,72.79852732147253
+2760,132.69,,Request Routing for Job,,Machine 7,203.0,
+2761,132.69,,Routing Start,,Machine 7,,3.675 Job 선택
+2762,132.69,4.0,Routing Finish,Job 4-490,Machine 7,,
+2763,132.69,4.0,Work Start,Job 4-490,Machine 7,,
+2764,133.31,3.0,Work Finish,Job 3-105,Machine 6,,
+2765,133.31,3.0,Completed,Job 3-105,,,98.45110608714957
+2766,133.31,,Request Routing for Job,,Machine 6,202.0,
+2767,133.31,,Routing Start,,Machine 6,,3.675 Job 선택
+2768,133.31,3.0,Routing Finish,Job 3-107,Machine 6,,
+2769,133.31,3.0,Work Start,Job 3-107,Machine 6,,
+2770,133.33,7.0,Work Finish,Job 7-258,Machine 0,,
+2771,133.33,7.0,Completed,Job 7-258,,,56.65695293368424
+2772,133.33,,Request Routing for Job,,Machine 0,201.0,
+2773,133.33,,Routing Start,,Machine 0,,3.675 Job 선택
+2774,133.33,7.0,Routing Finish,Job 7-272,Machine 0,,
+2775,133.33,7.0,Work Start,Job 7-272,Machine 0,,
+2776,133.47,7.0,Work Finish,Job 7-267,Machine 3,,
+2777,133.47,7.0,Completed,Job 7-267,,,55.72578607707126
+2778,133.47,,Request Routing for Job,,Machine 3,200.0,
+2779,133.47,,Routing Start,,Machine 3,,3.675 Job 선택
+2780,133.47,4.0,Routing Finish,Job 4-499,Machine 3,,
+2781,133.47,4.0,Work Start,Job 4-499,Machine 3,,
+2782,133.98,4.0,Work Finish,Job 4-490,Machine 7,,
+2783,133.98,4.0,Completed,Job 4-490,,,0
+2784,133.98,,Request Routing for Job,,Machine 7,199.0,
+2785,133.98,,Routing Start,,Machine 7,,3.675 Job 선택
+2786,133.98,1.0,Routing Finish,Job 1-341,Machine 7,,
+2787,133.98,1.0,Work Start,Job 1-341,Machine 7,,
+2788,134.17,6.0,Work Finish,Job 6-1,Machine 1,,
+2789,134.17,6.0,Completed,Job 6-1,,,119.82187302309583
+2790,134.17,,Request Routing for Job,,Machine 1,198.0,
+2791,134.17,,Routing Start,,Machine 1,,3.675 Job 선택
+2792,134.17,6.0,Routing Finish,Job 6-17,Machine 1,,
+2793,134.17,6.0,Work Start,Job 6-17,Machine 1,,
+2794,134.34,3.0,Work Finish,Job 3-107,Machine 6,,
+2795,134.34,3.0,Completed,Job 3-107,,,95.94802474067919
+2796,134.34,,Request Routing for Job,,Machine 6,197.0,
+2797,134.34,,Routing Start,,Machine 6,,3.675 Job 선택
+2798,134.34,3.0,Routing Finish,Job 3-108,Machine 6,,
+2799,134.34,3.0,Work Start,Job 3-108,Machine 6,,
+2800,134.79,2.0,Work Finish,Job 2-342,Machine 4,,
+2801,134.79,2.0,Completed,Job 2-342,,,70.64017399781156
+2802,134.79,,Request Routing for Job,,Machine 4,196.0,
+2803,134.79,,Routing Start,,Machine 4,,3.675 Job 선택
+2804,134.79,2.0,Routing Finish,Job 2-354,Machine 4,,
+2805,134.79,2.0,Work Start,Job 2-354,Machine 4,,
+2806,135.37,3.0,Work Finish,Job 3-108,Machine 6,,
+2807,135.37,3.0,Completed,Job 3-108,,,94.40570819332488
+2808,135.37,,Request Routing for Job,,Machine 6,195.0,
+2809,135.37,,Routing Start,,Machine 6,,3.675 Job 선택
+2810,135.37,3.0,Routing Finish,Job 3-123,Machine 6,,
+2811,135.37,3.0,Work Start,Job 3-123,Machine 6,,
+2812,135.86,6.0,Work Finish,Job 6-17,Machine 1,,
+2813,135.86,6.0,Completed,Job 6-17,,,117.27704966112121
+2814,135.86,,Request Routing for Job,,Machine 1,194.0,
+2815,135.86,,Routing Start,,Machine 1,,3.675 Job 선택
+2816,135.86,6.0,Routing Finish,Job 6-26,Machine 1,,
+2817,135.86,6.0,Work Start,Job 6-26,Machine 1,,
+2818,135.97,8.0,Work Finish,Job 8-491,Machine 2,,
+2819,135.97,8.0,Completed,Job 8-491,,,0
+2820,135.97,,Request Routing for Job,,Machine 2,193.0,
+2821,135.97,,Routing Start,,Machine 2,,3.675 Job 선택
+2822,135.97,1.0,Routing Finish,Job 1-355,Machine 2,,
+2823,135.97,1.0,Work Start,Job 1-355,Machine 2,,
+2824,136.04,7.0,Work Finish,Job 7-252,Machine 5,,
+2825,136.04,7.0,Completed,Job 7-252,,,61.322743033506185
+2826,136.04,,Request Routing for Job,,Machine 5,192.0,
+2827,136.04,,Routing Start,,Machine 5,,3.675 Job 선택
+2828,136.04,7.0,Routing Finish,Job 7-278,Machine 5,,
+2829,136.04,7.0,Work Start,Job 7-278,Machine 5,,
+2830,136.08,4.0,Work Finish,Job 4-499,Machine 3,,
+2831,136.08,4.0,Completed,Job 4-499,,,0
+2832,136.08,,Request Routing for Job,,Machine 3,191.0,
+2833,136.08,,Routing Start,,Machine 3,,3.675 Job 선택
+2834,136.08,7.0,Routing Finish,Job 7-290,Machine 3,,
+2835,136.08,7.0,Work Start,Job 7-290,Machine 3,,
+2836,136.4,3.0,Work Finish,Job 3-123,Machine 6,,
+2837,136.4,3.0,Completed,Job 3-123,,,93.62088817194193
+2838,136.4,,Request Routing for Job,,Machine 6,190.0,
+2839,136.4,,Routing Start,,Machine 6,,3.675 Job 선택
+2840,136.4,3.0,Routing Finish,Job 3-139,Machine 6,,
+2841,136.4,3.0,Work Start,Job 3-139,Machine 6,,
+2842,137.07,1.0,Work Finish,Job 1-341,Machine 7,,
+2843,137.07,1.0,Completed,Job 1-341,,,75.43946127846525
+2844,137.07,,Request Routing for Job,,Machine 7,189.0,
+2845,137.07,,Routing Start,,Machine 7,,3.675 Job 선택
+2846,137.07,1.0,Routing Finish,Job 1-356,Machine 7,,
+2847,137.07,1.0,Work Start,Job 1-356,Machine 7,,
+2848,137.43,3.0,Work Finish,Job 3-139,Machine 6,,
+2849,137.43,3.0,Completed,Job 3-139,,,92.03522663792018
+2850,137.43,,Request Routing for Job,,Machine 6,188.0,
+2851,137.43,,Routing Start,,Machine 6,,3.675 Job 선택
+2852,137.43,3.0,Routing Finish,Job 3-149,Machine 6,,
+2853,137.43,3.0,Work Start,Job 3-149,Machine 6,,
+2854,137.54,6.0,Work Finish,Job 6-26,Machine 1,,
+2855,137.54,6.0,Completed,Job 6-26,,,117.1998511323809
+2856,137.54,,Request Routing for Job,,Machine 1,187.0,
+2857,137.54,,Routing Start,,Machine 1,,3.675 Job 선택
+2858,137.54,6.0,Routing Finish,Job 6-31,Machine 1,,
+2859,137.54,6.0,Work Start,Job 6-31,Machine 1,,
+2860,138.35,2.0,Work Finish,Job 2-354,Machine 4,,
+2861,138.35,2.0,Completed,Job 2-354,,,72.54208599590083
+2862,138.35,,Request Routing for Job,,Machine 4,186.0,
+2863,138.35,,Routing Start,,Machine 4,,3.675 Job 선택
+2864,138.35,2.0,Routing Finish,Job 2-392,Machine 4,,
+2865,138.35,2.0,Work Start,Job 2-392,Machine 4,,
+2866,138.46,3.0,Work Finish,Job 3-149,Machine 6,,
+2867,138.46,3.0,Completed,Job 3-149,,,91.97901091664183
+2868,138.46,,Request Routing for Job,,Machine 6,185.0,
+2869,138.46,,Routing Start,,Machine 6,,3.675 Job 선택
+2870,138.46,3.0,Routing Finish,Job 3-155,Machine 6,,
+2871,138.46,3.0,Work Start,Job 3-155,Machine 6,,
+2872,139.23,6.0,Work Finish,Job 6-31,Machine 1,,
+2873,139.23,6.0,Completed,Job 6-31,,,114.61622895677239
+2874,139.23,,Request Routing for Job,,Machine 1,184.0,
+2875,139.23,,Routing Start,,Machine 1,,3.675 Job 선택
+2876,139.23,6.0,Routing Finish,Job 6-33,Machine 1,,
+2877,139.23,6.0,Work Start,Job 6-33,Machine 1,,
+2878,139.49,3.0,Work Finish,Job 3-155,Machine 6,,
+2879,139.49,3.0,Completed,Job 3-155,,,91.2011241537261
+2880,139.49,,Request Routing for Job,,Machine 6,183.0,
+2881,139.49,,Routing Start,,Machine 6,,3.675 Job 선택
+2882,139.49,3.0,Routing Finish,Job 3-160,Machine 6,,
+2883,139.49,3.0,Work Start,Job 3-160,Machine 6,,
+2884,140.16,1.0,Work Finish,Job 1-356,Machine 7,,
+2885,140.16,1.0,Completed,Job 1-356,,,72.06148173552582
+2886,140.16,,Request Routing for Job,,Machine 7,182.0,
+2887,140.16,,Routing Start,,Machine 7,,3.675 Job 선택
+2888,140.16,1.0,Routing Finish,Job 1-369,Machine 7,,
+2889,140.16,1.0,Work Start,Job 1-369,Machine 7,,
+2890,140.21,1.0,Work Finish,Job 1-355,Machine 2,,
+2891,140.21,1.0,Completed,Job 1-355,,,75.36520350426724
+2892,140.21,,Request Routing for Job,,Machine 2,181.0,
+2893,140.21,,Routing Start,,Machine 2,,3.675 Job 선택
+2894,140.21,1.0,Routing Finish,Job 1-371,Machine 2,,
+2895,140.21,1.0,Work Start,Job 1-371,Machine 2,,
+2896,140.51,7.0,Work Finish,Job 7-272,Machine 0,,
+2897,140.51,7.0,Completed,Job 7-272,,,60.721331556681264
+2898,140.51,,Request Routing for Job,,Machine 0,180.0,
+2899,140.51,,Routing Start,,Machine 0,,3.675 Job 선택
+2900,140.51,7.0,Routing Finish,Job 7-332,Machine 0,,
+2901,140.51,7.0,Work Start,Job 7-332,Machine 0,,
+2902,140.52,3.0,Work Finish,Job 3-160,Machine 6,,
+2903,140.52,3.0,Completed,Job 3-160,,,90.904807095573
+2904,140.52,,Request Routing for Job,,Machine 6,179.0,
+2905,140.52,,Routing Start,,Machine 6,,3.675 Job 선택
+2906,140.52,3.0,Routing Finish,Job 3-161,Machine 6,,
+2907,140.52,3.0,Work Start,Job 3-161,Machine 6,,
+2908,140.92,6.0,Work Finish,Job 6-33,Machine 1,,
+2909,140.92,6.0,Completed,Job 6-33,,,114.78302606663186
+2910,140.92,,Request Routing for Job,,Machine 1,178.0,
+2911,140.92,,Routing Start,,Machine 1,,3.675 Job 선택
+2912,140.92,6.0,Routing Finish,Job 6-38,Machine 1,,
+2913,140.92,6.0,Work Start,Job 6-38,Machine 1,,
+2914,140.93,7.0,Work Finish,Job 7-290,Machine 3,,
+2915,140.93,7.0,Completed,Job 7-290,,,56.5435271521047
+2916,140.93,,Request Routing for Job,,Machine 3,177.0,
+2917,140.93,,Routing Start,,Machine 3,,3.675 Job 선택
+2918,140.93,7.0,Routing Finish,Job 7-344,Machine 3,,
+2919,140.93,7.0,Work Start,Job 7-344,Machine 3,,
+2920,141.55,3.0,Work Finish,Job 3-161,Machine 6,,
+2921,141.55,3.0,Completed,Job 3-161,,,86.30459177312589
+2922,141.55,,Request Routing for Job,,Machine 6,176.0,
+2923,141.55,,Routing Start,,Machine 6,,3.675 Job 선택
+2924,141.55,3.0,Routing Finish,Job 3-197,Machine 6,,
+2925,141.55,3.0,Work Start,Job 3-197,Machine 6,,
+2926,141.91,2.0,Work Finish,Job 2-392,Machine 4,,
+2927,141.91,2.0,Completed,Job 2-392,,,74.53313126528562
+2928,141.91,,Request Routing for Job,,Machine 4,175.0,
+2929,141.91,,Routing Start,,Machine 4,,3.675 Job 선택
+2930,141.91,2.0,Routing Finish,Job 2-395,Machine 4,,
+2931,141.91,2.0,Work Start,Job 2-395,Machine 4,,
+2932,142.59,3.0,Work Finish,Job 3-197,Machine 6,,
+2933,142.59,3.0,Completed,Job 3-197,,,83.70213476725644
+2934,142.59,,Request Routing for Job,,Machine 6,174.0,
+2935,142.59,,Routing Start,,Machine 6,,3.675 Job 선택
+2936,142.59,3.0,Routing Finish,Job 3-201,Machine 6,,
+2937,142.59,3.0,Work Start,Job 3-201,Machine 6,,
+2938,142.6,6.0,Work Finish,Job 6-38,Machine 1,,
+2939,142.6,6.0,Completed,Job 6-38,,,115.22728080762124
+2940,142.6,,Request Routing for Job,,Machine 1,173.0,
+2941,142.6,,Routing Start,,Machine 1,,3.675 Job 선택
+2942,142.6,6.0,Routing Finish,Job 6-42,Machine 1,,
+2943,142.6,6.0,Work Start,Job 6-42,Machine 1,,
+2944,143.25,1.0,Work Finish,Job 1-369,Machine 7,,
+2945,143.25,1.0,Completed,Job 1-369,,,72.07357082629093
+2946,143.25,,Request Routing for Job,,Machine 7,172.0,
+2947,143.25,,Routing Start,,Machine 7,,3.675 Job 선택
+2948,143.25,1.0,Routing Finish,Job 1-373,Machine 7,,
+2949,143.25,1.0,Work Start,Job 1-373,Machine 7,,
+2950,143.62,3.0,Work Finish,Job 3-201,Machine 6,,
+2951,143.62,3.0,Completed,Job 3-201,,,82.10084659389499
+2952,143.62,,Request Routing for Job,,Machine 6,171.0,
+2953,143.62,,Routing Start,,Machine 6,,3.675 Job 선택
+2954,143.62,3.0,Routing Finish,Job 3-234,Machine 6,,
+2955,143.62,3.0,Work Start,Job 3-234,Machine 6,,
+2956,144.29,6.0,Work Finish,Job 6-42,Machine 1,,
+2957,144.29,6.0,Completed,Job 6-42,,,115.66858413915543
+2958,144.29,,Request Routing for Job,,Machine 1,170.0,
+2959,144.29,,Routing Start,,Machine 1,,3.675 Job 선택
+2960,144.29,6.0,Routing Finish,Job 6-44,Machine 1,,
+2961,144.29,6.0,Work Start,Job 6-44,Machine 1,,
+2962,144.45,1.0,Work Finish,Job 1-371,Machine 2,,
+2963,144.45,1.0,Completed,Job 1-371,,,72.18143044868094
+2964,144.45,,Request Routing for Job,,Machine 2,169.0,
+2965,144.45,,Routing Start,,Machine 2,,3.675 Job 선택
+2966,144.45,1.0,Routing Finish,Job 1-374,Machine 2,,
+2967,144.45,1.0,Work Start,Job 1-374,Machine 2,,
+2968,144.65,3.0,Work Finish,Job 3-234,Machine 6,,
+2969,144.65,3.0,Completed,Job 3-234,,,78.37996071876414
+2970,144.65,,Request Routing for Job,,Machine 6,168.0,
+2971,144.65,,Routing Start,,Machine 6,,3.675 Job 선택
+2972,144.65,3.0,Routing Finish,Job 3-239,Machine 6,,
+2973,144.65,3.0,Work Start,Job 3-239,Machine 6,,
+2974,145.47,2.0,Work Finish,Job 2-395,Machine 4,,
+2975,145.47,2.0,Completed,Job 2-395,,,76.15537364171567
+2976,145.47,,Request Routing for Job,,Machine 4,167.0,
+2977,145.47,,Routing Start,,Machine 4,,3.675 Job 선택
+2978,145.47,2.0,Routing Finish,Job 2-403,Machine 4,,
+2979,145.47,2.0,Work Start,Job 2-403,Machine 4,,
+2980,145.68,3.0,Work Finish,Job 3-239,Machine 6,,
+2981,145.68,3.0,Completed,Job 3-239,,,77.99543709058557
+2982,145.68,,Request Routing for Job,,Machine 6,166.0,
+2983,145.68,,Routing Start,,Machine 6,,3.675 Job 선택
+2984,145.68,3.0,Routing Finish,Job 3-240,Machine 6,,
+2985,145.68,3.0,Work Start,Job 3-240,Machine 6,,
+2986,145.79,7.0,Work Finish,Job 7-344,Machine 3,,
+2987,145.79,7.0,Completed,Job 7-344,,,56.80866824382835
+2988,145.79,,Request Routing for Job,,Machine 3,165.0,
+2989,145.79,,Routing Start,,Machine 3,,3.675 Job 선택
+2990,145.79,7.0,Routing Finish,Job 7-357,Machine 3,,
+2991,145.79,7.0,Work Start,Job 7-357,Machine 3,,
+2992,145.98,6.0,Work Finish,Job 6-44,Machine 1,,
+2993,145.98,6.0,Completed,Job 6-44,,,115.08197202596298
+2994,145.98,,Request Routing for Job,,Machine 1,164.0,
+2995,145.98,,Routing Start,,Machine 1,,3.675 Job 선택
+2996,145.98,6.0,Routing Finish,Job 6-54,Machine 1,,
+2997,145.98,6.0,Work Start,Job 6-54,Machine 1,,
+2998,146.34,1.0,Work Finish,Job 1-373,Machine 7,,
+2999,146.34,1.0,Completed,Job 1-373,,,70.98118598833932
+3000,146.34,,Request Routing for Job,,Machine 7,163.0,
+3001,146.34,,Routing Start,,Machine 7,,3.675 Job 선택
+3002,146.34,1.0,Routing Finish,Job 1-375,Machine 7,,
+3003,146.34,1.0,Work Start,Job 1-375,Machine 7,,
+3004,146.71,3.0,Work Finish,Job 3-240,Machine 6,,
+3005,146.71,3.0,Completed,Job 3-240,,,74.82876621759733
+3006,146.71,,Request Routing for Job,,Machine 6,162.0,
+3007,146.71,,Routing Start,,Machine 6,,3.675 Job 선택
+3008,146.71,3.0,Routing Finish,Job 3-244,Machine 6,,
+3009,146.71,3.0,Work Start,Job 3-244,Machine 6,,
+3010,147.66,6.0,Work Finish,Job 6-54,Machine 1,,
+3011,147.66,6.0,Completed,Job 6-54,,,115.03305341843233
+3012,147.66,,Request Routing for Job,,Machine 1,161.0,
+3013,147.66,,Routing Start,,Machine 1,,3.675 Job 선택
+3014,147.66,6.0,Routing Finish,Job 6-58,Machine 1,,
+3015,147.66,6.0,Work Start,Job 6-58,Machine 1,,
+3016,147.68,7.0,Work Finish,Job 7-332,Machine 0,,
+3017,147.68,7.0,Completed,Job 7-332,,,60.2029211865526
+3018,147.68,,Request Routing for Job,,Machine 0,160.0,
+3019,147.68,,Routing Start,,Machine 0,,3.675 Job 선택
+3020,147.68,7.0,Routing Finish,Job 7-359,Machine 0,,
+3021,147.68,7.0,Work Start,Job 7-359,Machine 0,,
+3022,147.74,3.0,Work Finish,Job 3-244,Machine 6,,
+3023,147.74,3.0,Completed,Job 3-244,,,74.47989683899216
+3024,147.74,,Request Routing for Job,,Machine 6,159.0,
+3025,147.74,,Routing Start,,Machine 6,,3.675 Job 선택
+3026,147.74,3.0,Routing Finish,Job 3-254,Machine 6,,
+3027,147.74,3.0,Work Start,Job 3-254,Machine 6,,
+3028,148.69,1.0,Work Finish,Job 1-374,Machine 2,,
+3029,148.69,1.0,Completed,Job 1-374,,,72.22166413394307
+3030,148.69,,Request Routing for Job,,Machine 2,158.0,
+3031,148.69,,Routing Start,,Machine 2,,3.675 Job 선택
+3032,148.69,1.0,Routing Finish,Job 1-379,Machine 2,,
+3033,148.69,1.0,Work Start,Job 1-379,Machine 2,,
+3034,148.77,3.0,Work Finish,Job 3-254,Machine 6,,
+3035,148.77,3.0,Completed,Job 3-254,,,72.88141073073949
+3036,148.77,,Request Routing for Job,,Machine 6,157.0,
+3037,148.77,,Routing Start,,Machine 6,,3.675 Job 선택
+3038,148.77,3.0,Routing Finish,Job 3-286,Machine 6,,
+3039,148.77,3.0,Work Start,Job 3-286,Machine 6,,
+3040,149.04,2.0,Work Finish,Job 2-403,Machine 4,,
+3041,149.04,2.0,Completed,Job 2-403,,,78.63472498244076
+3042,149.04,,Request Routing for Job,,Machine 4,156.0,
+3043,149.04,,Routing Start,,Machine 4,,3.675 Job 선택
+3044,149.04,2.0,Routing Finish,Job 2-408,Machine 4,,
+3045,149.04,2.0,Work Start,Job 2-408,Machine 4,,
+3046,149.35,6.0,Work Finish,Job 6-58,Machine 1,,
+3047,149.35,6.0,Completed,Job 6-58,,,114.46104371786099
+3048,149.35,,Request Routing for Job,,Machine 1,155.0,
+3049,149.35,,Routing Start,,Machine 1,,3.675 Job 선택
+3050,149.35,6.0,Routing Finish,Job 6-73,Machine 1,,
+3051,149.35,6.0,Work Start,Job 6-73,Machine 1,,
+3052,149.43,1.0,Work Finish,Job 1-375,Machine 7,,
+3053,149.43,1.0,Completed,Job 1-375,,,71.83926747760714
+3054,149.43,,Request Routing for Job,,Machine 7,154.0,
+3055,149.43,,Routing Start,,Machine 7,,3.675 Job 선택
+3056,149.43,1.0,Routing Finish,Job 1-380,Machine 7,,
+3057,149.43,1.0,Work Start,Job 1-380,Machine 7,,
+3058,149.48,7.0,Work Finish,Job 7-278,Machine 5,,
+3059,149.48,7.0,Completed,Job 7-278,,,66.1312965089623
+3060,149.48,,Request Routing for Job,,Machine 5,153.0,
+3061,149.48,,Routing Start,,Machine 5,,3.675 Job 선택
+3062,149.48,7.0,Routing Finish,Job 7-378,Machine 5,,
+3063,149.48,7.0,Work Start,Job 7-378,Machine 5,,
+3064,149.8,3.0,Work Finish,Job 3-286,Machine 6,,
+3065,149.8,3.0,Completed,Job 3-286,,,71.2615970039606
+3066,149.8,,Request Routing for Job,,Machine 6,152.0,
+3067,149.8,,Routing Start,,Machine 6,,3.675 Job 선택
+3068,149.8,3.0,Routing Finish,Job 3-288,Machine 6,,
+3069,149.8,3.0,Work Start,Job 3-288,Machine 6,,
+3070,150.64,7.0,Work Finish,Job 7-357,Machine 3,,
+3071,150.64,7.0,Completed,Job 7-357,,,60.50799906340268
+3072,150.64,,Request Routing for Job,,Machine 3,151.0,
+3073,150.64,,Routing Start,,Machine 3,,3.675 Job 선택
+3074,150.64,7.0,Routing Finish,Job 7-384,Machine 3,,
+3075,150.64,7.0,Work Start,Job 7-384,Machine 3,,
+3076,150.83,3.0,Work Finish,Job 3-288,Machine 6,,
+3077,150.83,3.0,Completed,Job 3-288,,,71.27628928885356
+3078,150.83,,Request Routing for Job,,Machine 6,150.0,
+3079,150.83,,Routing Start,,Machine 6,,3.675 Job 선택
+3080,150.83,3.0,Routing Finish,Job 3-300,Machine 6,,
+3081,150.83,3.0,Work Start,Job 3-300,Machine 6,,
+3082,151.03,6.0,Work Finish,Job 6-73,Machine 1,,
+3083,151.03,6.0,Completed,Job 6-73,,,113.76568063208435
+3084,151.03,,Request Routing for Job,,Machine 1,149.0,
+3085,151.03,,Routing Start,,Machine 1,,3.675 Job 선택
+3086,151.03,6.0,Routing Finish,Job 6-74,Machine 1,,
+3087,151.03,6.0,Work Start,Job 6-74,Machine 1,,
+3088,151.86,3.0,Work Finish,Job 3-300,Machine 6,,
+3089,151.86,3.0,Completed,Job 3-300,,,70.86728185234783
+3090,151.86,,Request Routing for Job,,Machine 6,148.0,
+3091,151.86,,Routing Start,,Machine 6,,3.675 Job 선택
+3092,151.86,3.0,Routing Finish,Job 3-304,Machine 6,,
+3093,151.86,3.0,Work Start,Job 3-304,Machine 6,,
+3094,152.52,1.0,Work Finish,Job 1-380,Machine 7,,
+3095,152.52,1.0,Completed,Job 1-380,,,66.63578049047594
+3096,152.52,,Request Routing for Job,,Machine 7,147.0,
+3097,152.52,,Routing Start,,Machine 7,,3.675 Job 선택
+3098,152.52,1.0,Routing Finish,Job 1-383,Machine 7,,
+3099,152.52,1.0,Work Start,Job 1-383,Machine 7,,
+3100,152.6,2.0,Work Finish,Job 2-408,Machine 4,,
+3101,152.6,2.0,Completed,Job 2-408,,,77.51584735770443
+3102,152.6,,Request Routing for Job,,Machine 4,146.0,
+3103,152.6,,Routing Start,,Machine 4,,3.675 Job 선택
+3104,152.6,2.0,Routing Finish,Job 2-414,Machine 4,,
+3105,152.6,2.0,Work Start,Job 2-414,Machine 4,,
+3106,152.72,6.0,Work Finish,Job 6-74,Machine 1,,
+3107,152.72,6.0,Completed,Job 6-74,,,114.43267522543267
+3108,152.72,,Request Routing for Job,,Machine 1,145.0,
+3109,152.72,,Routing Start,,Machine 1,,3.675 Job 선택
+3110,152.72,6.0,Routing Finish,Job 6-77,Machine 1,,
+3111,152.72,6.0,Work Start,Job 6-77,Machine 1,,
+3112,152.89,3.0,Work Finish,Job 3-304,Machine 6,,
+3113,152.89,3.0,Completed,Job 3-304,,,70.88102861018635
+3114,152.89,,Request Routing for Job,,Machine 6,144.0,
+3115,152.89,,Routing Start,,Machine 6,,3.675 Job 선택
+3116,152.89,3.0,Routing Finish,Job 3-307,Machine 6,,
+3117,152.89,3.0,Work Start,Job 3-307,Machine 6,,
+3118,152.93,1.0,Work Finish,Job 1-379,Machine 2,,
+3119,152.93,1.0,Completed,Job 1-379,,,70.30826548298054
+3120,152.93,,Request Routing for Job,,Machine 2,143.0,
+3121,152.93,,Routing Start,,Machine 2,,3.675 Job 선택
+3122,152.93,1.0,Routing Finish,Job 1-393,Machine 2,,
+3123,152.93,1.0,Work Start,Job 1-393,Machine 2,,
+3124,153.92,3.0,Work Finish,Job 3-307,Machine 6,,
+3125,153.92,3.0,Completed,Job 3-307,,,65.53823802844072
+3126,153.92,,Request Routing for Job,,Machine 6,142.0,
+3127,153.92,,Routing Start,,Machine 6,,3.675 Job 선택
+3128,153.92,3.0,Routing Finish,Job 3-308,Machine 6,,
+3129,153.92,3.0,Work Start,Job 3-308,Machine 6,,
+3130,154.41,6.0,Work Finish,Job 6-77,Machine 1,,
+3131,154.41,6.0,Completed,Job 6-77,,,115.07102693095678
+3132,154.41,,Request Routing for Job,,Machine 1,141.0,
+3133,154.41,,Routing Start,,Machine 1,,3.675 Job 선택
+3134,154.41,6.0,Routing Finish,Job 6-82,Machine 1,,
+3135,154.41,6.0,Work Start,Job 6-82,Machine 1,,
+3136,154.86,7.0,Work Finish,Job 7-359,Machine 0,,
+3137,154.86,7.0,Completed,Job 7-359,,,63.54686487838782
+3138,154.86,,Request Routing for Job,,Machine 0,140.0,
+3139,154.86,,Routing Start,,Machine 0,,3.675 Job 선택
+3140,154.86,7.0,Routing Finish,Job 7-385,Machine 0,,
+3141,154.86,7.0,Work Start,Job 7-385,Machine 0,,
+3142,154.95,3.0,Work Finish,Job 3-308,Machine 6,,
+3143,154.95,3.0,Completed,Job 3-308,,,65.45346083141314
+3144,154.95,,Request Routing for Job,,Machine 6,139.0,
+3145,154.95,,Routing Start,,Machine 6,,3.675 Job 선택
+3146,154.95,3.0,Routing Finish,Job 3-320,Machine 6,,
+3147,154.95,3.0,Work Start,Job 3-320,Machine 6,,
+3148,155.5,7.0,Work Finish,Job 7-384,Machine 3,,
+3149,155.5,7.0,Completed,Job 7-384,,,58.603517017653644
+3150,155.5,,Request Routing for Job,,Machine 3,138.0,
+3151,155.5,,Routing Start,,Machine 3,,3.675 Job 선택
+3152,155.5,7.0,Routing Finish,Job 7-394,Machine 3,,
+3153,155.5,7.0,Work Start,Job 7-394,Machine 3,,
+3154,155.61,1.0,Work Finish,Job 1-383,Machine 7,,
+3155,155.61,1.0,Completed,Job 1-383,,,67.84844636170129
+3156,155.61,,Request Routing for Job,,Machine 7,137.0,
+3157,155.61,,Routing Start,,Machine 7,,3.675 Job 선택
+3158,155.61,1.0,Routing Finish,Job 1-396,Machine 7,,
+3159,155.61,1.0,Work Start,Job 1-396,Machine 7,,
+3160,155.98,3.0,Work Finish,Job 3-320,Machine 6,,
+3161,155.98,3.0,Completed,Job 3-320,,,64.63556896107389
+3162,155.98,,Request Routing for Job,,Machine 6,136.0,
+3163,155.98,,Routing Start,,Machine 6,,3.675 Job 선택
+3164,155.98,3.0,Routing Finish,Job 3-328,Machine 6,,
+3165,155.98,3.0,Work Start,Job 3-328,Machine 6,,
+3166,156.09,6.0,Work Finish,Job 6-82,Machine 1,,
+3167,156.09,6.0,Completed,Job 6-82,,,114.9377309565267
+3168,156.09,,Request Routing for Job,,Machine 1,135.0,
+3169,156.09,,Routing Start,,Machine 1,,3.675 Job 선택
+3170,156.09,6.0,Routing Finish,Job 6-104,Machine 1,,
+3171,156.09,6.0,Work Start,Job 6-104,Machine 1,,
+3172,156.16,2.0,Work Finish,Job 2-414,Machine 4,,
+3173,156.16,2.0,Completed,Job 2-414,,,78.9549826860609
+3174,156.16,,Request Routing for Job,,Machine 4,134.0,
+3175,156.16,,Routing Start,,Machine 4,,3.675 Job 선택
+3176,156.16,2.0,Routing Finish,Job 2-416,Machine 4,,
+3177,156.16,2.0,Work Start,Job 2-416,Machine 4,,
+3178,157.01,3.0,Work Finish,Job 3-328,Machine 6,,
+3179,157.01,3.0,Completed,Job 3-328,,,62.64982069645251
+3180,157.01,,Request Routing for Job,,Machine 6,133.0,
+3181,157.01,,Routing Start,,Machine 6,,3.675 Job 선택
+3182,157.01,3.0,Routing Finish,Job 3-331,Machine 6,,
+3183,157.01,3.0,Work Start,Job 3-331,Machine 6,,
+3184,157.18,1.0,Work Finish,Job 1-393,Machine 2,,
+3185,157.18,1.0,Completed,Job 1-393,,,65.57386651606632
+3186,157.18,,Request Routing for Job,,Machine 2,132.0,
+3187,157.18,,Routing Start,,Machine 2,,3.675 Job 선택
+3188,157.18,1.0,Routing Finish,Job 1-409,Machine 2,,
+3189,157.18,1.0,Work Start,Job 1-409,Machine 2,,
+3190,157.78,6.0,Work Finish,Job 6-104,Machine 1,,
+3191,157.78,6.0,Completed,Job 6-104,,,115.4313144827001
+3192,157.78,,Request Routing for Job,,Machine 1,131.0,
+3193,157.78,,Routing Start,,Machine 1,,3.675 Job 선택
+3194,157.78,6.0,Routing Finish,Job 6-114,Machine 1,,
+3195,157.78,6.0,Work Start,Job 6-114,Machine 1,,
+3196,158.04,3.0,Work Finish,Job 3-331,Machine 6,,
+3197,158.04,3.0,Completed,Job 3-331,,,62.47519411484305
+3198,158.04,,Request Routing for Job,,Machine 6,130.0,
+3199,158.04,,Routing Start,,Machine 6,,3.675 Job 선택
+3200,158.04,3.0,Routing Finish,Job 3-350,Machine 6,,
+3201,158.04,3.0,Work Start,Job 3-350,Machine 6,,
+3202,158.7,1.0,Work Finish,Job 1-396,Machine 7,,
+3203,158.7,1.0,Completed,Job 1-396,,,60.97545885071638
+3204,158.7,,Request Routing for Job,,Machine 7,129.0,
+3205,158.7,,Routing Start,,Machine 7,,3.675 Job 선택
+3206,158.7,1.0,Routing Finish,Job 1-413,Machine 7,,
+3207,158.7,1.0,Work Start,Job 1-413,Machine 7,,
+3208,159.07,3.0,Work Finish,Job 3-350,Machine 6,,
+3209,159.07,3.0,Completed,Job 3-350,,,61.810335874704876
+3210,159.07,,Request Routing for Job,,Machine 6,128.0,
+3211,159.07,,Routing Start,,Machine 6,,3.675 Job 선택
+3212,159.07,3.0,Routing Finish,Job 3-353,Machine 6,,
+3213,159.07,3.0,Work Start,Job 3-353,Machine 6,,
+3214,159.47,6.0,Work Finish,Job 6-114,Machine 1,,
+3215,159.47,6.0,Completed,Job 6-114,,,114.96774602178165
+3216,159.47,,Request Routing for Job,,Machine 1,127.0,
+3217,159.47,,Routing Start,,Machine 1,,3.675 Job 선택
+3218,159.47,6.0,Routing Finish,Job 6-115,Machine 1,,
+3219,159.47,6.0,Work Start,Job 6-115,Machine 1,,
+3220,159.72,2.0,Work Finish,Job 2-416,Machine 4,,
+3221,159.72,2.0,Completed,Job 2-416,,,81.3330991425299
+3222,159.72,,Request Routing for Job,,Machine 4,126.0,
+3223,159.72,,Routing Start,,Machine 4,,3.675 Job 선택
+3224,159.72,2.0,Routing Finish,Job 2-428,Machine 4,,
+3225,159.72,2.0,Work Start,Job 2-428,Machine 4,,
+3226,160.1,3.0,Work Finish,Job 3-353,Machine 6,,
+3227,160.1,3.0,Completed,Job 3-353,,,60.78481192833914
+3228,160.1,,Request Routing for Job,,Machine 6,125.0,
+3229,160.1,,Routing Start,,Machine 6,,3.675 Job 선택
+3230,160.1,3.0,Routing Finish,Job 3-370,Machine 6,,
+3231,160.1,3.0,Work Start,Job 3-370,Machine 6,,
+3232,160.35,7.0,Work Finish,Job 7-394,Machine 3,,
+3233,160.35,7.0,Completed,Job 7-394,,,57.86216598623409
+3234,160.35,,Request Routing for Job,,Machine 3,124.0,
+3235,160.35,,Routing Start,,Machine 3,,3.675 Job 선택
+3236,160.35,7.0,Routing Finish,Job 7-397,Machine 3,,
+3237,160.35,7.0,Work Start,Job 7-397,Machine 3,,
+3238,161.13,3.0,Work Finish,Job 3-370,Machine 6,,
+3239,161.13,3.0,Completed,Job 3-370,,,60.65857793150835
+3240,161.13,,Request Routing for Job,,Machine 6,123.0,
+3241,161.13,,Routing Start,,Machine 6,,3.675 Job 선택
+3242,161.13,3.0,Routing Finish,Job 3-382,Machine 6,,
+3243,161.13,3.0,Work Start,Job 3-382,Machine 6,,
+3244,161.15,6.0,Work Finish,Job 6-115,Machine 1,,
+3245,161.15,6.0,Completed,Job 6-115,,,114.77815037315756
+3246,161.15,,Request Routing for Job,,Machine 1,122.0,
+3247,161.15,,Routing Start,,Machine 1,,3.675 Job 선택
+3248,161.15,6.0,Routing Finish,Job 6-117,Machine 1,,
+3249,161.15,6.0,Work Start,Job 6-117,Machine 1,,
+3250,161.42,1.0,Work Finish,Job 1-409,Machine 2,,
+3251,161.42,1.0,Completed,Job 1-409,,,61.62935163112546
+3252,161.42,,Request Routing for Job,,Machine 2,121.0,
+3253,161.42,,Routing Start,,Machine 2,,3.675 Job 선택
+3254,161.42,1.0,Routing Finish,Job 1-426,Machine 2,,
+3255,161.42,1.0,Work Start,Job 1-426,Machine 2,,
+3256,161.78,1.0,Work Finish,Job 1-413,Machine 7,,
+3257,161.78,1.0,Completed,Job 1-413,,,59.921382232676635
+3258,161.78,,Request Routing for Job,,Machine 7,120.0,
+3259,161.78,,Routing Start,,Machine 7,,3.675 Job 선택
+3260,161.78,1.0,Routing Finish,Job 1-431,Machine 7,,
+3261,161.78,1.0,Work Start,Job 1-431,Machine 7,,
+3262,162.03,7.0,Work Finish,Job 7-385,Machine 0,,
+3263,162.03,7.0,Completed,Job 7-385,,,61.39331813535992
+3264,162.03,,Request Routing for Job,,Machine 0,119.0,
+3265,162.03,,Routing Start,,Machine 0,,3.675 Job 선택
+3266,162.03,7.0,Routing Finish,Job 7-398,Machine 0,,
+3267,162.03,7.0,Work Start,Job 7-398,Machine 0,,
+3268,162.16,3.0,Work Finish,Job 3-382,Machine 6,,
+3269,162.16,3.0,Completed,Job 3-382,,,58.76240283614318
+3270,162.16,,Request Routing for Job,,Machine 6,118.0,
+3271,162.16,,Routing Start,,Machine 6,,3.675 Job 선택
+3272,162.16,3.0,Routing Finish,Job 3-386,Machine 6,,
+3273,162.16,3.0,Work Start,Job 3-386,Machine 6,,
+3274,162.84,6.0,Work Finish,Job 6-117,Machine 1,,
+3275,162.84,6.0,Completed,Job 6-117,,,114.48304214177034
+3276,162.84,,Request Routing for Job,,Machine 1,117.0,
+3277,162.84,,Routing Start,,Machine 1,,3.675 Job 선택
+3278,162.84,6.0,Routing Finish,Job 6-134,Machine 1,,
+3279,162.84,6.0,Work Start,Job 6-134,Machine 1,,
+3280,162.91,7.0,Work Finish,Job 7-378,Machine 5,,
+3281,162.91,7.0,Completed,Job 7-378,,,67.12053212426355
+3282,162.91,,Request Routing for Job,,Machine 5,116.0,
+3283,162.91,,Routing Start,,Machine 5,,3.675 Job 선택
+3284,162.91,7.0,Routing Finish,Job 7-421,Machine 5,,
+3285,162.91,7.0,Work Start,Job 7-421,Machine 5,,
+3286,163.19,3.0,Work Finish,Job 3-386,Machine 6,,
+3287,163.19,3.0,Completed,Job 3-386,,,58.45397952323593
+3288,163.19,,Request Routing for Job,,Machine 6,115.0,
+3289,163.19,,Routing Start,,Machine 6,,3.675 Job 선택
+3290,163.19,3.0,Routing Finish,Job 3-387,Machine 6,,
+3291,163.19,3.0,Work Start,Job 3-387,Machine 6,,
+3292,163.29,2.0,Work Finish,Job 2-428,Machine 4,,
+3293,163.29,2.0,Completed,Job 2-428,,,82.98816136992417
+3294,163.29,,Request Routing for Job,,Machine 4,114.0,
+3295,163.29,,Routing Start,,Machine 4,,3.675 Job 선택
+3296,163.29,2.0,Routing Finish,Job 2-445,Machine 4,,
+3297,163.29,2.0,Work Start,Job 2-445,Machine 4,,
+3298,164.22,3.0,Work Finish,Job 3-387,Machine 6,,
+3299,164.22,3.0,Completed,Job 3-387,,,58.26724866574125
+3300,164.22,,Request Routing for Job,,Machine 6,113.0,
+3301,164.22,,Routing Start,,Machine 6,,3.675 Job 선택
+3302,164.22,3.0,Routing Finish,Job 3-389,Machine 6,,
+3303,164.22,3.0,Work Start,Job 3-389,Machine 6,,
+3304,164.52,6.0,Work Finish,Job 6-134,Machine 1,,
+3305,164.52,6.0,Completed,Job 6-134,,,114.82565491667964
+3306,164.52,,Request Routing for Job,,Machine 1,112.0,
+3307,164.52,,Routing Start,,Machine 1,,3.675 Job 선택
+3308,164.52,6.0,Routing Finish,Job 6-151,Machine 1,,
+3309,164.52,6.0,Work Start,Job 6-151,Machine 1,,
+3310,164.87,1.0,Work Finish,Job 1-431,Machine 7,,
+3311,164.87,1.0,Completed,Job 1-431,,,59.004593599301
+3312,164.87,,Request Routing for Job,,Machine 7,111.0,
+3313,164.87,,Routing Start,,Machine 7,,3.675 Job 선택
+3314,164.87,1.0,Routing Finish,Job 1-450,Machine 7,,
+3315,164.87,1.0,Work Start,Job 1-450,Machine 7,,
+3316,165.21,7.0,Work Finish,Job 7-397,Machine 3,,
+3317,165.21,7.0,Completed,Job 7-397,,,61.68322420329176
+3318,165.21,,Request Routing for Job,,Machine 3,110.0,
+3319,165.21,,Routing Start,,Machine 3,,3.675 Job 선택
+3320,165.21,7.0,Routing Finish,Job 7-424,Machine 3,,
+3321,165.21,7.0,Work Start,Job 7-424,Machine 3,,
+3322,165.26,3.0,Work Finish,Job 3-389,Machine 6,,
+3323,165.26,3.0,Completed,Job 3-389,,,57.40353712616677
+3324,165.26,,Request Routing for Job,,Machine 6,109.0,
+3325,165.26,,Routing Start,,Machine 6,,3.675 Job 선택
+3326,165.26,3.0,Routing Finish,Job 3-406,Machine 6,,
+3327,165.26,3.0,Work Start,Job 3-406,Machine 6,,
+3328,165.66,1.0,Work Finish,Job 1-426,Machine 2,,
+3329,165.66,1.0,Completed,Job 1-426,,,61.033377717679045
+3330,165.66,,Request Routing for Job,,Machine 2,108.0,
+3331,165.66,,Routing Start,,Machine 2,,3.675 Job 선택
+3332,165.66,1.0,Routing Finish,Job 1-451,Machine 2,,
+3333,165.66,1.0,Work Start,Job 1-451,Machine 2,,
+3334,166.21,6.0,Work Finish,Job 6-151,Machine 1,,
+3335,166.21,6.0,Completed,Job 6-151,,,114.33313645718894
+3336,166.21,,Request Routing for Job,,Machine 1,107.0,
+3337,166.21,,Routing Start,,Machine 1,,3.675 Job 선택
+3338,166.21,6.0,Routing Finish,Job 6-156,Machine 1,,
+3339,166.21,6.0,Work Start,Job 6-156,Machine 1,,
+3340,166.29,3.0,Work Finish,Job 3-406,Machine 6,,
+3341,166.29,3.0,Completed,Job 3-406,,,56.90273249249623
+3342,166.29,,Request Routing for Job,,Machine 6,106.0,
+3343,166.29,,Routing Start,,Machine 6,,3.675 Job 선택
+3344,166.29,3.0,Routing Finish,Job 3-425,Machine 6,,
+3345,166.29,3.0,Work Start,Job 3-425,Machine 6,,
+3346,166.85,2.0,Work Finish,Job 2-445,Machine 4,,
+3347,166.85,2.0,Completed,Job 2-445,,,85.42351623902542
+3348,166.85,,Request Routing for Job,,Machine 4,105.0,
+3349,166.85,,Routing Start,,Machine 4,,3.675 Job 선택
+3350,166.85,2.0,Routing Finish,Job 2-463,Machine 4,,
+3351,166.85,2.0,Work Start,Job 2-463,Machine 4,,
+3352,167.32,3.0,Work Finish,Job 3-425,Machine 6,,
+3353,167.32,3.0,Completed,Job 3-425,,,53.42562642573857
+3354,167.32,,Request Routing for Job,,Machine 6,104.0,
+3355,167.32,,Routing Start,,Machine 6,,3.675 Job 선택
+3356,167.32,3.0,Routing Finish,Job 3-429,Machine 6,,
+3357,167.32,3.0,Work Start,Job 3-429,Machine 6,,
+3358,167.9,6.0,Work Finish,Job 6-156,Machine 1,,
+3359,167.9,6.0,Completed,Job 6-156,,,112.67063319119553
+3360,167.9,,Request Routing for Job,,Machine 1,103.0,
+3361,167.9,,Routing Start,,Machine 1,,3.675 Job 선택
+3362,167.9,6.0,Routing Finish,Job 6-158,Machine 1,,
+3363,167.9,6.0,Work Start,Job 6-158,Machine 1,,
+3364,167.96,1.0,Work Finish,Job 1-450,Machine 7,,
+3365,167.96,1.0,Completed,Job 1-450,,,60.92918830415968
+3366,167.96,,Request Routing for Job,,Machine 7,102.0,
+3367,167.96,,Routing Start,,Machine 7,,3.675 Job 선택
+3368,167.96,1.0,Routing Finish,Job 1-452,Machine 7,,
+3369,167.96,1.0,Work Start,Job 1-452,Machine 7,,
+3370,168.35,3.0,Work Finish,Job 3-429,Machine 6,,
+3371,168.35,3.0,Completed,Job 3-429,,,50.54769868658667
+3372,168.35,,Request Routing for Job,,Machine 6,101.0,
+3373,168.35,,Routing Start,,Machine 6,,3.675 Job 선택
+3374,168.35,3.0,Routing Finish,Job 3-454,Machine 6,,
+3375,168.35,3.0,Work Start,Job 3-454,Machine 6,,
+3376,169.21,7.0,Work Finish,Job 7-398,Machine 0,,
+3377,169.21,7.0,Completed,Job 7-398,,,64.03519467296678
+3378,169.21,,Request Routing for Job,,Machine 0,100.0,
+3379,169.21,,Routing Start,,Machine 0,,3.675 Job 선택
+3380,169.21,7.0,Routing Finish,Job 7-432,Machine 0,,
+3381,169.21,7.0,Work Start,Job 7-432,Machine 0,,
+3382,169.38,3.0,Work Finish,Job 3-454,Machine 6,,
+3383,169.38,3.0,Completed,Job 3-454,,,49.88696656700938
+3384,169.38,,Request Routing for Job,,Machine 6,99.0,
+3385,169.38,,Routing Start,,Machine 6,,3.675 Job 선택
+3386,169.38,3.0,Routing Finish,Job 3-471,Machine 6,,
+3387,169.38,3.0,Work Start,Job 3-471,Machine 6,,
+3388,169.58,6.0,Work Finish,Job 6-158,Machine 1,,
+3389,169.58,6.0,Completed,Job 6-158,,,107.9498127493498
+3390,169.58,,Request Routing for Job,,Machine 1,98.0,
+3391,169.58,,Routing Start,,Machine 1,,3.675 Job 선택
+3392,169.58,6.0,Routing Finish,Job 6-169,Machine 1,,
+3393,169.58,6.0,Work Start,Job 6-169,Machine 1,,
+3394,169.9,1.0,Work Finish,Job 1-451,Machine 2,,
+3395,169.9,1.0,Completed,Job 1-451,,,60.070683769901066
+3396,169.9,,Request Routing for Job,,Machine 2,97.0,
+3397,169.9,,Routing Start,,Machine 2,,3.675 Job 선택
+3398,169.9,1.0,Routing Finish,Job 1-453,Machine 2,,
+3399,169.9,1.0,Work Start,Job 1-453,Machine 2,,
+3400,170.06,7.0,Work Finish,Job 7-424,Machine 3,,
+3401,170.06,7.0,Completed,Job 7-424,,,59.06242614633507
+3402,170.06,,Request Routing for Job,,Machine 3,96.0,
+3403,170.06,,Routing Start,,Machine 3,,3.675 Job 선택
+3404,170.06,7.0,Routing Finish,Job 7-434,Machine 3,,
+3405,170.06,7.0,Work Start,Job 7-434,Machine 3,,
+3406,170.41,3.0,Work Finish,Job 3-471,Machine 6,,
+3407,170.41,3.0,Completed,Job 3-471,,,49.481098768375844
+3408,170.41,,Request Routing for Job,,Machine 6,95.0,
+3409,170.41,,Routing Start,,Machine 6,,3.675 Job 선택
+3410,170.41,3.0,Routing Finish,Job 3-472,Machine 6,,
+3411,170.41,3.0,Work Start,Job 3-472,Machine 6,,
+3412,170.41,2.0,Work Finish,Job 2-463,Machine 4,,
+3413,170.41,2.0,Completed,Job 2-463,,,87.970789080972
+3414,170.41,,Request Routing for Job,,Machine 4,94.0,
+3415,170.41,,Routing Start,,Machine 4,,3.675 Job 선택
+3416,170.41,2.0,Routing Finish,Job 2-481,Machine 4,,
+3417,170.41,2.0,Work Start,Job 2-481,Machine 4,,
+3418,171.05,1.0,Work Finish,Job 1-452,Machine 7,,
+3419,171.05,1.0,Completed,Job 1-452,,,59.81127889719464
+3420,171.05,,Request Routing for Job,,Machine 7,93.0,
+3421,171.05,,Routing Start,,Machine 7,,3.675 Job 선택
+3422,171.05,1.0,Routing Finish,Job 1-456,Machine 7,,
+3423,171.05,1.0,Work Start,Job 1-456,Machine 7,,
+3424,171.27,6.0,Work Finish,Job 6-169,Machine 1,,
+3425,171.27,6.0,Completed,Job 6-169,,,106.20022102264221
+3426,171.27,,Request Routing for Job,,Machine 1,92.0,
+3427,171.27,,Routing Start,,Machine 1,,3.675 Job 선택
+3428,171.27,6.0,Routing Finish,Job 6-188,Machine 1,,
+3429,171.27,6.0,Work Start,Job 6-188,Machine 1,,
+3430,171.44,3.0,Work Finish,Job 3-472,Machine 6,,
+3431,171.44,3.0,Completed,Job 3-472,,,49.13177921291563
+3432,171.44,,Request Routing for Job,,Machine 6,91.0,
+3433,171.44,,Routing Start,,Machine 6,,3.675 Job 선택
+3434,171.44,3.0,Routing Finish,Job 3-486,Machine 6,,
+3435,171.44,3.0,Work Start,Job 3-486,Machine 6,,
+3436,172.47,3.0,Work Finish,Job 3-486,Machine 6,,
+3437,172.47,3.0,Completed,Job 3-486,,,48.86984277191033
+3438,172.47,,Request Routing for Job,,Machine 6,90.0,
+3439,172.47,,Routing Start,,Machine 6,,3.675 Job 선택
+3440,172.47,3.0,Routing Finish,Job 3-494,Machine 6,,
+3441,172.47,3.0,Work Start,Job 3-494,Machine 6,,
+3442,172.96,6.0,Work Finish,Job 6-188,Machine 1,,
+3443,172.96,6.0,Completed,Job 6-188,,,105.99468333513019
+3444,172.96,,Request Routing for Job,,Machine 1,89.0,
+3445,172.96,,Routing Start,,Machine 1,,3.675 Job 선택
+3446,172.96,6.0,Routing Finish,Job 6-192,Machine 1,,
+3447,172.96,6.0,Work Start,Job 6-192,Machine 1,,
+3448,173.5,3.0,Work Finish,Job 3-494,Machine 6,,
+3449,173.5,3.0,Completed,Job 3-494,,,48.04691964473008
+3450,173.5,,Request Routing for Job,,Machine 6,88.0,
+3451,173.5,,Routing Start,,Machine 6,,3.675 Job 선택
+3452,173.5,1.0,Routing Finish,Job 1-468,Machine 6,,
+3453,173.5,1.0,Work Start,Job 1-468,Machine 6,,
+3454,173.97,2.0,Work Finish,Job 2-481,Machine 4,,
+3455,173.97,2.0,Completed,Job 2-481,,,89.3911784120163
+3456,173.97,,Request Routing for Job,,Machine 4,87.0,
+3457,173.97,,Routing Start,,Machine 4,,3.675 Job 선택
+3458,173.97,2.0,Routing Finish,Job 2-489,Machine 4,,
+3459,173.97,2.0,Work Start,Job 2-489,Machine 4,,
+3460,174.14,1.0,Work Finish,Job 1-456,Machine 7,,
+3461,174.14,1.0,Completed,Job 1-456,,,60.40865338813424
+3462,174.14,,Request Routing for Job,,Machine 7,86.0,
+3463,174.14,,Routing Start,,Machine 7,,3.675 Job 선택
+3464,174.14,1.0,Routing Finish,Job 1-483,Machine 7,,
+3465,174.14,1.0,Work Start,Job 1-483,Machine 7,,
+3466,174.14,1.0,Work Finish,Job 1-453,Machine 2,,
+3467,174.14,1.0,Completed,Job 1-453,,,61.77151560665513
+3468,174.14,,Request Routing for Job,,Machine 2,85.0,
+3469,174.14,,Routing Start,,Machine 2,,3.675 Job 선택
+3470,174.14,1.0,Routing Finish,Job 1-487,Machine 2,,
+3471,174.14,1.0,Work Start,Job 1-487,Machine 2,,
+3472,174.64,6.0,Work Finish,Job 6-192,Machine 1,,
+3473,174.64,6.0,Completed,Job 6-192,,,106.48538043188967
+3474,174.64,,Request Routing for Job,,Machine 1,84.0,
+3475,174.64,,Routing Start,,Machine 1,,3.675 Job 선택
+3476,174.64,6.0,Routing Finish,Job 6-199,Machine 1,,
+3477,174.64,6.0,Work Start,Job 6-199,Machine 1,,
+3478,174.92,7.0,Work Finish,Job 7-434,Machine 3,,
+3479,174.92,7.0,Completed,Job 7-434,,,58.547286477326196
+3480,174.92,,Request Routing for Job,,Machine 3,83.0,
+3481,174.92,,Routing Start,,Machine 3,,3.675 Job 선택
+3482,174.92,7.0,Routing Finish,Job 7-437,Machine 3,,
+3483,174.92,7.0,Work Start,Job 7-437,Machine 3,,
+3484,176.33,6.0,Work Finish,Job 6-199,Machine 1,,
+3485,176.33,6.0,Completed,Job 6-199,,,105.81201800253945
+3486,176.33,,Request Routing for Job,,Machine 1,82.0,
+3487,176.33,,Routing Start,,Machine 1,,3.675 Job 선택
+3488,176.33,6.0,Routing Finish,Job 6-207,Machine 1,,
+3489,176.33,6.0,Work Start,Job 6-207,Machine 1,,
+3490,176.35,7.0,Work Finish,Job 7-421,Machine 5,,
+3491,176.35,7.0,Completed,Job 7-421,,,67.93551409335774
+3492,176.35,,Request Routing for Job,,Machine 5,81.0,
+3493,176.35,,Routing Start,,Machine 5,,3.675 Job 선택
+3494,176.35,7.0,Routing Finish,Job 7-446,Machine 5,,
+3495,176.35,7.0,Work Start,Job 7-446,Machine 5,,
+3496,176.38,7.0,Work Finish,Job 7-432,Machine 0,,
+3497,176.38,7.0,Completed,Job 7-432,,,63.676764323710046
+3498,176.38,,Request Routing for Job,,Machine 0,80.0,
+3499,176.38,,Routing Start,,Machine 0,,3.675 Job 선택
+3500,176.38,7.0,Routing Finish,Job 7-460,Machine 0,,
+3501,176.38,7.0,Work Start,Job 7-460,Machine 0,,
+3502,177.23,1.0,Work Finish,Job 1-483,Machine 7,,
+3503,177.23,1.0,Completed,Job 1-483,,,56.62334218845626
+3504,177.23,,Request Routing for Job,,Machine 7,79.0,
+3505,177.23,,Routing Start,,Machine 7,,3.675 Job 선택
+3506,177.23,1.0,Routing Finish,Job 1-495,Machine 7,,
+3507,177.23,1.0,Work Start,Job 1-495,Machine 7,,
+3508,177.54,2.0,Work Finish,Job 2-489,Machine 4,,
+3509,177.54,2.0,Completed,Job 2-489,,,90.73952575282954
+3510,177.54,,Request Routing for Job,,Machine 4,78.0,
+3511,177.54,,Routing Start,,Machine 4,,3.675 Job 선택
+3512,177.54,2.0,Routing Finish,Job 2-493,Machine 4,,
+3513,177.54,2.0,Work Start,Job 2-493,Machine 4,,
+3514,178.01,6.0,Work Finish,Job 6-207,Machine 1,,
+3515,178.01,6.0,Completed,Job 6-207,,,102.67116093383157
+3516,178.01,,Request Routing for Job,,Machine 1,77.0,
+3517,178.01,,Routing Start,,Machine 1,,3.675 Job 선택
+3518,178.01,6.0,Routing Finish,Job 6-221,Machine 1,,
+3519,178.01,6.0,Work Start,Job 6-221,Machine 1,,
+3520,178.38,1.0,Work Finish,Job 1-487,Machine 2,,
+3521,178.38,1.0,Completed,Job 1-487,,,55.33566803392708
+3522,178.38,,Request Routing for Job,,Machine 2,76.0,
+3523,178.38,,Routing Start,,Machine 2,,3.675 Job 선택
+3524,178.38,2.0,Routing Finish,Job 2-498,Machine 2,,
+3525,178.38,2.0,Work Start,Job 2-498,Machine 2,,
+3526,179.7,6.0,Work Finish,Job 6-221,Machine 1,,
+3527,179.7,6.0,Completed,Job 6-221,,,103.13915281682351
+3528,179.7,,Request Routing for Job,,Machine 1,75.0,
+3529,179.7,,Routing Start,,Machine 1,,3.675 Job 선택
+3530,179.7,6.0,Routing Finish,Job 6-222,Machine 1,,
+3531,179.7,6.0,Work Start,Job 6-222,Machine 1,,
+3532,179.77,7.0,Work Finish,Job 7-437,Machine 3,,
+3533,179.77,7.0,Completed,Job 7-437,,,62.28919007901979
+3534,179.77,,Request Routing for Job,,Machine 3,74.0,
+3535,179.77,,Routing Start,,Machine 3,,3.675 Job 선택
+3536,179.77,7.0,Routing Finish,Job 7-476,Machine 3,,
+3537,179.77,7.0,Work Start,Job 7-476,Machine 3,,
+3538,180.32,1.0,Work Finish,Job 1-495,Machine 7,,
+3539,180.32,1.0,Completed,Job 1-495,,,55.45807362635932
+3540,180.32,,Request Routing for Job,,Machine 7,73.0,
+3541,180.32,,Routing Start,,Machine 7,,3.675 Job 선택
+3542,180.32,7.0,Routing Finish,Job 7-496,Machine 7,,
+3543,180.32,7.0,Work Start,Job 7-496,Machine 7,,
+3544,181.1,2.0,Work Finish,Job 2-493,Machine 4,,
+3545,181.1,2.0,Completed,Job 2-493,,,92.32734970919165
+3546,181.1,,Request Routing for Job,,Machine 4,72.0,
+3547,181.1,,Routing Start,,Machine 4,,3.675 Job 선택
+3548,181.1,6.0,Routing Finish,Job 6-223,Machine 4,,
+3549,181.1,6.0,Work Start,Job 6-223,Machine 4,,
+3550,181.39,6.0,Work Finish,Job 6-222,Machine 1,,
+3551,181.39,6.0,Completed,Job 6-222,,,103.54913020866648
+3552,181.39,,Request Routing for Job,,Machine 1,71.0,
+3553,181.39,,Routing Start,,Machine 1,,3.675 Job 선택
+3554,181.39,6.0,Routing Finish,Job 6-229,Machine 1,,
+3555,181.39,6.0,Work Start,Job 6-229,Machine 1,,
+3556,183.07,6.0,Work Finish,Job 6-229,Machine 1,,
+3557,183.07,6.0,Completed,Job 6-229,,,101.43912800267384
+3558,183.07,,Request Routing for Job,,Machine 1,70.0,
+3559,183.07,,Routing Start,,Machine 1,,3.675 Job 선택
+3560,183.07,6.0,Routing Finish,Job 6-230,Machine 1,,
+3561,183.07,6.0,Work Start,Job 6-230,Machine 1,,
+3562,183.56,7.0,Work Finish,Job 7-460,Machine 0,,
+3563,183.56,7.0,Completed,Job 7-460,,,58.21867460731585
+3564,183.56,,Request Routing for Job,,Machine 0,69.0,
+3565,183.56,,Routing Start,,Machine 0,,3.675 Job 선택
+3566,183.56,6.0,Routing Finish,Job 6-235,Machine 0,,
+3567,183.56,6.0,Work Start,Job 6-235,Machine 0,,
+3568,183.81,1.0,Work Finish,Job 1-468,Machine 6,,
+3569,183.81,1.0,Completed,Job 1-468,,,68.64278390645897
+3570,183.81,,Request Routing for Job,,Machine 6,68.0,
+3571,183.81,,Routing Start,,Machine 6,,3.675 Job 선택
+3572,183.81,9.0,Routing Finish,Job 9-18,Machine 6,,
+3573,183.81,9.0,Work Start,Job 9-18,Machine 6,,
+3574,184.63,7.0,Work Finish,Job 7-476,Machine 3,,
+3575,184.63,7.0,Completed,Job 7-476,,,56.79722686690667
+3576,184.63,,Request Routing for Job,,Machine 3,67.0,
+3577,184.63,,Routing Start,,Machine 3,,3.675 Job 선택
+3578,184.63,6.0,Routing Finish,Job 6-266,Machine 3,,
+3579,184.63,6.0,Work Start,Job 6-266,Machine 3,,
+3580,184.76,6.0,Work Finish,Job 6-230,Machine 1,,
+3581,184.76,6.0,Completed,Job 6-230,,,101.60150667888301
+3582,184.76,,Request Routing for Job,,Machine 1,66.0,
+3583,184.76,,Routing Start,,Machine 1,,3.675 Job 선택
+3584,184.76,6.0,Routing Finish,Job 6-274,Machine 1,,
+3585,184.76,6.0,Work Start,Job 6-274,Machine 1,,
+3586,186.45,6.0,Work Finish,Job 6-274,Machine 1,,
+3587,186.45,6.0,Completed,Job 6-274,,,96.49602388811354
+3588,186.45,,Request Routing for Job,,Machine 1,65.0,
+3589,186.45,,Routing Start,,Machine 1,,3.675 Job 선택
+3590,186.45,6.0,Routing Finish,Job 6-282,Machine 1,,
+3591,186.45,6.0,Work Start,Job 6-282,Machine 1,,
+3592,186.78,6.0,Work Finish,Job 6-235,Machine 0,,
+3593,186.78,6.0,Completed,Job 6-235,,,102.56169704401435
+3594,186.78,,Request Routing for Job,,Machine 0,64.0,
+3595,186.78,,Routing Start,,Machine 0,,3.675 Job 선택
+3596,186.78,6.0,Routing Finish,Job 6-284,Machine 0,,
+3597,186.78,6.0,Work Start,Job 6-284,Machine 0,,
+3598,188.13,6.0,Work Finish,Job 6-282,Machine 1,,
+3599,188.13,6.0,Completed,Job 6-282,,,96.7934494259675
+3600,188.13,,Request Routing for Job,,Machine 1,63.0,
+3601,188.13,,Routing Start,,Machine 1,,3.675 Job 선택
+3602,188.13,6.0,Routing Finish,Job 6-311,Machine 1,,
+3603,188.13,6.0,Work Start,Job 6-311,Machine 1,,
+3604,188.36,6.0,Work Finish,Job 6-223,Machine 4,,
+3605,188.36,6.0,Completed,Job 6-223,,,109.37501303939267
+3606,188.36,,Request Routing for Job,,Machine 4,62.0,
+3607,188.36,,Routing Start,,Machine 4,,3.675 Job 선택
+3608,188.36,6.0,Routing Finish,Job 6-315,Machine 4,,
+3609,188.36,6.0,Work Start,Job 6-315,Machine 4,,
+3610,189.76,2.0,Work Finish,Job 2-498,Machine 2,,
+3611,189.76,2.0,Completed,Job 2-498,,,99.8026193774325
+3612,189.76,,Request Routing for Job,,Machine 2,61.0,
+3613,189.76,,Routing Start,,Machine 2,,3.675 Job 선택
+3614,189.76,9.0,Routing Finish,Job 9-30,Machine 2,,
+3615,189.76,9.0,Work Start,Job 9-30,Machine 2,,
+3616,189.78,7.0,Work Finish,Job 7-446,Machine 5,,
+3617,189.78,7.0,Completed,Job 7-446,,,67.9582356631405
+3618,189.78,,Request Routing for Job,,Machine 5,60.0,
+3619,189.78,,Routing Start,,Machine 5,,3.675 Job 선택
+3620,189.78,6.0,Routing Finish,Job 6-329,Machine 5,,
+3621,189.78,6.0,Work Start,Job 6-329,Machine 5,,
+3622,189.82,6.0,Work Finish,Job 6-311,Machine 1,,
+3623,189.82,6.0,Completed,Job 6-311,,,95.74428653481104
+3624,189.82,,Request Routing for Job,,Machine 1,59.0,
+3625,189.82,,Routing Start,,Machine 1,,3.675 Job 선택
+3626,189.82,6.0,Routing Finish,Job 6-346,Machine 1,,
+3627,189.82,6.0,Work Start,Job 6-346,Machine 1,,
+3628,189.99,6.0,Work Finish,Job 6-284,Machine 0,,
+3629,189.99,6.0,Completed,Job 6-284,,,97.24477568789497
+3630,189.99,,Request Routing for Job,,Machine 0,58.0,
+3631,189.99,,Routing Start,,Machine 0,,3.675 Job 선택
+3632,189.99,6.0,Routing Finish,Job 6-347,Machine 0,,
+3633,189.99,6.0,Work Start,Job 6-347,Machine 0,,
+3634,191.19,9.0,Work Finish,Job 9-18,Machine 6,,
+3635,191.19,9.0,Completed,Job 9-18,,,175.11571053776936
+3636,191.19,,Request Routing for Job,,Machine 6,57.0,
+3637,191.19,,Routing Start,,Machine 6,,3.675 Job 선택
+3638,191.19,9.0,Routing Finish,Job 9-35,Machine 6,,
+3639,191.19,9.0,Work Start,Job 9-35,Machine 6,,
+3640,191.5,6.0,Work Finish,Job 6-346,Machine 1,,
+3641,191.5,6.0,Completed,Job 6-346,,,92.54227816752064
+3642,191.5,,Request Routing for Job,,Machine 1,56.0,
+3643,191.5,,Routing Start,,Machine 1,,3.675 Job 선택
+3644,191.5,6.0,Routing Finish,Job 6-349,Machine 1,,
+3645,191.5,6.0,Work Start,Job 6-349,Machine 1,,
+3646,192.12,6.0,Work Finish,Job 6-266,Machine 3,,
+3647,192.12,6.0,Completed,Job 6-266,,,104.06520784674015
+3648,192.12,,Request Routing for Job,,Machine 3,55.0,
+3649,192.12,,Routing Start,,Machine 3,,3.675 Job 선택
+3650,192.12,6.0,Routing Finish,Job 6-364,Machine 3,,
+3651,192.12,6.0,Work Start,Job 6-364,Machine 3,,
+3652,193.19,6.0,Work Finish,Job 6-349,Machine 1,,
+3653,193.19,6.0,Completed,Job 6-349,,,89.01075683470489
+3654,193.19,,Request Routing for Job,,Machine 1,54.0,
+3655,193.19,,Routing Start,,Machine 1,,3.675 Job 선택
+3656,193.19,6.0,Routing Finish,Job 6-367,Machine 1,,
+3657,193.19,6.0,Work Start,Job 6-367,Machine 1,,
+3658,193.21,6.0,Work Finish,Job 6-347,Machine 0,,
+3659,193.21,6.0,Completed,Job 6-347,,,91.35847215725182
+3660,193.21,,Request Routing for Job,,Machine 0,53.0,
+3661,193.21,,Routing Start,,Machine 0,,3.675 Job 선택
+3662,193.21,6.0,Routing Finish,Job 6-404,Machine 0,,
+3663,193.21,6.0,Work Start,Job 6-404,Machine 0,,
+3664,194.88,6.0,Work Finish,Job 6-367,Machine 1,,
+3665,194.88,6.0,Completed,Job 6-367,,,87.55689433673803
+3666,194.88,,Request Routing for Job,,Machine 1,52.0,
+3667,194.88,,Routing Start,,Machine 1,,3.675 Job 선택
+3668,194.88,6.0,Routing Finish,Job 6-407,Machine 1,,
+3669,194.88,6.0,Work Start,Job 6-407,Machine 1,,
+3670,195.62,6.0,Work Finish,Job 6-315,Machine 4,,
+3671,195.62,6.0,Completed,Job 6-315,,,99.91588383021357
+3672,195.62,,Request Routing for Job,,Machine 4,51.0,
+3673,195.62,,Routing Start,,Machine 4,,3.675 Job 선택
+3674,195.62,6.0,Routing Finish,Job 6-417,Machine 4,,
+3675,195.62,6.0,Work Start,Job 6-417,Machine 4,,
+3676,196.43,6.0,Work Finish,Job 6-404,Machine 0,,
+3677,196.43,6.0,Completed,Job 6-404,,,85.65628946720958
+3678,196.43,,Request Routing for Job,,Machine 0,50.0,
+3679,196.43,,Routing Start,,Machine 0,,3.675 Job 선택
+3680,196.43,6.0,Routing Finish,Job 6-419,Machine 0,,
+3681,196.43,6.0,Work Start,Job 6-419,Machine 0,,
+3682,196.56,6.0,Work Finish,Job 6-407,Machine 1,,
+3683,196.56,6.0,Completed,Job 6-407,,,84.72923170245816
+3684,196.56,,Request Routing for Job,,Machine 1,49.0,
+3685,196.56,,Routing Start,,Machine 1,,3.675 Job 선택
+3686,196.56,6.0,Routing Finish,Job 6-422,Machine 1,,
+3687,196.56,6.0,Work Start,Job 6-422,Machine 1,,
+3688,198.25,6.0,Work Finish,Job 6-422,Machine 1,,
+3689,198.25,6.0,Completed,Job 6-422,,,81.28097622850892
+3690,198.25,,Request Routing for Job,,Machine 1,48.0,
+3691,198.25,,Routing Start,,Machine 1,,3.675 Job 선택
+3692,198.25,6.0,Routing Finish,Job 6-430,Machine 1,,
+3693,198.25,6.0,Work Start,Job 6-430,Machine 1,,
+3694,198.5,7.0,Work Finish,Job 7-496,Machine 7,,
+3695,198.5,7.0,Completed,Job 7-496,,,67.42511428257754
+3696,198.5,,Request Routing for Job,,Machine 7,47.0,
+3697,198.5,,Routing Start,,Machine 7,,3.675 Job 선택
+3698,198.5,6.0,Routing Finish,Job 6-447,Machine 7,,
+3699,198.5,6.0,Work Start,Job 6-447,Machine 7,,
+3700,198.57,9.0,Work Finish,Job 9-35,Machine 6,,
+3701,198.57,9.0,Completed,Job 9-35,,,178.54997616218856
+3702,198.57,,Request Routing for Job,,Machine 6,46.0,
+3703,198.57,,Routing Start,,Machine 6,,3.675 Job 선택
+3704,198.57,9.0,Routing Finish,Job 9-43,Machine 6,,
+3705,198.57,9.0,Work Start,Job 9-43,Machine 6,,
+3706,198.95,9.0,Work Finish,Job 9-30,Machine 2,,
+3707,198.95,9.0,Completed,Job 9-30,,,180.8118274328873
+3708,198.95,,Request Routing for Job,,Machine 2,45.0,
+3709,198.95,,Routing Start,,Machine 2,,3.675 Job 선택
+3710,198.95,9.0,Routing Finish,Job 9-91,Machine 2,,
+3711,198.95,9.0,Work Start,Job 9-91,Machine 2,,
+3712,199.62,6.0,Work Finish,Job 6-364,Machine 3,,
+3713,199.62,6.0,Completed,Job 6-364,,,94.10431177320217
+3714,199.62,,Request Routing for Job,,Machine 3,44.0,
+3715,199.62,,Routing Start,,Machine 3,,3.675 Job 선택
+3716,199.62,6.0,Routing Finish,Job 6-448,Machine 3,,
+3717,199.62,6.0,Work Start,Job 6-448,Machine 3,,
+3718,199.65,6.0,Work Finish,Job 6-419,Machine 0,,
+3719,199.65,6.0,Completed,Job 6-419,,,84.854203178233
+3720,199.65,,Request Routing for Job,,Machine 0,43.0,
+3721,199.65,,Routing Start,,Machine 0,,3.675 Job 선택
+3722,199.65,6.0,Routing Finish,Job 6-455,Machine 0,,
+3723,199.65,6.0,Work Start,Job 6-455,Machine 0,,
+3724,199.94,6.0,Work Finish,Job 6-430,Machine 1,,
+3725,199.94,6.0,Completed,Job 6-430,,,81.74953697043757
+3726,199.94,,Request Routing for Job,,Machine 1,42.0,
+3727,199.94,,Routing Start,,Machine 1,,3.675 Job 선택
+3728,199.94,6.0,Routing Finish,Job 6-458,Machine 1,,
+3729,199.94,6.0,Work Start,Job 6-458,Machine 1,,
+3730,201.62,6.0,Work Finish,Job 6-458,Machine 1,,
+3731,201.62,6.0,Completed,Job 6-458,,,72.80091698096373
+3732,201.62,,Request Routing for Job,,Machine 1,41.0,
+3733,201.62,,Routing Start,,Machine 1,,3.675 Job 선택
+3734,201.62,6.0,Routing Finish,Job 6-462,Machine 1,,
+3735,201.62,6.0,Work Start,Job 6-462,Machine 1,,
+3736,202.86,6.0,Work Finish,Job 6-455,Machine 0,,
+3737,202.86,6.0,Completed,Job 6-455,,,75.21028858183158
+3738,202.86,,Request Routing for Job,,Machine 0,40.0,
+3739,202.86,,Routing Start,,Machine 0,,3.675 Job 선택
+3740,202.86,6.0,Routing Finish,Job 6-466,Machine 0,,
+3741,202.86,6.0,Work Start,Job 6-466,Machine 0,,
+3742,202.88,6.0,Work Finish,Job 6-417,Machine 4,,
+3743,202.88,6.0,Completed,Job 6-417,,,89.97045405983462
+3744,202.88,,Request Routing for Job,,Machine 4,39.0,
+3745,202.88,,Routing Start,,Machine 4,,3.675 Job 선택
+3746,202.88,6.0,Routing Finish,Job 6-479,Machine 4,,
+3747,202.88,6.0,Work Start,Job 6-479,Machine 4,,
+3748,203.31,6.0,Work Finish,Job 6-462,Machine 1,,
+3749,203.31,6.0,Completed,Job 6-462,,,71.74496966628092
+3750,203.31,,Request Routing for Job,,Machine 1,38.0,
+3751,203.31,,Routing Start,,Machine 1,,3.675 Job 선택
+3752,203.31,6.0,Routing Finish,Job 6-492,Machine 1,,
+3753,203.31,6.0,Work Start,Job 6-492,Machine 1,,
+3754,203.84,6.0,Work Finish,Job 6-329,Machine 5,,
+3755,203.84,6.0,Completed,Job 6-329,,,106.73801632493898
+3756,203.84,,Request Routing for Job,,Machine 5,37.0,
+3757,203.84,,Routing Start,,Machine 5,,3.675 Job 선택
+3758,203.84,9.0,Routing Finish,Job 9-94,Machine 5,,
+3759,203.84,9.0,Work Start,Job 9-94,Machine 5,,
+3760,204.99,6.0,Work Finish,Job 6-492,Machine 1,,
+3761,204.99,6.0,Completed,Job 6-492,,,68.56447855086671
+3762,204.99,,Request Routing for Job,,Machine 1,36.0,
+3763,204.99,,Routing Start,,Machine 1,,2.375 Job 선택
+3764,204.99,9.0,Routing Finish,Job 9-109,Machine 1,,
+3765,204.99,9.0,Work Start,Job 9-109,Machine 1,,
+3766,205.62,6.0,Work Finish,Job 6-447,Machine 7,,
+3767,205.62,6.0,Completed,Job 6-447,,,84.73126457839362
+3768,205.62,,Request Routing for Job,,Machine 7,35.0,
+3769,205.62,,Routing Start,,Machine 7,,3.675 Job 선택
+3770,205.62,9.0,Routing Finish,Job 9-112,Machine 7,,
+3771,205.62,9.0,Work Start,Job 9-112,Machine 7,,
+3772,205.94,9.0,Work Finish,Job 9-43,Machine 6,,
+3773,205.94,9.0,Completed,Job 9-43,,,183.6855826122509
+3774,205.94,,Request Routing for Job,,Machine 6,34.0,
+3775,205.94,,Routing Start,,Machine 6,,3.675 Job 선택
+3776,205.94,9.0,Routing Finish,Job 9-113,Machine 6,,
+3777,205.94,9.0,Work Start,Job 9-113,Machine 6,,
+3778,206.08,6.0,Work Finish,Job 6-466,Machine 0,,
+3779,206.08,6.0,Completed,Job 6-466,,,73.44310286656071
+3780,206.08,,Request Routing for Job,,Machine 0,33.0,
+3781,206.08,,Routing Start,,Machine 0,,3.675 Job 선택
+3782,206.08,9.0,Routing Finish,Job 9-124,Machine 0,,
+3783,206.08,9.0,Work Start,Job 9-124,Machine 0,,
+3784,207.11,6.0,Work Finish,Job 6-448,Machine 3,,
+3785,207.11,6.0,Completed,Job 6-448,,,84.01436904229044
+3786,207.11,,Request Routing for Job,,Machine 3,32.0,
+3787,207.11,,Routing Start,,Machine 3,,3.675 Job 선택
+3788,207.11,9.0,Routing Finish,Job 9-128,Machine 3,,
+3789,207.11,9.0,Work Start,Job 9-128,Machine 3,,
+3790,208.14,9.0,Work Finish,Job 9-91,Machine 2,,
+3791,208.14,9.0,Completed,Job 9-91,,,181.76059599473933
+3792,208.14,,Request Routing for Job,,Machine 2,31.0,
+3793,208.14,,Routing Start,,Machine 2,,3.675 Job 선택
+3794,208.14,9.0,Routing Finish,Job 9-144,Machine 2,,
+3795,208.14,9.0,Work Start,Job 9-144,Machine 2,,
+3796,210.13,6.0,Work Finish,Job 6-479,Machine 4,,
+3797,210.13,6.0,Completed,Job 6-479,,,75.57948709455408
+3798,210.13,,Request Routing for Job,,Machine 4,30.0,
+3799,210.13,,Routing Start,,Machine 4,,3.675 Job 선택
+3800,210.13,9.0,Routing Finish,Job 9-152,Machine 4,,
+3801,210.13,9.0,Work Start,Job 9-152,Machine 4,,
+3802,211.43,9.0,Work Finish,Job 9-124,Machine 0,,
+3803,211.43,9.0,Completed,Job 9-124,,,161.79946027924706
+3804,211.43,,Request Routing for Job,,Machine 0,29.0,
+3805,211.43,,Routing Start,,Machine 0,,3.675 Job 선택
+3806,211.43,9.0,Routing Finish,Job 9-157,Machine 0,,
+3807,211.43,9.0,Work Start,Job 9-157,Machine 0,,
+3808,213.32,9.0,Work Finish,Job 9-113,Machine 6,,
+3809,213.32,9.0,Completed,Job 9-113,,,168.92021992383002
+3810,213.32,,Request Routing for Job,,Machine 6,28.0,
+3811,213.32,,Routing Start,,Machine 6,,3.675 Job 선택
+3812,213.32,9.0,Routing Finish,Job 9-162,Machine 6,,
+3813,213.32,9.0,Work Start,Job 9-162,Machine 6,,
+3814,216.78,9.0,Work Finish,Job 9-157,Machine 0,,
+3815,216.78,9.0,Completed,Job 9-157,,,158.6866995240681
+3816,216.78,,Request Routing for Job,,Machine 0,27.0,
+3817,216.78,,Routing Start,,Machine 0,,3.675 Job 선택
+3818,216.78,9.0,Routing Finish,Job 9-196,Machine 0,,
+3819,216.78,9.0,Work Start,Job 9-196,Machine 0,,
+3820,217.33,9.0,Work Finish,Job 9-144,Machine 2,,
+3821,217.33,9.0,Completed,Job 9-144,,,161.34965558659042
+3822,217.33,,Request Routing for Job,,Machine 2,26.0,
+3823,217.33,,Routing Start,,Machine 2,,3.675 Job 선택
+3824,217.33,9.0,Routing Finish,Job 9-212,Machine 2,,
+3825,217.33,9.0,Work Start,Job 9-212,Machine 2,,
+3826,219.32,9.0,Work Finish,Job 9-152,Machine 4,,
+3827,219.32,9.0,Completed,Job 9-152,,,162.2723280345959
+3828,219.32,,Request Routing for Job,,Machine 4,25.0,
+3829,219.32,,Routing Start,,Machine 4,,3.675 Job 선택
+3830,219.32,9.0,Routing Finish,Job 9-217,Machine 4,,
+3831,219.32,9.0,Work Start,Job 9-217,Machine 4,,
+3832,220.7,9.0,Work Finish,Job 9-162,Machine 6,,
+3833,220.7,9.0,Completed,Job 9-162,,,159.18316684008778
+3834,220.7,,Request Routing for Job,,Machine 6,24.0,
+3835,220.7,,Routing Start,,Machine 6,,3.675 Job 선택
+3836,220.7,9.0,Routing Finish,Job 9-238,Machine 6,,
+3837,220.7,9.0,Work Start,Job 9-238,Machine 6,,
+3838,221.07,9.0,Work Finish,Job 9-112,Machine 7,,
+3839,221.07,9.0,Completed,Job 9-112,,,179.5506159179367
+3840,221.07,,Request Routing for Job,,Machine 7,23.0,
+3841,221.07,,Routing Start,,Machine 7,,3.675 Job 선택
+3842,221.07,9.0,Routing Finish,Job 9-241,Machine 7,,
+3843,221.07,9.0,Work Start,Job 9-241,Machine 7,,
+3844,222.12,9.0,Work Finish,Job 9-196,Machine 0,,
+3845,222.12,9.0,Completed,Job 9-196,,,158.90013514449151
+3846,222.12,,Request Routing for Job,,Machine 0,22.0,
+3847,222.12,,Routing Start,,Machine 0,,3.675 Job 선택
+3848,222.12,9.0,Routing Finish,Job 9-250,Machine 0,,
+3849,222.12,9.0,Work Start,Job 9-250,Machine 0,,
+3850,222.47,9.0,Work Finish,Job 9-94,Machine 5,,
+3851,222.47,9.0,Completed,Job 9-94,,,192.53498608067284
+3852,222.47,,Request Routing for Job,,Machine 5,21.0,
+3853,222.47,,Routing Start,,Machine 5,,2.375 Job 선택
+3854,222.47,9.0,Routing Finish,Job 9-256,Machine 5,,
+3855,222.47,9.0,Work Start,Job 9-256,Machine 5,,
+3856,224.96,9.0,Work Finish,Job 9-109,Machine 1,,
+3857,224.96,9.0,Completed,Job 9-109,,,189.16448587177766
+3858,224.96,,Request Routing for Job,,Machine 1,20.0,
+3859,224.96,,Routing Start,,Machine 1,,2.375 Job 선택
+3860,224.96,9.0,Routing Finish,Job 9-264,Machine 1,,
+3861,224.96,9.0,Work Start,Job 9-264,Machine 1,,
+3862,225.81,9.0,Work Finish,Job 9-128,Machine 3,,
+3863,225.81,9.0,Completed,Job 9-128,,,172.4306149088845
+3864,225.81,,Request Routing for Job,,Machine 3,19.0,
+3865,225.81,,Routing Start,,Machine 3,,3.675 Job 선택
+3866,225.81,9.0,Routing Finish,Job 9-270,Machine 3,,
+3867,225.81,9.0,Work Start,Job 9-270,Machine 3,,
+3868,226.52,9.0,Work Finish,Job 9-212,Machine 2,,
+3869,226.52,9.0,Completed,Job 9-212,,,160.0816451146585
+3870,226.52,,Request Routing for Job,,Machine 2,18.0,
+3871,226.52,,Routing Start,,Machine 2,,3.675 Job 선택
+3872,226.52,9.0,Routing Finish,Job 9-292,Machine 2,,
+3873,226.52,9.0,Work Start,Job 9-292,Machine 2,,
+3874,227.47,9.0,Work Finish,Job 9-250,Machine 0,,
+3875,227.47,9.0,Completed,Job 9-250,,,151.29273084961562
+3876,227.47,,Request Routing for Job,,Machine 0,17.0,
+3877,227.47,,Routing Start,,Machine 0,,3.675 Job 선택
+3878,227.47,9.0,Routing Finish,Job 9-294,Machine 0,,
+3879,227.47,9.0,Work Start,Job 9-294,Machine 0,,
+3880,228.08,9.0,Work Finish,Job 9-238,Machine 6,,
+3881,228.08,9.0,Completed,Job 9-238,,,158.77498423705813
+3882,228.08,,Request Routing for Job,,Machine 6,16.0,
+3883,228.08,,Routing Start,,Machine 6,,3.0250000000000004 Job 선택
+3884,228.08,9.0,Routing Finish,Job 9-297,Machine 6,,
+3885,228.08,9.0,Work Start,Job 9-297,Machine 6,,
+3886,228.5,9.0,Work Finish,Job 9-217,Machine 4,,
+3887,228.5,9.0,Completed,Job 9-217,,,160.70715863339132
+3888,228.5,,Request Routing for Job,,Machine 4,15.0,
+3889,228.5,,Routing Start,,Machine 4,,3.675 Job 선택
+3890,228.5,9.0,Routing Finish,Job 9-301,Machine 4,,
+3891,228.5,9.0,Work Start,Job 9-301,Machine 4,,
+3892,232.82,9.0,Work Finish,Job 9-294,Machine 0,,
+3893,232.82,9.0,Completed,Job 9-294,,,146.04936216326405
+3894,232.82,,Request Routing for Job,,Machine 0,14.0,
+3895,232.82,,Routing Start,,Machine 0,,3.675 Job 선택
+3896,232.82,9.0,Routing Finish,Job 9-317,Machine 0,,
+3897,232.82,9.0,Work Start,Job 9-317,Machine 0,,
+3898,235.46,9.0,Work Finish,Job 9-297,Machine 6,,
+3899,235.46,9.0,Completed,Job 9-297,,,147.64613686476628
+3900,235.46,,Request Routing for Job,,Machine 6,13.0,
+3901,235.46,,Routing Start,,Machine 6,,2.375 Job 선택
+3902,235.46,9.0,Routing Finish,Job 9-334,Machine 6,,
+3903,235.46,9.0,Work Start,Job 9-334,Machine 6,,
+3904,235.71,9.0,Work Finish,Job 9-292,Machine 2,,
+3905,235.71,9.0,Completed,Job 9-292,,,150.36924200505814
+3906,235.71,,Request Routing for Job,,Machine 2,12.0,
+3907,235.71,,Routing Start,,Machine 2,,3.675 Job 선택
+3908,235.71,9.0,Routing Finish,Job 9-336,Machine 2,,
+3909,235.71,9.0,Work Start,Job 9-336,Machine 2,,
+3910,236.52,9.0,Work Finish,Job 9-241,Machine 7,,
+3911,236.52,9.0,Completed,Job 9-241,,,164.7662472802314
+3912,236.52,,Request Routing for Job,,Machine 7,11.0,
+3913,236.52,,Routing Start,,Machine 7,,3.675 Job 선택
+3914,236.52,9.0,Routing Finish,Job 9-363,Machine 7,,
+3915,236.52,9.0,Work Start,Job 9-363,Machine 7,,
+3916,237.69,9.0,Work Finish,Job 9-301,Machine 4,,
+3917,237.69,9.0,Completed,Job 9-301,,,148.86540685445243
+3918,237.69,,Request Routing for Job,,Machine 4,10.0,
+3919,237.69,,Routing Start,,Machine 4,,3.675 Job 선택
+3920,237.69,9.0,Routing Finish,Job 9-390,Machine 4,,
+3921,237.69,9.0,Work Start,Job 9-390,Machine 4,,
+3922,238.17,9.0,Work Finish,Job 9-317,Machine 0,,
+3923,238.17,9.0,Completed,Job 9-317,,,147.66642171444173
+3924,238.17,,Request Routing for Job,,Machine 0,9.0,
+3925,238.17,,Routing Start,,Machine 0,,3.675 Job 선택
+3926,238.17,9.0,Routing Finish,Job 9-423,Machine 0,,
+3927,238.17,9.0,Work Start,Job 9-423,Machine 0,,
+3928,241.11,9.0,Work Finish,Job 9-256,Machine 5,,
+3929,241.11,9.0,Completed,Job 9-256,,,163.8467758156761
+3930,241.11,,Request Routing for Job,,Machine 5,8.0,
+3931,241.11,,Routing Start,,Machine 5,,2.375 Job 선택
+3932,241.11,9.0,Routing Finish,Job 9-433,Machine 5,,
+3933,241.11,9.0,Work Start,Job 9-433,Machine 5,,
+3934,242.84,9.0,Work Finish,Job 9-334,Machine 6,,
+3935,242.84,9.0,Completed,Job 9-334,,,151.24680858482742
+3936,242.84,,Request Routing for Job,,Machine 6,7.0,
+3937,242.84,,Routing Start,,Machine 6,,3.0250000000000004 Job 선택
+3938,242.84,9.0,Routing Finish,Job 9-443,Machine 6,,
+3939,242.84,9.0,Work Start,Job 9-443,Machine 6,,
+3940,243.51,9.0,Work Finish,Job 9-423,Machine 0,,
+3941,243.51,9.0,Completed,Job 9-423,,,143.12105087360527
+3942,243.51,,Request Routing for Job,,Machine 0,6.0,
+3943,243.51,,Routing Start,,Machine 0,,3.675 Job 선택
+3944,243.51,9.0,Routing Finish,Job 9-444,Machine 0,,
+3945,243.51,9.0,Work Start,Job 9-444,Machine 0,,
+3946,244.51,9.0,Work Finish,Job 9-270,Machine 3,,
+3947,244.51,9.0,Completed,Job 9-270,,,160.53607472481346
+3948,244.51,,Request Routing for Job,,Machine 3,5.0,
+3949,244.51,,Routing Start,,Machine 3,,3.675 Job 선택
+3950,244.51,9.0,Routing Finish,Job 9-449,Machine 3,,
+3951,244.51,9.0,Work Start,Job 9-449,Machine 3,,
+3952,244.9,9.0,Work Finish,Job 9-336,Machine 2,,
+3953,244.9,9.0,Completed,Job 9-336,,,152.1160944995426
+3954,244.9,,Request Routing for Job,,Machine 2,4.0,
+3955,244.9,,Routing Start,,Machine 2,,3.675 Job 선택
+3956,244.9,9.0,Routing Finish,Job 9-465,Machine 2,,
+3957,244.9,9.0,Work Start,Job 9-465,Machine 2,,
+3958,244.92,9.0,Work Finish,Job 9-264,Machine 1,,
+3959,244.92,9.0,Completed,Job 9-264,,,163.97537943461037
+3960,244.92,,Request Routing for Job,,Machine 1,3.0,
+3961,244.92,,Routing Start,,Machine 1,,4.0 Job 선택
+3962,244.92,9.0,Routing Finish,Job 9-470,Machine 1,,
+3963,244.92,9.0,Work Start,Job 9-470,Machine 1,,
+3964,246.87,9.0,Work Finish,Job 9-390,Machine 4,,
+3965,246.87,9.0,Completed,Job 9-390,,,148.6359031953266
+3966,246.87,,Request Routing for Job,,Machine 4,2.0,
+3967,246.87,,Routing Start,,Machine 4,,3.675 Job 선택
+3968,246.87,9.0,Routing Finish,Job 9-478,Machine 4,,
+3969,246.87,9.0,Work Start,Job 9-478,Machine 4,,
+3970,248.86,9.0,Work Finish,Job 9-444,Machine 0,,
+3971,248.86,9.0,Completed,Job 9-444,,,140.18089905855805
+3972,248.86,,Request Routing for Job,,Machine 0,1.0,
+3973,248.86,,Routing Start,,Machine 0,,3.675 Job 선택
+3974,248.86,9.0,Routing Finish,Job 9-488,Machine 0,,
+3975,248.86,9.0,Work Start,Job 9-488,Machine 0,,
+3976,250.21,9.0,Work Finish,Job 9-443,Machine 6,,
+3977,250.21,9.0,Completed,Job 9-443,,,145.29066033178904
+3978,251.97,9.0,Work Finish,Job 9-363,Machine 7,,
+3979,251.97,9.0,Completed,Job 9-363,,,155.66640532298743
+3980,254.09,9.0,Work Finish,Job 9-465,Machine 2,,
+3981,254.09,9.0,Completed,Job 9-465,,,139.23814914669776
+3982,254.21,9.0,Work Finish,Job 9-488,Machine 0,,
+3983,254.21,9.0,Completed,Job 9-488,,,130.5984548329978
+3984,256.06,9.0,Work Finish,Job 9-478,Machine 4,,
+3985,256.06,9.0,Completed,Job 9-478,,,135.085962399266
+3986,259.74,9.0,Work Finish,Job 9-433,Machine 5,,
+3987,259.74,9.0,Completed,Job 9-433,,,158.1592592772589
+3988,263.21,9.0,Work Finish,Job 9-449,Machine 3,,
+3989,263.21,9.0,Completed,Job 9-449,,,152.74047113927142
+3990,264.88,9.0,Work Finish,Job 9-470,Machine 1,,
+3991,264.88,9.0,Completed,Job 9-470,,,146.52454366567895
